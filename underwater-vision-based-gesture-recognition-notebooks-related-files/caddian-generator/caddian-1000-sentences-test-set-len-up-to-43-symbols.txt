@@ -1,0 +1,2003 @@
+
+Creating 1000 sentences in Caddian language
+
+Creating sentence 0 composed by 6 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here start_comm up 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm here end_comm
+Creating sentence 1 composed by 3 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm carry start_comm here end_comm
+Creating sentence 2 composed by 4 commands
+start_comm photo start_comm boat start_comm here start_comm photo end_comm
+Creating sentence 3 composed by 10 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm here start_comm here start_comm up 2 num_delimiter start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 4 composed by 2 commands
+start_comm here start_comm up 3 num_delimiter end_comm
+Creating sentence 5 composed by 6 commands
+start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm boat start_comm photo end_comm
+Creating sentence 6 composed by 7 commands
+start_comm here start_comm up 2 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm carry start_comm photo end_comm
+Creating sentence 7 composed by 5 commands
+start_comm here start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm carry start_comm photo start_comm here end_comm
+Creating sentence 8 composed by 6 commands
+start_comm carry start_comm here start_comm photo start_comm carry start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter end_comm
+Creating sentence 9 composed by 9 commands
+start_comm up 2 num_delimiter start_comm up 2 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm here start_comm here start_comm carry start_comm carry start_comm boat end_comm
+Creating sentence 10 composed by 4 commands
+start_comm carry start_comm boat start_comm up 3 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 11 composed by 5 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm carry end_comm
+Creating sentence 12 composed by 10 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm here start_comm boat start_comm boat start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 13 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 14 composed by 8 commands
+start_comm here start_comm up 2 num_delimiter start_comm up 3 num_delimiter start_comm up 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm up 3 num_delimiter start_comm boat end_comm
+Creating sentence 15 composed by 8 commands
+start_comm up 3 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm photo start_comm boat start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 16 composed by 2 commands
+start_comm boat start_comm carry end_comm
+Creating sentence 17 composed by 6 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter start_comm boat start_comm photo start_comm down 3 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 18 composed by 10 commands
+start_comm carry start_comm down 3 num_delimiter start_comm boat start_comm boat start_comm boat start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm boat start_comm boat start_comm boat end_comm
+Creating sentence 19 composed by 7 commands
+start_comm carry start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm photo start_comm here start_comm boat start_comm here start_comm up 3 num_delimiter end_comm
+Creating sentence 20 composed by 9 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry start_comm carry start_comm up 3 num_delimiter start_comm photo start_comm photo start_comm carry start_comm down 1 num_delimiter start_comm carry end_comm
+Creating sentence 21 composed by 2 commands
+start_comm photo start_comm carry end_comm
+Creating sentence 22 composed by 4 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 3 num_delimiter start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 23 composed by 7 commands
+start_comm boat start_comm up 3 num_delimiter start_comm here start_comm boat start_comm carry start_comm up 1 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 24 composed by 7 commands
+start_comm up 3 num_delimiter start_comm boat start_comm here start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm photo start_comm photo end_comm
+Creating sentence 25 composed by 9 commands
+start_comm up 3 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm down 1 num_delimiter start_comm up 2 num_delimiter start_comm carry start_comm boat start_comm photo start_comm boat end_comm
+Creating sentence 26 composed by 9 commands
+start_comm boat start_comm here start_comm photo start_comm up 2 num_delimiter start_comm carry start_comm carry start_comm boat start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm photo end_comm
+Creating sentence 27 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 28 composed by 9 commands
+start_comm down 3 num_delimiter start_comm here start_comm down 3 num_delimiter start_comm here start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm here start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm boat end_comm
+Creating sentence 29 composed by 2 commands
+start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 30 composed by 3 commands
+start_comm photo start_comm boat start_comm boat end_comm
+Creating sentence 31 composed by 8 commands
+start_comm up 3 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter start_comm photo start_comm here start_comm here start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm carry end_comm
+Creating sentence 32 composed by 5 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm here start_comm down 1 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 33 composed by 6 commands
+start_comm boat start_comm up 2 num_delimiter start_comm carry start_comm carry start_comm carry start_comm here end_comm
+Creating sentence 34 composed by 10 commands
+start_comm photo start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm boat start_comm boat start_comm down 1 num_delimiter end_comm
+Creating sentence 35 composed by 7 commands
+start_comm here start_comm boat start_comm boat start_comm carry start_comm here start_comm up 3 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 36 composed by 5 commands
+start_comm boat start_comm up 1 num_delimiter start_comm here start_comm down 2 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 37 composed by 1 commands
+start_comm down 1 num_delimiter end_comm
+Creating sentence 38 composed by 10 commands
+start_comm up 2 num_delimiter start_comm photo start_comm photo start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm here start_comm boat start_comm boat end_comm
+Creating sentence 39 composed by 9 commands
+start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm down 2 num_delimiter start_comm photo start_comm here start_comm carry start_comm photo start_comm up 2 num_delimiter end_comm
+Creating sentence 40 composed by 2 commands
+start_comm here start_comm up 2 num_delimiter end_comm
+Creating sentence 41 composed by 5 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm up 1 num_delimiter start_comm carry start_comm boat end_comm
+Creating sentence 42 composed by 10 commands
+start_comm here start_comm up 2 num_delimiter start_comm boat start_comm here start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm up 2 num_delimiter start_comm boat start_comm photo start_comm boat start_comm here end_comm
+Creating sentence 43 composed by 6 commands
+start_comm up 1 num_delimiter start_comm carry start_comm boat start_comm down 1 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo end_comm
+Creating sentence 44 composed by 5 commands
+start_comm boat start_comm up 3 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 45 composed by 10 commands
+start_comm boat start_comm carry start_comm down 1 num_delimiter start_comm boat start_comm photo start_comm down 2 num_delimiter start_comm boat start_comm boat start_comm photo start_comm down 2 num_delimiter end_comm
+Creating sentence 46 composed by 9 commands
+start_comm here start_comm boat start_comm down 1 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm boat start_comm here start_comm down 2 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 47 composed by 9 commands
+start_comm boat start_comm up 2 num_delimiter start_comm photo start_comm boat start_comm boat start_comm boat start_comm boat start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 48 composed by 10 commands
+start_comm carry start_comm photo start_comm photo start_comm here start_comm boat start_comm boat start_comm up 2 num_delimiter start_comm boat start_comm here start_comm carry end_comm
+Creating sentence 49 composed by 8 commands
+start_comm carry start_comm here start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm up 3 num_delimiter start_comm carry start_comm up 3 num_delimiter start_comm boat start_comm boat end_comm
+Creating sentence 50 composed by 6 commands
+start_comm photo start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm here start_comm boat start_comm up 2 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 51 composed by 9 commands
+start_comm here start_comm carry start_comm down 1 num_delimiter start_comm here start_comm carry start_comm down 3 num_delimiter start_comm photo start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 52 composed by 7 commands
+start_comm here start_comm carry start_comm up 1 num_delimiter start_comm boat start_comm up 3 num_delimiter start_comm boat start_comm boat end_comm
+Creating sentence 53 composed by 8 commands
+start_comm up 3 num_delimiter start_comm carry start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 3 num_delimiter start_comm down 3 num_delimiter start_comm down 1 num_delimiter start_comm photo end_comm
+Creating sentence 54 composed by 7 commands
+start_comm up 2 num_delimiter start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm here start_comm carry start_comm here end_comm
+Creating sentence 55 composed by 9 commands
+start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm boat start_comm photo start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm here start_comm photo start_comm boat start_comm boat end_comm
+Creating sentence 56 composed by 9 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm carry start_comm photo start_comm down 3 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm boat start_comm photo end_comm
+Creating sentence 57 composed by 8 commands
+start_comm down 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm carry start_comm boat start_comm carry start_comm boat start_comm up 1 num_delimiter end_comm
+Creating sentence 58 composed by 10 commands
+start_comm here start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm down 2 num_delimiter start_comm carry start_comm here start_comm photo start_comm up 1 num_delimiter start_comm boat start_comm up 2 num_delimiter end_comm
+Creating sentence 59 composed by 10 commands
+start_comm up 3 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm here end_comm
+Creating sentence 60 composed by 1 commands
+start_comm down 3 num_delimiter end_comm
+Creating sentence 61 composed by 8 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm up 3 num_delimiter start_comm boat start_comm down 3 num_delimiter start_comm here start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 62 composed by 10 commands
+start_comm boat start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm carry start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm carry start_comm down 1 num_delimiter start_comm up 1 num_delimiter start_comm carry end_comm
+Creating sentence 63 composed by 4 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter start_comm here start_comm up 3 num_delimiter end_comm
+Creating sentence 64 composed by 2 commands
+start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 65 composed by 10 commands
+start_comm up 3 num_delimiter start_comm photo start_comm photo start_comm up 3 num_delimiter start_comm photo start_comm down 2 num_delimiter start_comm carry start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry end_comm
+Creating sentence 66 composed by 8 commands
+start_comm up 1 num_delimiter start_comm here start_comm photo start_comm down 2 num_delimiter start_comm photo start_comm up 3 num_delimiter start_comm up 1 num_delimiter start_comm here end_comm
+Creating sentence 67 composed by 9 commands
+start_comm photo start_comm down 3 num_delimiter start_comm carry start_comm boat start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm carry start_comm boat end_comm
+Creating sentence 68 composed by 4 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm down 3 num_delimiter start_comm photo end_comm
+Creating sentence 69 composed by 6 commands
+start_comm photo start_comm up 3 num_delimiter start_comm carry start_comm here start_comm here start_comm here end_comm
+Creating sentence 70 composed by 3 commands
+start_comm boat start_comm here start_comm photo end_comm
+Creating sentence 71 composed by 4 commands
+start_comm carry start_comm boat start_comm photo start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 72 composed by 10 commands
+start_comm up 3 num_delimiter start_comm photo start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm boat start_comm photo start_comm here start_comm up 1 num_delimiter start_comm down 3 num_delimiter start_comm boat end_comm
+Creating sentence 73 composed by 3 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 74 composed by 7 commands
+start_comm carry start_comm photo start_comm up 2 num_delimiter start_comm carry start_comm down 1 num_delimiter start_comm carry start_comm boat end_comm
+Creating sentence 75 composed by 7 commands
+start_comm here start_comm up 2 num_delimiter start_comm photo start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm boat end_comm
+Creating sentence 76 composed by 10 commands
+start_comm boat start_comm down 3 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm carry start_comm down 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry start_comm boat start_comm boat end_comm
+Creating sentence 77 composed by 10 commands
+start_comm carry start_comm carry start_comm here start_comm down 3 num_delimiter start_comm up 3 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm photo start_comm boat start_comm carry end_comm
+Creating sentence 78 composed by 9 commands
+start_comm down 3 num_delimiter start_comm up 3 num_delimiter start_comm down 3 num_delimiter start_comm boat start_comm down 2 num_delimiter start_comm boat start_comm up 3 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm boat end_comm
+Creating sentence 79 composed by 9 commands
+start_comm here start_comm down 2 num_delimiter start_comm boat start_comm down 2 num_delimiter start_comm boat start_comm up 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 3 num_delimiter start_comm boat end_comm
+Creating sentence 80 composed by 2 commands
+start_comm down 1 num_delimiter start_comm here end_comm
+Creating sentence 81 composed by 5 commands
+start_comm up 3 num_delimiter start_comm boat start_comm down 1 num_delimiter start_comm carry start_comm mosaic 2 num_delimiter 1 num_delimiter end_comm
+Creating sentence 82 composed by 6 commands
+start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm up 1 num_delimiter start_comm up 2 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 83 composed by 8 commands
+start_comm photo start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm up 2 num_delimiter start_comm here start_comm photo start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 84 composed by 5 commands
+start_comm here start_comm here start_comm photo start_comm carry start_comm photo end_comm
+Creating sentence 85 composed by 8 commands
+start_comm here start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm here start_comm here start_comm photo end_comm
+Creating sentence 86 composed by 1 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 87 composed by 5 commands
+start_comm up 2 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm boat start_comm boat start_comm down 1 num_delimiter end_comm
+Creating sentence 88 composed by 6 commands
+start_comm here start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm up 3 num_delimiter start_comm carry end_comm
+Creating sentence 89 composed by 10 commands
+start_comm photo start_comm boat start_comm here start_comm boat start_comm here start_comm up 2 num_delimiter start_comm carry start_comm photo start_comm here start_comm photo end_comm
+Creating sentence 90 composed by 6 commands
+start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 91 composed by 9 commands
+start_comm photo start_comm down 2 num_delimiter start_comm photo start_comm boat start_comm up 2 num_delimiter start_comm here start_comm down 3 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm photo end_comm
+Creating sentence 92 composed by 5 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm up 1 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 93 composed by 6 commands
+start_comm photo start_comm up 3 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 94 composed by 8 commands
+start_comm down 2 num_delimiter start_comm up 3 num_delimiter start_comm carry start_comm boat start_comm carry start_comm down 2 num_delimiter start_comm down 3 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 95 composed by 7 commands
+start_comm up 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm photo start_comm down 1 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 96 composed by 10 commands
+start_comm boat start_comm down 3 num_delimiter start_comm up 1 num_delimiter start_comm carry start_comm carry start_comm here start_comm down 1 num_delimiter start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 97 composed by 2 commands
+start_comm boat start_comm here end_comm
+Creating sentence 98 composed by 5 commands
+start_comm down 1 num_delimiter start_comm boat start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm photo start_comm here end_comm
+Creating sentence 99 composed by 6 commands
+start_comm photo start_comm carry start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm up 1 num_delimiter end_comm
+Creating sentence 100 composed by 7 commands
+start_comm carry start_comm boat start_comm photo start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm boat start_comm down 1 num_delimiter end_comm
+Creating sentence 101 composed by 3 commands
+start_comm photo start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm boat end_comm
+Creating sentence 102 composed by 3 commands
+start_comm here start_comm down 2 num_delimiter start_comm boat end_comm
+Creating sentence 103 composed by 9 commands
+start_comm here start_comm photo start_comm up 1 num_delimiter start_comm carry start_comm boat start_comm here start_comm photo start_comm down 1 num_delimiter start_comm photo end_comm
+Creating sentence 104 composed by 3 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm up 3 num_delimiter end_comm
+Creating sentence 105 composed by 10 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm up 2 num_delimiter start_comm boat start_comm here start_comm here start_comm up 1 num_delimiter start_comm here start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here end_comm
+Creating sentence 106 composed by 6 commands
+start_comm here start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 107 composed by 6 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm here start_comm boat start_comm up 1 num_delimiter start_comm up 2 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 108 composed by 4 commands
+start_comm down 3 num_delimiter start_comm photo start_comm carry start_comm boat end_comm
+Creating sentence 109 composed by 2 commands
+start_comm here start_comm photo end_comm
+Creating sentence 110 composed by 7 commands
+start_comm here start_comm boat start_comm here start_comm down 1 num_delimiter start_comm down 1 num_delimiter start_comm carry start_comm up 1 num_delimiter end_comm
+Creating sentence 111 composed by 9 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here start_comm photo end_comm
+Creating sentence 112 composed by 2 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry end_comm
+Creating sentence 113 composed by 9 commands
+start_comm carry start_comm up 1 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm carry start_comm up 2 num_delimiter end_comm
+Creating sentence 114 composed by 2 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry end_comm
+Creating sentence 115 composed by 1 commands
+start_comm down 3 num_delimiter end_comm
+Creating sentence 116 composed by 9 commands
+start_comm boat start_comm here start_comm carry start_comm carry start_comm photo start_comm up 2 num_delimiter start_comm photo start_comm up 1 num_delimiter start_comm boat end_comm
+Creating sentence 117 composed by 3 commands
+start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry end_comm
+Creating sentence 118 composed by 5 commands
+start_comm photo start_comm up 3 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm up 3 num_delimiter start_comm carry end_comm
+Creating sentence 119 composed by 5 commands
+start_comm carry start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm here start_comm down 1 num_delimiter end_comm
+Creating sentence 120 composed by 8 commands
+start_comm down 2 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm photo start_comm photo start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 121 composed by 4 commands
+start_comm carry start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm here end_comm
+Creating sentence 122 composed by 6 commands
+start_comm here start_comm carry start_comm carry start_comm here start_comm carry start_comm here end_comm
+Creating sentence 123 composed by 4 commands
+start_comm here start_comm up 1 num_delimiter start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 124 composed by 5 commands
+start_comm here start_comm photo start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm photo start_comm here end_comm
+Creating sentence 125 composed by 9 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm boat start_comm boat start_comm up 3 num_delimiter start_comm photo start_comm photo start_comm up 2 num_delimiter end_comm
+Creating sentence 126 composed by 1 commands
+start_comm here end_comm
+Creating sentence 127 composed by 3 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm down 3 num_delimiter end_comm
+Creating sentence 128 composed by 2 commands
+start_comm here start_comm photo end_comm
+Creating sentence 129 composed by 4 commands
+start_comm carry start_comm carry start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm photo end_comm
+Creating sentence 130 composed by 6 commands
+start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm up 3 num_delimiter start_comm down 2 num_delimiter start_comm photo end_comm
+Creating sentence 131 composed by 3 commands
+start_comm carry start_comm carry start_comm boat end_comm
+Creating sentence 132 composed by 4 commands
+start_comm down 2 num_delimiter start_comm boat start_comm here start_comm photo end_comm
+Creating sentence 133 composed by 4 commands
+start_comm down 1 num_delimiter start_comm up 1 num_delimiter start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 134 composed by 4 commands
+start_comm photo start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm here end_comm
+Creating sentence 135 composed by 9 commands
+start_comm carry start_comm photo start_comm carry start_comm here start_comm down 1 num_delimiter start_comm down 1 num_delimiter start_comm photo start_comm boat start_comm down 2 num_delimiter end_comm
+Creating sentence 136 composed by 9 commands
+start_comm up 2 num_delimiter start_comm here start_comm here start_comm up 2 num_delimiter start_comm up 2 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here start_comm here end_comm
+Creating sentence 137 composed by 3 commands
+start_comm here start_comm boat start_comm boat end_comm
+Creating sentence 138 composed by 10 commands
+start_comm up 3 num_delimiter start_comm carry start_comm here start_comm photo start_comm up 3 num_delimiter start_comm up 1 num_delimiter start_comm boat start_comm here start_comm down 1 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 139 composed by 2 commands
+start_comm photo start_comm here end_comm
+Creating sentence 140 composed by 2 commands
+start_comm down 2 num_delimiter start_comm boat end_comm
+Creating sentence 141 composed by 4 commands
+start_comm boat start_comm boat start_comm down 1 num_delimiter start_comm carry end_comm
+Creating sentence 142 composed by 6 commands
+start_comm down 2 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm carry start_comm here start_comm here end_comm
+Creating sentence 143 composed by 7 commands
+start_comm here start_comm up 3 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm photo start_comm here start_comm up 1 num_delimiter end_comm
+Creating sentence 144 composed by 10 commands
+start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm carry start_comm up 3 num_delimiter start_comm photo start_comm here start_comm here start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm boat end_comm
+Creating sentence 145 composed by 4 commands
+start_comm up 1 num_delimiter start_comm photo start_comm down 3 num_delimiter start_comm carry end_comm
+Creating sentence 146 composed by 10 commands
+start_comm here start_comm photo start_comm up 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 2 num_delimiter start_comm here start_comm here start_comm down 2 num_delimiter start_comm boat start_comm here end_comm
+Creating sentence 147 composed by 10 commands
+start_comm here start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm boat start_comm down 2 num_delimiter start_comm carry start_comm photo start_comm photo start_comm here start_comm here end_comm
+Creating sentence 148 composed by 5 commands
+start_comm boat start_comm up 3 num_delimiter start_comm up 1 num_delimiter start_comm down 1 num_delimiter start_comm carry end_comm
+Creating sentence 149 composed by 6 commands
+start_comm carry start_comm down 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm here start_comm photo start_comm carry end_comm
+Creating sentence 150 composed by 5 commands
+start_comm photo start_comm up 3 num_delimiter start_comm boat start_comm carry start_comm here end_comm
+Creating sentence 151 composed by 6 commands
+start_comm here start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm photo start_comm here start_comm down 3 num_delimiter start_comm photo end_comm
+Creating sentence 152 composed by 5 commands
+start_comm here start_comm here start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm boat start_comm photo end_comm
+Creating sentence 153 composed by 3 commands
+start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm boat end_comm
+Creating sentence 154 composed by 9 commands
+start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm here start_comm boat start_comm here start_comm boat start_comm up 3 num_delimiter start_comm down 2 num_delimiter start_comm here end_comm
+Creating sentence 155 composed by 5 commands
+start_comm boat start_comm boat start_comm carry start_comm up 1 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 156 composed by 1 commands
+start_comm boat end_comm
+Creating sentence 157 composed by 8 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm here start_comm up 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 2 num_delimiter start_comm carry start_comm carry start_comm carry end_comm
+Creating sentence 158 composed by 7 commands
+start_comm carry start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm carry end_comm
+Creating sentence 159 composed by 9 commands
+start_comm carry start_comm here start_comm down 2 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm boat start_comm boat start_comm boat start_comm photo end_comm
+Creating sentence 160 composed by 8 commands
+start_comm up 3 num_delimiter start_comm photo start_comm carry start_comm up 3 num_delimiter start_comm photo start_comm down 2 num_delimiter start_comm down 3 num_delimiter start_comm photo end_comm
+Creating sentence 161 composed by 3 commands
+start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm boat end_comm
+Creating sentence 162 composed by 2 commands
+start_comm boat start_comm photo end_comm
+Creating sentence 163 composed by 4 commands
+start_comm here start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo end_comm
+Creating sentence 164 composed by 2 commands
+start_comm up 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 165 composed by 7 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm photo start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm here end_comm
+Creating sentence 166 composed by 4 commands
+start_comm boat start_comm carry start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry end_comm
+Creating sentence 167 composed by 3 commands
+start_comm carry start_comm up 3 num_delimiter start_comm boat end_comm
+Creating sentence 168 composed by 8 commands
+start_comm down 1 num_delimiter start_comm up 1 num_delimiter start_comm up 1 num_delimiter start_comm photo start_comm up 3 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm up 3 num_delimiter end_comm
+Creating sentence 169 composed by 3 commands
+start_comm up 1 num_delimiter start_comm boat start_comm carry end_comm
+Creating sentence 170 composed by 1 commands
+start_comm here end_comm
+Creating sentence 171 composed by 10 commands
+start_comm up 1 num_delimiter start_comm carry start_comm photo start_comm carry start_comm up 3 num_delimiter start_comm carry start_comm up 3 num_delimiter start_comm up 3 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 172 composed by 7 commands
+start_comm photo start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm photo start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm photo start_comm up 3 num_delimiter end_comm
+Creating sentence 173 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 174 composed by 4 commands
+start_comm up 2 num_delimiter start_comm down 3 num_delimiter start_comm boat start_comm up 1 num_delimiter end_comm
+Creating sentence 175 composed by 2 commands
+start_comm up 2 num_delimiter start_comm here end_comm
+Creating sentence 176 composed by 2 commands
+start_comm up 1 num_delimiter start_comm carry end_comm
+Creating sentence 177 composed by 2 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 178 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 179 composed by 7 commands
+start_comm here start_comm boat start_comm carry start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm up 2 num_delimiter start_comm photo end_comm
+Creating sentence 180 composed by 4 commands
+start_comm carry start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm boat start_comm boat end_comm
+Creating sentence 181 composed by 7 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm here start_comm up 2 num_delimiter start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 182 composed by 4 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm down 3 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 183 composed by 4 commands
+start_comm here start_comm here start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 184 composed by 7 commands
+start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter start_comm carry end_comm
+Creating sentence 185 composed by 6 commands
+start_comm carry start_comm here start_comm carry start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm carry end_comm
+Creating sentence 186 composed by 5 commands
+start_comm up 3 num_delimiter start_comm up 1 num_delimiter start_comm boat start_comm carry start_comm carry end_comm
+Creating sentence 187 composed by 8 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm here start_comm down 3 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 188 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 189 composed by 2 commands
+start_comm boat start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 190 composed by 3 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm up 1 num_delimiter end_comm
+Creating sentence 191 composed by 7 commands
+start_comm up 1 num_delimiter start_comm carry start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm boat start_comm photo start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm carry end_comm
+Creating sentence 192 composed by 2 commands
+start_comm photo start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 193 composed by 2 commands
+start_comm photo start_comm here end_comm
+Creating sentence 194 composed by 10 commands
+start_comm photo start_comm here start_comm up 3 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm carry start_comm down 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm boat end_comm
+Creating sentence 195 composed by 3 commands
+start_comm boat start_comm up 3 num_delimiter start_comm here end_comm
+Creating sentence 196 composed by 10 commands
+start_comm down 3 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm up 1 num_delimiter start_comm photo start_comm carry start_comm here end_comm
+Creating sentence 197 composed by 7 commands
+start_comm up 3 num_delimiter start_comm here start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm photo start_comm here start_comm photo start_comm carry end_comm
+Creating sentence 198 composed by 5 commands
+start_comm carry start_comm carry start_comm boat start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 199 composed by 2 commands
+start_comm here start_comm mosaic 2 num_delimiter 1 num_delimiter end_comm
+Creating sentence 200 composed by 4 commands
+start_comm photo start_comm boat start_comm photo start_comm here end_comm
+Creating sentence 201 composed by 9 commands
+start_comm boat start_comm here start_comm boat start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm boat start_comm boat start_comm carry start_comm up 1 num_delimiter end_comm
+Creating sentence 202 composed by 3 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 203 composed by 5 commands
+start_comm here start_comm photo start_comm down 1 num_delimiter start_comm carry start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 204 composed by 8 commands
+start_comm up 3 num_delimiter start_comm here start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm here start_comm up 2 num_delimiter start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 205 composed by 10 commands
+start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm up 3 num_delimiter start_comm photo start_comm photo start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter end_comm
+Creating sentence 206 composed by 9 commands
+start_comm carry start_comm carry start_comm photo start_comm boat start_comm up 1 num_delimiter start_comm carry start_comm up 3 num_delimiter start_comm here start_comm carry end_comm
+Creating sentence 207 composed by 6 commands
+start_comm photo start_comm boat start_comm up 1 num_delimiter start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter end_comm
+Creating sentence 208 composed by 6 commands
+start_comm here start_comm here start_comm up 2 num_delimiter start_comm down 2 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 209 composed by 1 commands
+start_comm here end_comm
+Creating sentence 210 composed by 3 commands
+start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 211 composed by 8 commands
+start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm here start_comm boat start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm boat start_comm here end_comm
+Creating sentence 212 composed by 1 commands
+start_comm down 3 num_delimiter end_comm
+Creating sentence 213 composed by 10 commands
+start_comm carry start_comm down 3 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm photo start_comm up 2 num_delimiter start_comm carry start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm carry end_comm
+Creating sentence 214 composed by 3 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter start_comm here end_comm
+Creating sentence 215 composed by 7 commands
+start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter start_comm boat start_comm carry end_comm
+Creating sentence 216 composed by 10 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm carry start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm boat start_comm down 2 num_delimiter end_comm
+Creating sentence 217 composed by 9 commands
+start_comm carry start_comm carry start_comm boat start_comm up 3 num_delimiter start_comm here start_comm down 2 num_delimiter start_comm boat start_comm carry start_comm up 2 num_delimiter end_comm
+Creating sentence 218 composed by 5 commands
+start_comm up 3 num_delimiter start_comm boat start_comm up 3 num_delimiter start_comm boat start_comm boat end_comm
+Creating sentence 219 composed by 10 commands
+start_comm up 1 num_delimiter start_comm here start_comm photo start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here start_comm up 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 2 num_delimiter start_comm down 2 num_delimiter start_comm here end_comm
+Creating sentence 220 composed by 7 commands
+start_comm here start_comm carry start_comm photo start_comm here start_comm boat start_comm down 2 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 221 composed by 10 commands
+start_comm down 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm carry start_comm carry start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter start_comm boat start_comm up 3 num_delimiter end_comm
+Creating sentence 222 composed by 5 commands
+start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter start_comm here start_comm carry end_comm
+Creating sentence 223 composed by 4 commands
+start_comm photo start_comm carry start_comm down 1 num_delimiter start_comm here end_comm
+Creating sentence 224 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 225 composed by 5 commands
+start_comm carry start_comm up 3 num_delimiter start_comm up 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm carry end_comm
+Creating sentence 226 composed by 2 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm here end_comm
+Creating sentence 227 composed by 3 commands
+start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 228 composed by 2 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry end_comm
+Creating sentence 229 composed by 3 commands
+start_comm down 3 num_delimiter start_comm photo start_comm boat end_comm
+Creating sentence 230 composed by 4 commands
+start_comm boat start_comm photo start_comm boat start_comm carry end_comm
+Creating sentence 231 composed by 5 commands
+start_comm up 3 num_delimiter start_comm carry start_comm boat start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 232 composed by 9 commands
+start_comm carry start_comm photo start_comm carry start_comm carry start_comm up 2 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm photo start_comm down 3 num_delimiter end_comm
+Creating sentence 233 composed by 9 commands
+start_comm photo start_comm down 3 num_delimiter start_comm photo start_comm down 3 num_delimiter start_comm carry start_comm down 1 num_delimiter start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm photo end_comm
+Creating sentence 234 composed by 5 commands
+start_comm photo start_comm down 3 num_delimiter start_comm boat start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 235 composed by 3 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm photo end_comm
+Creating sentence 236 composed by 8 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm carry start_comm down 1 num_delimiter start_comm photo start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry end_comm
+Creating sentence 237 composed by 5 commands
+start_comm photo start_comm here start_comm photo start_comm down 1 num_delimiter start_comm here end_comm
+Creating sentence 238 composed by 6 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm carry start_comm down 3 num_delimiter start_comm boat start_comm photo start_comm down 3 num_delimiter end_comm
+Creating sentence 239 composed by 3 commands
+start_comm carry start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 240 composed by 7 commands
+start_comm boat start_comm carry start_comm boat start_comm photo start_comm up 2 num_delimiter start_comm here start_comm carry end_comm
+Creating sentence 241 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 242 composed by 3 commands
+start_comm here start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter end_comm
+Creating sentence 243 composed by 9 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm here start_comm boat start_comm up 1 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 244 composed by 10 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm carry start_comm photo start_comm boat start_comm here start_comm here start_comm down 1 num_delimiter start_comm up 3 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter end_comm
+Creating sentence 245 composed by 4 commands
+start_comm here start_comm here start_comm down 2 num_delimiter start_comm photo end_comm
+Creating sentence 246 composed by 3 commands
+start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 247 composed by 10 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm photo start_comm here start_comm photo start_comm photo start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 3 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 248 composed by 7 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm carry start_comm photo start_comm photo start_comm down 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry end_comm
+Creating sentence 249 composed by 3 commands
+start_comm carry start_comm boat start_comm up 1 num_delimiter end_comm
+Creating sentence 250 composed by 2 commands
+start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 251 composed by 3 commands
+start_comm boat start_comm here start_comm down 3 num_delimiter end_comm
+Creating sentence 252 composed by 4 commands
+start_comm boat start_comm up 2 num_delimiter start_comm here start_comm photo end_comm
+Creating sentence 253 composed by 9 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm down 1 num_delimiter start_comm boat start_comm up 2 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry start_comm here start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm boat end_comm
+Creating sentence 254 composed by 9 commands
+start_comm photo start_comm boat start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm photo start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 255 composed by 4 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm here start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 256 composed by 10 commands
+start_comm photo start_comm up 3 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 3 num_delimiter start_comm down 3 num_delimiter start_comm boat start_comm down 2 num_delimiter start_comm boat start_comm carry end_comm
+Creating sentence 257 composed by 2 commands
+start_comm photo start_comm photo end_comm
+Creating sentence 258 composed by 9 commands
+start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm here start_comm carry start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm down 1 num_delimiter start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 259 composed by 6 commands
+start_comm up 1 num_delimiter start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm boat start_comm here start_comm here end_comm
+Creating sentence 260 composed by 9 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm boat start_comm up 1 num_delimiter start_comm up 3 num_delimiter start_comm boat start_comm carry start_comm photo start_comm photo end_comm
+Creating sentence 261 composed by 8 commands
+start_comm here start_comm here start_comm up 2 num_delimiter start_comm boat start_comm boat start_comm down 2 num_delimiter start_comm carry start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 262 composed by 5 commands
+start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm up 3 num_delimiter start_comm here start_comm here end_comm
+Creating sentence 263 composed by 10 commands
+start_comm here start_comm carry start_comm up 1 num_delimiter start_comm carry start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm boat start_comm carry end_comm
+Creating sentence 264 composed by 7 commands
+start_comm down 2 num_delimiter start_comm boat start_comm down 2 num_delimiter start_comm photo start_comm down 2 num_delimiter start_comm here start_comm up 3 num_delimiter end_comm
+Creating sentence 265 composed by 9 commands
+start_comm photo start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm here start_comm photo start_comm here start_comm boat start_comm here start_comm boat end_comm
+Creating sentence 266 composed by 6 commands
+start_comm up 1 num_delimiter start_comm photo start_comm photo start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 267 composed by 9 commands
+start_comm up 3 num_delimiter start_comm here start_comm down 1 num_delimiter start_comm photo start_comm here start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm carry start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm carry end_comm
+Creating sentence 268 composed by 9 commands
+start_comm down 2 num_delimiter start_comm photo start_comm up 3 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm here start_comm photo start_comm up 1 num_delimiter start_comm up 1 num_delimiter start_comm photo end_comm
+Creating sentence 269 composed by 3 commands
+start_comm up 2 num_delimiter start_comm up 3 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 270 composed by 4 commands
+start_comm carry start_comm up 3 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm down 2 num_delimiter end_comm
+Creating sentence 271 composed by 5 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm carry start_comm down 2 num_delimiter start_comm up 1 num_delimiter start_comm photo end_comm
+Creating sentence 272 composed by 8 commands
+start_comm boat start_comm up 2 num_delimiter start_comm here start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo start_comm boat start_comm up 1 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 273 composed by 1 commands
+start_comm up 1 num_delimiter end_comm
+Creating sentence 274 composed by 3 commands
+start_comm carry start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 275 composed by 1 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 276 composed by 5 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm boat start_comm photo start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 277 composed by 5 commands
+start_comm down 2 num_delimiter start_comm boat start_comm here start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry end_comm
+Creating sentence 278 composed by 3 commands
+start_comm up 1 num_delimiter start_comm carry start_comm up 2 num_delimiter end_comm
+Creating sentence 279 composed by 10 commands
+start_comm boat start_comm up 2 num_delimiter start_comm up 2 num_delimiter start_comm down 3 num_delimiter start_comm up 1 num_delimiter start_comm up 1 num_delimiter start_comm carry start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 280 composed by 5 commands
+start_comm down 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm carry start_comm down 2 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 281 composed by 7 commands
+start_comm carry start_comm up 1 num_delimiter start_comm carry start_comm photo start_comm carry start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter end_comm
+Creating sentence 282 composed by 10 commands
+start_comm down 3 num_delimiter start_comm carry start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm down 1 num_delimiter start_comm photo start_comm photo start_comm photo start_comm up 2 num_delimiter start_comm boat start_comm carry end_comm
+Creating sentence 283 composed by 2 commands
+start_comm photo start_comm up 2 num_delimiter end_comm
+Creating sentence 284 composed by 10 commands
+start_comm here start_comm photo start_comm down 2 num_delimiter start_comm photo start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm down 3 num_delimiter start_comm boat start_comm down 3 num_delimiter start_comm here start_comm here end_comm
+Creating sentence 285 composed by 9 commands
+start_comm boat start_comm carry start_comm up 3 num_delimiter start_comm boat start_comm up 2 num_delimiter start_comm here start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm boat end_comm
+Creating sentence 286 composed by 9 commands
+start_comm photo start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm up 1 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm here end_comm
+Creating sentence 287 composed by 7 commands
+start_comm photo start_comm here start_comm here start_comm up 2 num_delimiter start_comm photo start_comm here start_comm carry end_comm
+Creating sentence 288 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 289 composed by 5 commands
+start_comm boat start_comm carry start_comm carry start_comm up 2 num_delimiter start_comm carry end_comm
+Creating sentence 290 composed by 8 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm here start_comm here start_comm boat start_comm here start_comm up 3 num_delimiter start_comm here start_comm here end_comm
+Creating sentence 291 composed by 7 commands
+start_comm photo start_comm photo start_comm boat start_comm up 2 num_delimiter start_comm photo start_comm here start_comm boat end_comm
+Creating sentence 292 composed by 6 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm down 1 num_delimiter start_comm down 1 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm carry end_comm
+Creating sentence 293 composed by 8 commands
+start_comm down 2 num_delimiter start_comm up 3 num_delimiter start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm here start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm boat end_comm
+Creating sentence 294 composed by 5 commands
+start_comm carry start_comm up 3 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm photo end_comm
+Creating sentence 295 composed by 9 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter start_comm photo start_comm carry start_comm carry start_comm carry start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here end_comm
+Creating sentence 296 composed by 6 commands
+start_comm carry start_comm here start_comm here start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry end_comm
+Creating sentence 297 composed by 2 commands
+start_comm boat start_comm up 3 num_delimiter end_comm
+Creating sentence 298 composed by 2 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 299 composed by 5 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter start_comm photo start_comm photo start_comm carry end_comm
+Creating sentence 300 composed by 7 commands
+start_comm carry start_comm photo start_comm photo start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm boat end_comm
+Creating sentence 301 composed by 6 commands
+start_comm down 2 num_delimiter start_comm boat start_comm here start_comm photo start_comm carry start_comm down 1 num_delimiter end_comm
+Creating sentence 302 composed by 2 commands
+start_comm boat start_comm up 1 num_delimiter end_comm
+Creating sentence 303 composed by 10 commands
+start_comm down 1 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm carry start_comm photo start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 304 composed by 4 commands
+start_comm boat start_comm carry start_comm here start_comm here end_comm
+Creating sentence 305 composed by 10 commands
+start_comm down 3 num_delimiter start_comm carry start_comm down 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm boat start_comm up 3 num_delimiter start_comm photo start_comm here start_comm up 2 num_delimiter end_comm
+Creating sentence 306 composed by 6 commands
+start_comm up 2 num_delimiter start_comm carry start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm photo end_comm
+Creating sentence 307 composed by 7 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm boat start_comm boat start_comm up 3 num_delimiter start_comm photo start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm carry end_comm
+Creating sentence 308 composed by 1 commands
+start_comm down 3 num_delimiter end_comm
+Creating sentence 309 composed by 8 commands
+start_comm boat start_comm carry start_comm here start_comm down 1 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm photo start_comm photo end_comm
+Creating sentence 310 composed by 9 commands
+start_comm up 2 num_delimiter start_comm up 1 num_delimiter start_comm here start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm up 2 num_delimiter start_comm here start_comm boat start_comm boat end_comm
+Creating sentence 311 composed by 3 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 3 num_delimiter start_comm down 2 num_delimiter end_comm
+Creating sentence 312 composed by 8 commands
+start_comm carry start_comm boat start_comm carry start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm up 3 num_delimiter start_comm photo start_comm boat start_comm boat end_comm
+Creating sentence 313 composed by 10 commands
+start_comm photo start_comm photo start_comm carry start_comm boat start_comm down 3 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm down 1 num_delimiter start_comm carry start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 314 composed by 7 commands
+start_comm down 1 num_delimiter start_comm carry start_comm up 2 num_delimiter start_comm down 2 num_delimiter start_comm photo start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 315 composed by 3 commands
+start_comm carry start_comm carry start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 316 composed by 7 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm down 1 num_delimiter start_comm photo start_comm up 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 317 composed by 8 commands
+start_comm up 1 num_delimiter start_comm carry start_comm here start_comm photo start_comm down 1 num_delimiter start_comm up 2 num_delimiter start_comm carry start_comm photo end_comm
+Creating sentence 318 composed by 7 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter start_comm here start_comm down 3 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm boat end_comm
+Creating sentence 319 composed by 8 commands
+start_comm boat start_comm here start_comm photo start_comm up 3 num_delimiter start_comm boat start_comm down 1 num_delimiter start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 320 composed by 3 commands
+start_comm down 2 num_delimiter start_comm boat start_comm up 2 num_delimiter end_comm
+Creating sentence 321 composed by 7 commands
+start_comm up 3 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter start_comm boat start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 322 composed by 9 commands
+start_comm up 1 num_delimiter start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm down 3 num_delimiter start_comm here start_comm boat end_comm
+Creating sentence 323 composed by 8 commands
+start_comm photo start_comm down 1 num_delimiter start_comm carry start_comm photo start_comm up 2 num_delimiter start_comm up 1 num_delimiter start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 324 composed by 8 commands
+start_comm carry start_comm carry start_comm down 2 num_delimiter start_comm here start_comm up 1 num_delimiter start_comm down 1 num_delimiter start_comm photo start_comm here end_comm
+Creating sentence 325 composed by 9 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm carry start_comm boat start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm photo start_comm carry start_comm up 2 num_delimiter end_comm
+Creating sentence 326 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 327 composed by 1 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 328 composed by 1 commands
+start_comm here end_comm
+Creating sentence 329 composed by 4 commands
+start_comm boat start_comm photo start_comm photo start_comm here end_comm
+Creating sentence 330 composed by 7 commands
+start_comm boat start_comm up 3 num_delimiter start_comm up 3 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo end_comm
+Creating sentence 331 composed by 9 commands
+start_comm photo start_comm up 2 num_delimiter start_comm down 2 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm photo start_comm carry start_comm photo start_comm up 2 num_delimiter end_comm
+Creating sentence 332 composed by 5 commands
+start_comm down 3 num_delimiter start_comm here start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm carry end_comm
+Creating sentence 333 composed by 6 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 3 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm down 2 num_delimiter start_comm carry end_comm
+Creating sentence 334 composed by 2 commands
+start_comm down 3 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 335 composed by 6 commands
+start_comm down 2 num_delimiter start_comm up 3 num_delimiter start_comm carry start_comm photo start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm boat end_comm
+Creating sentence 336 composed by 7 commands
+start_comm boat start_comm down 3 num_delimiter start_comm down 3 num_delimiter start_comm carry start_comm down 1 num_delimiter start_comm up 2 num_delimiter start_comm carry end_comm
+Creating sentence 337 composed by 1 commands
+start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 338 composed by 6 commands
+start_comm carry start_comm up 1 num_delimiter start_comm boat start_comm photo start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 339 composed by 6 commands
+start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm photo start_comm photo end_comm
+Creating sentence 340 composed by 6 commands
+start_comm down 2 num_delimiter start_comm boat start_comm boat start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 341 composed by 7 commands
+start_comm here start_comm up 2 num_delimiter start_comm boat start_comm here start_comm here start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 342 composed by 6 commands
+start_comm boat start_comm photo start_comm up 3 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 343 composed by 4 commands
+start_comm here start_comm here start_comm here start_comm here end_comm
+Creating sentence 344 composed by 4 commands
+start_comm photo start_comm carry start_comm photo start_comm here end_comm
+Creating sentence 345 composed by 4 commands
+start_comm down 1 num_delimiter start_comm boat start_comm photo start_comm here end_comm
+Creating sentence 346 composed by 8 commands
+start_comm boat start_comm down 3 num_delimiter start_comm carry start_comm carry start_comm here start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm photo end_comm
+Creating sentence 347 composed by 1 commands
+start_comm up 3 num_delimiter end_comm
+Creating sentence 348 composed by 2 commands
+start_comm here start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 349 composed by 4 commands
+start_comm carry start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm boat end_comm
+Creating sentence 350 composed by 9 commands
+start_comm carry start_comm boat start_comm photo start_comm up 2 num_delimiter start_comm boat start_comm up 1 num_delimiter start_comm boat start_comm down 1 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 351 composed by 2 commands
+start_comm up 1 num_delimiter start_comm boat end_comm
+Creating sentence 352 composed by 2 commands
+start_comm boat start_comm boat end_comm
+Creating sentence 353 composed by 8 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm down 3 num_delimiter start_comm up 3 num_delimiter start_comm up 3 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter end_comm
+Creating sentence 354 composed by 3 commands
+start_comm here start_comm here start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 355 composed by 3 commands
+start_comm carry start_comm here start_comm boat end_comm
+Creating sentence 356 composed by 9 commands
+start_comm down 2 num_delimiter start_comm here start_comm up 3 num_delimiter start_comm photo start_comm here start_comm photo start_comm down 1 num_delimiter start_comm carry start_comm photo end_comm
+Creating sentence 357 composed by 9 commands
+start_comm up 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm boat start_comm boat start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm photo start_comm photo start_comm boat end_comm
+Creating sentence 358 composed by 1 commands
+start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 359 composed by 9 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm photo start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm carry start_comm down 2 num_delimiter start_comm down 1 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 360 composed by 8 commands
+start_comm photo start_comm boat start_comm boat start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm here end_comm
+Creating sentence 361 composed by 5 commands
+start_comm photo start_comm carry start_comm down 1 num_delimiter start_comm boat start_comm here end_comm
+Creating sentence 362 composed by 1 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 363 composed by 1 commands
+start_comm boat end_comm
+Creating sentence 364 composed by 9 commands
+start_comm up 2 num_delimiter start_comm carry start_comm up 1 num_delimiter start_comm photo start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat end_comm
+Creating sentence 365 composed by 3 commands
+start_comm photo start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 366 composed by 9 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter start_comm boat start_comm up 1 num_delimiter start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm up 1 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 367 composed by 8 commands
+start_comm boat start_comm carry start_comm boat start_comm photo start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm down 2 num_delimiter end_comm
+Creating sentence 368 composed by 7 commands
+start_comm carry start_comm here start_comm carry start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm photo start_comm here end_comm
+Creating sentence 369 composed by 2 commands
+start_comm boat start_comm here end_comm
+Creating sentence 370 composed by 4 commands
+start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat end_comm
+Creating sentence 371 composed by 4 commands
+start_comm up 1 num_delimiter start_comm here start_comm photo start_comm down 2 num_delimiter end_comm
+Creating sentence 372 composed by 10 commands
+start_comm boat start_comm here start_comm carry start_comm down 1 num_delimiter start_comm photo start_comm here start_comm carry start_comm photo start_comm here start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 373 composed by 6 commands
+start_comm down 1 num_delimiter start_comm boat start_comm up 1 num_delimiter start_comm photo start_comm up 2 num_delimiter start_comm photo end_comm
+Creating sentence 374 composed by 3 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo start_comm mosaic 2 num_delimiter 1 num_delimiter end_comm
+Creating sentence 375 composed by 3 commands
+start_comm here start_comm down 1 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 376 composed by 4 commands
+start_comm up 3 num_delimiter start_comm here start_comm up 2 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 377 composed by 1 commands
+start_comm down 3 num_delimiter end_comm
+Creating sentence 378 composed by 5 commands
+start_comm down 2 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm here start_comm down 1 num_delimiter end_comm
+Creating sentence 379 composed by 7 commands
+start_comm here start_comm down 3 num_delimiter start_comm photo start_comm down 3 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry start_comm here end_comm
+Creating sentence 380 composed by 7 commands
+start_comm boat start_comm boat start_comm photo start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm here start_comm up 2 num_delimiter end_comm
+Creating sentence 381 composed by 1 commands
+start_comm here end_comm
+Creating sentence 382 composed by 3 commands
+start_comm here start_comm boat start_comm photo end_comm
+Creating sentence 383 composed by 8 commands
+start_comm carry start_comm up 2 num_delimiter start_comm carry start_comm here start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm boat start_comm up 2 num_delimiter end_comm
+Creating sentence 384 composed by 3 commands
+start_comm photo start_comm carry start_comm down 2 num_delimiter end_comm
+Creating sentence 385 composed by 5 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm photo start_comm here start_comm photo end_comm
+Creating sentence 386 composed by 9 commands
+start_comm photo start_comm carry start_comm down 1 num_delimiter start_comm down 3 num_delimiter start_comm up 3 num_delimiter start_comm photo start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 387 composed by 10 commands
+start_comm carry start_comm photo start_comm photo start_comm up 2 num_delimiter start_comm carry start_comm photo start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm here start_comm up 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 388 composed by 1 commands
+start_comm boat end_comm
+Creating sentence 389 composed by 3 commands
+start_comm photo start_comm photo start_comm up 1 num_delimiter end_comm
+Creating sentence 390 composed by 6 commands
+start_comm up 2 num_delimiter start_comm up 3 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry start_comm boat start_comm up 2 num_delimiter end_comm
+Creating sentence 391 composed by 5 commands
+start_comm carry start_comm carry start_comm carry start_comm up 3 num_delimiter start_comm here end_comm
+Creating sentence 392 composed by 10 commands
+start_comm boat start_comm boat start_comm carry start_comm up 3 num_delimiter start_comm up 2 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm carry start_comm carry start_comm here end_comm
+Creating sentence 393 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 394 composed by 5 commands
+start_comm here start_comm boat start_comm down 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 395 composed by 4 commands
+start_comm down 2 num_delimiter start_comm carry start_comm boat start_comm boat end_comm
+Creating sentence 396 composed by 1 commands
+start_comm up 1 num_delimiter end_comm
+Creating sentence 397 composed by 9 commands
+start_comm photo start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 2 num_delimiter start_comm boat start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm photo start_comm photo start_comm carry end_comm
+Creating sentence 398 composed by 10 commands
+start_comm carry start_comm down 1 num_delimiter start_comm boat start_comm boat start_comm carry start_comm down 2 num_delimiter start_comm boat start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm boat end_comm
+Creating sentence 399 composed by 1 commands
+start_comm boat end_comm
+Creating sentence 400 composed by 10 commands
+start_comm down 2 num_delimiter start_comm carry start_comm carry start_comm boat start_comm up 1 num_delimiter start_comm down 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm carry start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry end_comm
+Creating sentence 401 composed by 3 commands
+start_comm here start_comm photo start_comm carry end_comm
+Creating sentence 402 composed by 5 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm here end_comm
+Creating sentence 403 composed by 6 commands
+start_comm here start_comm here start_comm boat start_comm carry start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 404 composed by 6 commands
+start_comm here start_comm boat start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm here start_comm here start_comm here end_comm
+Creating sentence 405 composed by 4 commands
+start_comm photo start_comm down 3 num_delimiter start_comm here start_comm up 2 num_delimiter end_comm
+Creating sentence 406 composed by 9 commands
+start_comm up 1 num_delimiter start_comm down 3 num_delimiter start_comm here start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm carry start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 407 composed by 10 commands
+start_comm photo start_comm boat start_comm down 2 num_delimiter start_comm boat start_comm carry start_comm here start_comm carry start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm up 1 num_delimiter start_comm photo end_comm
+Creating sentence 408 composed by 5 commands
+start_comm boat start_comm photo start_comm up 2 num_delimiter start_comm carry start_comm carry end_comm
+Creating sentence 409 composed by 7 commands
+start_comm carry start_comm carry start_comm down 1 num_delimiter start_comm photo start_comm here start_comm carry start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 410 composed by 10 commands
+start_comm down 1 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm up 3 num_delimiter start_comm boat start_comm boat start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry end_comm
+Creating sentence 411 composed by 6 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm up 1 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 412 composed by 7 commands
+start_comm photo start_comm here start_comm boat start_comm up 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo start_comm photo end_comm
+Creating sentence 413 composed by 10 commands
+start_comm down 2 num_delimiter start_comm here start_comm carry start_comm carry start_comm here start_comm up 2 num_delimiter start_comm down 2 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm carry end_comm
+Creating sentence 414 composed by 2 commands
+start_comm carry start_comm photo end_comm
+Creating sentence 415 composed by 6 commands
+start_comm carry start_comm here start_comm carry start_comm boat start_comm up 1 num_delimiter start_comm boat end_comm
+Creating sentence 416 composed by 9 commands
+start_comm up 3 num_delimiter start_comm here start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm boat start_comm here start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter end_comm
+Creating sentence 417 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 418 composed by 8 commands
+start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm photo start_comm down 1 num_delimiter start_comm here end_comm
+Creating sentence 419 composed by 1 commands
+start_comm here end_comm
+Creating sentence 420 composed by 5 commands
+start_comm carry start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm boat start_comm boat end_comm
+Creating sentence 421 composed by 7 commands
+start_comm down 2 num_delimiter start_comm up 3 num_delimiter start_comm up 3 num_delimiter start_comm down 3 num_delimiter start_comm carry start_comm up 2 num_delimiter start_comm boat end_comm
+Creating sentence 422 composed by 8 commands
+start_comm carry start_comm down 2 num_delimiter start_comm photo start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 423 composed by 5 commands
+start_comm down 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm boat start_comm carry end_comm
+Creating sentence 424 composed by 10 commands
+start_comm carry start_comm carry start_comm up 1 num_delimiter start_comm up 3 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm photo start_comm here start_comm boat start_comm boat end_comm
+Creating sentence 425 composed by 6 commands
+start_comm carry start_comm up 1 num_delimiter start_comm up 3 num_delimiter start_comm up 1 num_delimiter start_comm photo start_comm boat end_comm
+Creating sentence 426 composed by 7 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm here start_comm carry start_comm down 1 num_delimiter start_comm down 1 num_delimiter start_comm boat end_comm
+Creating sentence 427 composed by 6 commands
+start_comm down 3 num_delimiter start_comm carry start_comm here start_comm down 3 num_delimiter start_comm photo start_comm photo end_comm
+Creating sentence 428 composed by 8 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter start_comm boat start_comm here start_comm boat start_comm down 1 num_delimiter start_comm here start_comm boat end_comm
+Creating sentence 429 composed by 6 commands
+start_comm photo start_comm boat start_comm up 2 num_delimiter start_comm carry start_comm here start_comm boat end_comm
+Creating sentence 430 composed by 3 commands
+start_comm photo start_comm up 3 num_delimiter start_comm photo end_comm
+Creating sentence 431 composed by 9 commands
+start_comm carry start_comm carry start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm here start_comm carry start_comm here start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 432 composed by 9 commands
+start_comm boat start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 433 composed by 3 commands
+start_comm boat start_comm carry start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 434 composed by 8 commands
+start_comm photo start_comm here start_comm carry start_comm photo start_comm here start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo start_comm photo end_comm
+Creating sentence 435 composed by 5 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm here start_comm boat start_comm photo end_comm
+Creating sentence 436 composed by 1 commands
+start_comm up 2 num_delimiter end_comm
+Creating sentence 437 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 438 composed by 9 commands
+start_comm carry start_comm photo start_comm up 1 num_delimiter start_comm carry start_comm down 1 num_delimiter start_comm here start_comm boat start_comm down 3 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 439 composed by 9 commands
+start_comm down 3 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm carry start_comm photo start_comm here start_comm boat start_comm down 2 num_delimiter start_comm photo end_comm
+Creating sentence 440 composed by 10 commands
+start_comm boat start_comm boat start_comm up 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm carry start_comm here start_comm boat start_comm up 2 num_delimiter start_comm boat start_comm up 2 num_delimiter end_comm
+Creating sentence 441 composed by 10 commands
+start_comm carry start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm boat start_comm boat start_comm carry start_comm photo start_comm down 1 num_delimiter start_comm photo start_comm carry start_comm up 3 num_delimiter end_comm
+Creating sentence 442 composed by 3 commands
+start_comm photo start_comm photo start_comm photo end_comm
+Creating sentence 443 composed by 8 commands
+start_comm boat start_comm here start_comm photo start_comm down 3 num_delimiter start_comm boat start_comm photo start_comm up 3 num_delimiter start_comm here end_comm
+Creating sentence 444 composed by 1 commands
+start_comm up 3 num_delimiter end_comm
+Creating sentence 445 composed by 10 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm up 3 num_delimiter start_comm carry start_comm photo start_comm here start_comm up 3 num_delimiter start_comm here start_comm boat start_comm up 3 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 446 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 447 composed by 7 commands
+start_comm boat start_comm down 3 num_delimiter start_comm down 1 num_delimiter start_comm carry start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 448 composed by 1 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 449 composed by 5 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 450 composed by 4 commands
+start_comm up 2 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm down 3 num_delimiter end_comm
+Creating sentence 451 composed by 4 commands
+start_comm here start_comm up 2 num_delimiter start_comm boat start_comm photo end_comm
+Creating sentence 452 composed by 4 commands
+start_comm boat start_comm carry start_comm up 1 num_delimiter start_comm photo end_comm
+Creating sentence 453 composed by 4 commands
+start_comm up 2 num_delimiter start_comm carry start_comm down 3 num_delimiter start_comm boat end_comm
+Creating sentence 454 composed by 7 commands
+start_comm photo start_comm down 2 num_delimiter start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm boat start_comm carry end_comm
+Creating sentence 455 composed by 10 commands
+start_comm boat start_comm boat start_comm photo start_comm boat start_comm here start_comm here start_comm photo start_comm here start_comm here start_comm boat end_comm
+Creating sentence 456 composed by 9 commands
+start_comm boat start_comm up 2 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm up 1 num_delimiter start_comm photo start_comm down 2 num_delimiter start_comm carry end_comm
+Creating sentence 457 composed by 10 commands
+start_comm here start_comm down 2 num_delimiter start_comm boat start_comm photo start_comm up 1 num_delimiter start_comm carry start_comm photo start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm here start_comm up 3 num_delimiter end_comm
+Creating sentence 458 composed by 5 commands
+start_comm down 3 num_delimiter start_comm here start_comm photo start_comm here start_comm boat end_comm
+Creating sentence 459 composed by 7 commands
+start_comm photo start_comm here start_comm up 2 num_delimiter start_comm boat start_comm photo start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 460 composed by 8 commands
+start_comm photo start_comm down 3 num_delimiter start_comm down 3 num_delimiter start_comm carry start_comm up 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 1 num_delimiter start_comm boat end_comm
+Creating sentence 461 composed by 10 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm here start_comm boat start_comm carry start_comm up 2 num_delimiter start_comm here start_comm photo start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 462 composed by 9 commands
+start_comm up 3 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm up 3 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 3 num_delimiter start_comm down 3 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here end_comm
+Creating sentence 463 composed by 6 commands
+start_comm up 2 num_delimiter start_comm carry start_comm here start_comm up 2 num_delimiter start_comm boat start_comm up 1 num_delimiter end_comm
+Creating sentence 464 composed by 7 commands
+start_comm here start_comm photo start_comm photo start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 465 composed by 10 commands
+start_comm up 3 num_delimiter start_comm up 3 num_delimiter start_comm boat start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm here start_comm down 2 num_delimiter start_comm carry start_comm carry start_comm boat end_comm
+Creating sentence 466 composed by 8 commands
+start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm photo start_comm down 2 num_delimiter start_comm down 3 num_delimiter start_comm carry end_comm
+Creating sentence 467 composed by 4 commands
+start_comm here start_comm photo start_comm down 1 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 468 composed by 9 commands
+start_comm carry start_comm down 3 num_delimiter start_comm boat start_comm carry start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm photo end_comm
+Creating sentence 469 composed by 6 commands
+start_comm boat start_comm up 3 num_delimiter start_comm photo start_comm carry start_comm boat start_comm up 2 num_delimiter end_comm
+Creating sentence 470 composed by 7 commands
+start_comm boat start_comm boat start_comm boat start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm photo end_comm
+Creating sentence 471 composed by 1 commands
+start_comm here end_comm
+Creating sentence 472 composed by 6 commands
+start_comm down 2 num_delimiter start_comm photo start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 473 composed by 10 commands
+start_comm up 2 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter start_comm here start_comm photo start_comm here start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm boat start_comm photo start_comm up 2 num_delimiter end_comm
+Creating sentence 474 composed by 10 commands
+start_comm photo start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm boat start_comm up 2 num_delimiter start_comm here start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 475 composed by 8 commands
+start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm up 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm carry start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 476 composed by 7 commands
+start_comm carry start_comm photo start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm here start_comm here start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm here end_comm
+Creating sentence 477 composed by 5 commands
+start_comm here start_comm down 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 478 composed by 3 commands
+start_comm carry start_comm boat start_comm down 2 num_delimiter end_comm
+Creating sentence 479 composed by 1 commands
+start_comm up 2 num_delimiter end_comm
+Creating sentence 480 composed by 6 commands
+start_comm up 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 481 composed by 3 commands
+start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 2 num_delimiter end_comm
+Creating sentence 482 composed by 9 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm carry start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm photo start_comm photo start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 483 composed by 7 commands
+start_comm boat start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm up 3 num_delimiter start_comm boat start_comm here start_comm photo end_comm
+Creating sentence 484 composed by 7 commands
+start_comm carry start_comm carry start_comm down 2 num_delimiter start_comm boat start_comm photo start_comm boat start_comm boat end_comm
+Creating sentence 485 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 486 composed by 9 commands
+start_comm photo start_comm up 2 num_delimiter start_comm up 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm photo start_comm photo start_comm here end_comm
+Creating sentence 487 composed by 3 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm up 3 num_delimiter start_comm here end_comm
+Creating sentence 488 composed by 4 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat end_comm
+Creating sentence 489 composed by 1 commands
+start_comm down 3 num_delimiter end_comm
+Creating sentence 490 composed by 7 commands
+start_comm here start_comm boat start_comm down 1 num_delimiter start_comm boat start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm boat end_comm
+Creating sentence 491 composed by 6 commands
+start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm up 3 num_delimiter start_comm down 3 num_delimiter start_comm carry end_comm
+Creating sentence 492 composed by 7 commands
+start_comm carry start_comm boat start_comm boat start_comm photo start_comm photo start_comm up 3 num_delimiter start_comm boat end_comm
+Creating sentence 493 composed by 3 commands
+start_comm up 1 num_delimiter start_comm carry start_comm up 3 num_delimiter end_comm
+Creating sentence 494 composed by 1 commands
+start_comm here end_comm
+Creating sentence 495 composed by 10 commands
+start_comm carry start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm photo start_comm photo start_comm photo start_comm down 3 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 496 composed by 10 commands
+start_comm photo start_comm boat start_comm up 3 num_delimiter start_comm up 3 num_delimiter start_comm boat start_comm carry start_comm carry start_comm photo start_comm photo start_comm here end_comm
+Creating sentence 497 composed by 3 commands
+start_comm boat start_comm down 2 num_delimiter start_comm photo end_comm
+Creating sentence 498 composed by 7 commands
+start_comm here start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm down 1 num_delimiter start_comm photo start_comm here start_comm here end_comm
+Creating sentence 499 composed by 3 commands
+start_comm photo start_comm carry start_comm here end_comm
+Creating sentence 500 composed by 5 commands
+start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat end_comm
+Creating sentence 501 composed by 7 commands
+start_comm down 1 num_delimiter start_comm carry start_comm carry start_comm carry start_comm boat start_comm carry start_comm boat end_comm
+Creating sentence 502 composed by 6 commands
+start_comm here start_comm boat start_comm photo start_comm carry start_comm up 1 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 503 composed by 9 commands
+start_comm here start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm down 2 num_delimiter start_comm boat start_comm down 3 num_delimiter start_comm photo start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 504 composed by 1 commands
+start_comm here end_comm
+Creating sentence 505 composed by 4 commands
+start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm carry end_comm
+Creating sentence 506 composed by 3 commands
+start_comm here start_comm down 1 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 507 composed by 7 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm here start_comm photo start_comm up 2 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry end_comm
+Creating sentence 508 composed by 6 commands
+start_comm up 1 num_delimiter start_comm here start_comm up 3 num_delimiter start_comm boat start_comm photo start_comm up 2 num_delimiter end_comm
+Creating sentence 509 composed by 6 commands
+start_comm photo start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry start_comm down 3 num_delimiter start_comm photo end_comm
+Creating sentence 510 composed by 3 commands
+start_comm here start_comm up 1 num_delimiter start_comm carry end_comm
+Creating sentence 511 composed by 1 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 512 composed by 3 commands
+start_comm photo start_comm photo start_comm photo end_comm
+Creating sentence 513 composed by 8 commands
+start_comm up 2 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm photo start_comm here start_comm here start_comm down 3 num_delimiter end_comm
+Creating sentence 514 composed by 10 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 3 num_delimiter start_comm here start_comm up 3 num_delimiter start_comm here start_comm boat start_comm carry start_comm down 1 num_delimiter start_comm up 2 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 515 composed by 5 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm photo start_comm carry start_comm boat end_comm
+Creating sentence 516 composed by 3 commands
+start_comm down 3 num_delimiter start_comm carry start_comm photo end_comm
+Creating sentence 517 composed by 3 commands
+start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm photo end_comm
+Creating sentence 518 composed by 4 commands
+start_comm carry start_comm up 1 num_delimiter start_comm down 3 num_delimiter start_comm down 2 num_delimiter end_comm
+Creating sentence 519 composed by 6 commands
+start_comm boat start_comm up 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm up 3 num_delimiter end_comm
+Creating sentence 520 composed by 8 commands
+start_comm carry start_comm photo start_comm photo start_comm here start_comm carry start_comm here start_comm here start_comm photo end_comm
+Creating sentence 521 composed by 1 commands
+start_comm boat end_comm
+Creating sentence 522 composed by 4 commands
+start_comm photo start_comm boat start_comm up 2 num_delimiter start_comm here end_comm
+Creating sentence 523 composed by 9 commands
+start_comm boat start_comm boat start_comm photo start_comm down 3 num_delimiter start_comm here start_comm up 3 num_delimiter start_comm here start_comm here start_comm photo end_comm
+Creating sentence 524 composed by 7 commands
+start_comm down 2 num_delimiter start_comm up 3 num_delimiter start_comm down 3 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm down 2 num_delimiter start_comm carry end_comm
+Creating sentence 525 composed by 10 commands
+start_comm boat start_comm boat start_comm boat start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm carry start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry start_comm here end_comm
+Creating sentence 526 composed by 7 commands
+start_comm here start_comm carry start_comm photo start_comm photo start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 527 composed by 3 commands
+start_comm photo start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo end_comm
+Creating sentence 528 composed by 3 commands
+start_comm here start_comm up 2 num_delimiter start_comm here end_comm
+Creating sentence 529 composed by 5 commands
+start_comm here start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm up 2 num_delimiter end_comm
+Creating sentence 530 composed by 2 commands
+start_comm photo start_comm here end_comm
+Creating sentence 531 composed by 6 commands
+start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm here start_comm boat start_comm carry end_comm
+Creating sentence 532 composed by 10 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm here start_comm down 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 2 num_delimiter start_comm here start_comm carry start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 533 composed by 9 commands
+start_comm here start_comm down 3 num_delimiter start_comm down 1 num_delimiter start_comm carry start_comm photo start_comm here start_comm boat start_comm up 1 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 534 composed by 9 commands
+start_comm boat start_comm photo start_comm boat start_comm down 2 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 535 composed by 7 commands
+start_comm photo start_comm carry start_comm photo start_comm here start_comm here start_comm here start_comm here end_comm
+Creating sentence 536 composed by 5 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm here start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 537 composed by 4 commands
+start_comm carry start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm here end_comm
+Creating sentence 538 composed by 4 commands
+start_comm down 1 num_delimiter start_comm photo start_comm boat start_comm boat end_comm
+Creating sentence 539 composed by 10 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm photo start_comm photo start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm photo start_comm photo start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 540 composed by 9 commands
+start_comm down 2 num_delimiter start_comm down 1 num_delimiter start_comm boat start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm carry start_comm carry end_comm
+Creating sentence 541 composed by 3 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm here end_comm
+Creating sentence 542 composed by 4 commands
+start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm here start_comm up 1 num_delimiter end_comm
+Creating sentence 543 composed by 4 commands
+start_comm photo start_comm here start_comm photo start_comm boat end_comm
+Creating sentence 544 composed by 9 commands
+start_comm here start_comm here start_comm down 3 num_delimiter start_comm photo start_comm photo start_comm up 3 num_delimiter start_comm carry start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm photo end_comm
+Creating sentence 545 composed by 6 commands
+start_comm carry start_comm carry start_comm boat start_comm down 2 num_delimiter start_comm carry start_comm up 2 num_delimiter end_comm
+Creating sentence 546 composed by 8 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm here start_comm photo start_comm up 2 num_delimiter start_comm here start_comm carry start_comm up 1 num_delimiter start_comm here end_comm
+Creating sentence 547 composed by 7 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm photo start_comm carry start_comm carry start_comm up 1 num_delimiter start_comm down 1 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 548 composed by 10 commands
+start_comm carry start_comm down 3 num_delimiter start_comm boat start_comm up 2 num_delimiter start_comm photo start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry start_comm here start_comm down 2 num_delimiter end_comm
+Creating sentence 549 composed by 10 commands
+start_comm down 2 num_delimiter start_comm photo start_comm carry start_comm carry start_comm photo start_comm up 3 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm photo start_comm up 3 num_delimiter end_comm
+Creating sentence 550 composed by 8 commands
+start_comm down 3 num_delimiter start_comm here start_comm here start_comm here start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm boat start_comm photo end_comm
+Creating sentence 551 composed by 1 commands
+start_comm here end_comm
+Creating sentence 552 composed by 3 commands
+start_comm carry start_comm carry start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 553 composed by 5 commands
+start_comm photo start_comm carry start_comm carry start_comm carry start_comm up 3 num_delimiter end_comm
+Creating sentence 554 composed by 6 commands
+start_comm here start_comm down 3 num_delimiter start_comm here start_comm carry start_comm carry start_comm photo end_comm
+Creating sentence 555 composed by 8 commands
+start_comm up 1 num_delimiter start_comm up 2 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm down 3 num_delimiter start_comm boat start_comm boat end_comm
+Creating sentence 556 composed by 6 commands
+start_comm boat start_comm down 2 num_delimiter start_comm here start_comm photo start_comm down 2 num_delimiter start_comm here end_comm
+Creating sentence 557 composed by 7 commands
+start_comm here start_comm up 1 num_delimiter start_comm carry start_comm down 2 num_delimiter start_comm carry start_comm down 2 num_delimiter start_comm here end_comm
+Creating sentence 558 composed by 2 commands
+start_comm photo start_comm up 2 num_delimiter end_comm
+Creating sentence 559 composed by 9 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm down 1 num_delimiter start_comm up 1 num_delimiter start_comm photo start_comm carry start_comm here start_comm down 1 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm here end_comm
+Creating sentence 560 composed by 9 commands
+start_comm boat start_comm up 3 num_delimiter start_comm carry start_comm here start_comm carry start_comm here start_comm down 2 num_delimiter start_comm carry start_comm here end_comm
+Creating sentence 561 composed by 4 commands
+start_comm here start_comm boat start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 562 composed by 3 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm boat start_comm down 2 num_delimiter end_comm
+Creating sentence 563 composed by 1 commands
+start_comm up 2 num_delimiter end_comm
+Creating sentence 564 composed by 2 commands
+start_comm here start_comm boat end_comm
+Creating sentence 565 composed by 7 commands
+start_comm down 2 num_delimiter start_comm carry start_comm up 3 num_delimiter start_comm boat start_comm down 1 num_delimiter start_comm down 3 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 566 composed by 7 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm boat start_comm photo start_comm here start_comm here start_comm here start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 567 composed by 9 commands
+start_comm up 3 num_delimiter start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm here start_comm down 1 num_delimiter start_comm down 3 num_delimiter start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 568 composed by 1 commands
+start_comm up 1 num_delimiter end_comm
+Creating sentence 569 composed by 10 commands
+start_comm photo start_comm photo start_comm boat start_comm carry start_comm carry start_comm here start_comm photo start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry end_comm
+Creating sentence 570 composed by 3 commands
+start_comm down 3 num_delimiter start_comm photo start_comm up 3 num_delimiter end_comm
+Creating sentence 571 composed by 5 commands
+start_comm here start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm here start_comm boat end_comm
+Creating sentence 572 composed by 9 commands
+start_comm down 1 num_delimiter start_comm photo start_comm here start_comm carry start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm boat start_comm boat start_comm photo start_comm carry end_comm
+Creating sentence 573 composed by 8 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here start_comm down 1 num_delimiter start_comm boat start_comm carry start_comm boat start_comm photo end_comm
+Creating sentence 574 composed by 7 commands
+start_comm photo start_comm boat start_comm up 2 num_delimiter start_comm here start_comm here start_comm up 3 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 575 composed by 10 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here start_comm up 1 num_delimiter start_comm boat start_comm carry start_comm down 3 num_delimiter start_comm down 3 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm boat end_comm
+Creating sentence 576 composed by 7 commands
+start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm here start_comm photo start_comm here start_comm up 1 num_delimiter end_comm
+Creating sentence 577 composed by 10 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm here start_comm down 3 num_delimiter start_comm up 2 num_delimiter start_comm here start_comm here start_comm here start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry end_comm
+Creating sentence 578 composed by 3 commands
+start_comm boat start_comm carry start_comm here end_comm
+Creating sentence 579 composed by 3 commands
+start_comm up 1 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 580 composed by 10 commands
+start_comm carry start_comm photo start_comm boat start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm up 2 num_delimiter start_comm up 2 num_delimiter start_comm photo end_comm
+Creating sentence 581 composed by 6 commands
+start_comm down 3 num_delimiter start_comm photo start_comm photo start_comm carry start_comm here start_comm down 3 num_delimiter end_comm
+Creating sentence 582 composed by 10 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm carry start_comm boat start_comm here start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm photo start_comm photo start_comm here start_comm up 3 num_delimiter end_comm
+Creating sentence 583 composed by 8 commands
+start_comm here start_comm photo start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 2 num_delimiter start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm here start_comm photo end_comm
+Creating sentence 584 composed by 3 commands
+start_comm here start_comm down 1 num_delimiter start_comm boat end_comm
+Creating sentence 585 composed by 4 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 586 composed by 7 commands
+start_comm here start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm down 1 num_delimiter start_comm carry end_comm
+Creating sentence 587 composed by 2 commands
+start_comm down 3 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 588 composed by 7 commands
+start_comm carry start_comm up 1 num_delimiter start_comm down 3 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here start_comm carry start_comm down 2 num_delimiter end_comm
+Creating sentence 589 composed by 9 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm carry start_comm up 2 num_delimiter start_comm up 2 num_delimiter start_comm up 3 num_delimiter start_comm carry start_comm here start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 590 composed by 7 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm down 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry start_comm boat start_comm up 1 num_delimiter start_comm photo end_comm
+Creating sentence 591 composed by 4 commands
+start_comm carry start_comm photo start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter end_comm
+Creating sentence 592 composed by 3 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm boat start_comm here end_comm
+Creating sentence 593 composed by 8 commands
+start_comm carry start_comm photo start_comm photo start_comm photo start_comm boat start_comm boat start_comm photo start_comm carry end_comm
+Creating sentence 594 composed by 6 commands
+start_comm down 1 num_delimiter start_comm boat start_comm down 3 num_delimiter start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 595 composed by 6 commands
+start_comm down 1 num_delimiter start_comm here start_comm carry start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm here end_comm
+Creating sentence 596 composed by 1 commands
+start_comm down 1 num_delimiter end_comm
+Creating sentence 597 composed by 10 commands
+start_comm down 2 num_delimiter start_comm up 3 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm here start_comm carry start_comm boat start_comm up 3 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 598 composed by 3 commands
+start_comm boat start_comm carry start_comm down 3 num_delimiter end_comm
+Creating sentence 599 composed by 9 commands
+start_comm boat start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 600 composed by 5 commands
+start_comm boat start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm carry start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 601 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 602 composed by 4 commands
+start_comm carry start_comm down 3 num_delimiter start_comm photo start_comm boat end_comm
+Creating sentence 603 composed by 5 commands
+start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm here start_comm carry start_comm down 3 num_delimiter end_comm
+Creating sentence 604 composed by 4 commands
+start_comm photo start_comm down 2 num_delimiter start_comm carry start_comm carry end_comm
+Creating sentence 605 composed by 2 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 606 composed by 2 commands
+start_comm here start_comm up 3 num_delimiter end_comm
+Creating sentence 607 composed by 5 commands
+start_comm carry start_comm here start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here start_comm down 1 num_delimiter end_comm
+Creating sentence 608 composed by 2 commands
+start_comm photo start_comm photo end_comm
+Creating sentence 609 composed by 9 commands
+start_comm carry start_comm here start_comm boat start_comm up 2 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm here end_comm
+Creating sentence 610 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 611 composed by 1 commands
+start_comm down 3 num_delimiter end_comm
+Creating sentence 612 composed by 1 commands
+start_comm down 2 num_delimiter end_comm
+Creating sentence 613 composed by 4 commands
+start_comm photo start_comm down 2 num_delimiter start_comm photo start_comm down 3 num_delimiter end_comm
+Creating sentence 614 composed by 7 commands
+start_comm carry start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm down 2 num_delimiter end_comm
+Creating sentence 615 composed by 2 commands
+start_comm here start_comm here end_comm
+Creating sentence 616 composed by 10 commands
+start_comm boat start_comm here start_comm down 2 num_delimiter start_comm down 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm photo start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm carry start_comm here end_comm
+Creating sentence 617 composed by 8 commands
+start_comm carry start_comm carry start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here start_comm up 3 num_delimiter start_comm photo start_comm boat start_comm photo end_comm
+Creating sentence 618 composed by 1 commands
+start_comm down 2 num_delimiter end_comm
+Creating sentence 619 composed by 6 commands
+start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here start_comm up 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo end_comm
+Creating sentence 620 composed by 1 commands
+start_comm boat end_comm
+Creating sentence 621 composed by 6 commands
+start_comm down 3 num_delimiter start_comm here start_comm boat start_comm photo start_comm up 3 num_delimiter start_comm photo end_comm
+Creating sentence 622 composed by 8 commands
+start_comm photo start_comm carry start_comm boat start_comm down 3 num_delimiter start_comm up 1 num_delimiter start_comm up 1 num_delimiter start_comm here start_comm up 3 num_delimiter end_comm
+Creating sentence 623 composed by 5 commands
+start_comm down 3 num_delimiter start_comm carry start_comm boat start_comm up 2 num_delimiter start_comm here end_comm
+Creating sentence 624 composed by 6 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm here start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm down 1 num_delimiter start_comm carry start_comm up 3 num_delimiter end_comm
+Creating sentence 625 composed by 7 commands
+start_comm here start_comm down 3 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm carry start_comm here start_comm up 1 num_delimiter end_comm
+Creating sentence 626 composed by 3 commands
+start_comm here start_comm carry start_comm here end_comm
+Creating sentence 627 composed by 5 commands
+start_comm carry start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm carry start_comm up 2 num_delimiter end_comm
+Creating sentence 628 composed by 8 commands
+start_comm boat start_comm boat start_comm photo start_comm boat start_comm photo start_comm here start_comm photo start_comm up 3 num_delimiter end_comm
+Creating sentence 629 composed by 10 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm photo start_comm carry start_comm here start_comm here start_comm here start_comm up 2 num_delimiter start_comm carry end_comm
+Creating sentence 630 composed by 5 commands
+start_comm photo start_comm photo start_comm here start_comm boat start_comm boat end_comm
+Creating sentence 631 composed by 8 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry start_comm photo start_comm here start_comm boat start_comm down 1 num_delimiter start_comm up 2 num_delimiter start_comm carry end_comm
+Creating sentence 632 composed by 7 commands
+start_comm down 1 num_delimiter start_comm boat start_comm photo start_comm photo start_comm down 1 num_delimiter start_comm up 3 num_delimiter start_comm boat end_comm
+Creating sentence 633 composed by 10 commands
+start_comm down 2 num_delimiter start_comm boat start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 1 num_delimiter start_comm boat start_comm here start_comm here start_comm carry start_comm down 2 num_delimiter end_comm
+Creating sentence 634 composed by 7 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm carry start_comm boat start_comm boat start_comm carry start_comm boat start_comm down 2 num_delimiter end_comm
+Creating sentence 635 composed by 1 commands
+start_comm here end_comm
+Creating sentence 636 composed by 6 commands
+start_comm here start_comm up 1 num_delimiter start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 637 composed by 1 commands
+start_comm up 3 num_delimiter end_comm
+Creating sentence 638 composed by 6 commands
+start_comm up 3 num_delimiter start_comm up 2 num_delimiter start_comm here start_comm photo start_comm photo start_comm here end_comm
+Creating sentence 639 composed by 9 commands
+start_comm down 1 num_delimiter start_comm carry start_comm here start_comm photo start_comm down 2 num_delimiter start_comm boat start_comm here start_comm here start_comm down 2 num_delimiter end_comm
+Creating sentence 640 composed by 4 commands
+start_comm here start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter end_comm
+Creating sentence 641 composed by 5 commands
+start_comm carry start_comm down 3 num_delimiter start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 642 composed by 7 commands
+start_comm photo start_comm photo start_comm here start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm carry start_comm boat end_comm
+Creating sentence 643 composed by 6 commands
+start_comm photo start_comm carry start_comm up 2 num_delimiter start_comm carry start_comm here start_comm mosaic 2 num_delimiter 2 num_delimiter end_comm
+Creating sentence 644 composed by 4 commands
+start_comm carry start_comm boat start_comm down 2 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 645 composed by 3 commands
+start_comm down 1 num_delimiter start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 646 composed by 2 commands
+start_comm photo start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 647 composed by 3 commands
+start_comm down 2 num_delimiter start_comm boat start_comm here end_comm
+Creating sentence 648 composed by 8 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm here start_comm carry start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter start_comm carry start_comm carry end_comm
+Creating sentence 649 composed by 2 commands
+start_comm boat start_comm here end_comm
+Creating sentence 650 composed by 8 commands
+start_comm carry start_comm photo start_comm carry start_comm here start_comm photo start_comm down 2 num_delimiter start_comm here start_comm photo end_comm
+Creating sentence 651 composed by 2 commands
+start_comm boat start_comm carry end_comm
+Creating sentence 652 composed by 7 commands
+start_comm carry start_comm down 3 num_delimiter start_comm photo start_comm here start_comm boat start_comm photo start_comm up 3 num_delimiter end_comm
+Creating sentence 653 composed by 3 commands
+start_comm here start_comm boat start_comm photo end_comm
+Creating sentence 654 composed by 4 commands
+start_comm boat start_comm photo start_comm up 2 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 655 composed by 8 commands
+start_comm photo start_comm photo start_comm photo start_comm boat start_comm here start_comm down 3 num_delimiter start_comm up 1 num_delimiter start_comm boat end_comm
+Creating sentence 656 composed by 4 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm down 2 num_delimiter start_comm here end_comm
+Creating sentence 657 composed by 4 commands
+start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 658 composed by 10 commands
+start_comm boat start_comm photo start_comm photo start_comm photo start_comm carry start_comm photo start_comm here start_comm up 3 num_delimiter start_comm here start_comm down 1 num_delimiter end_comm
+Creating sentence 659 composed by 6 commands
+start_comm carry start_comm here start_comm photo start_comm down 1 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm here end_comm
+Creating sentence 660 composed by 7 commands
+start_comm photo start_comm boat start_comm here start_comm up 3 num_delimiter start_comm carry start_comm carry start_comm up 1 num_delimiter end_comm
+Creating sentence 661 composed by 6 commands
+start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm down 2 num_delimiter end_comm
+Creating sentence 662 composed by 1 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 663 composed by 4 commands
+start_comm photo start_comm boat start_comm carry start_comm carry end_comm
+Creating sentence 664 composed by 4 commands
+start_comm boat start_comm photo start_comm here start_comm up 1 num_delimiter end_comm
+Creating sentence 665 composed by 2 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm carry end_comm
+Creating sentence 666 composed by 6 commands
+start_comm up 3 num_delimiter start_comm up 1 num_delimiter start_comm here start_comm boat start_comm photo start_comm here end_comm
+Creating sentence 667 composed by 3 commands
+start_comm photo start_comm photo start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 668 composed by 9 commands
+start_comm here start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 3 num_delimiter start_comm boat start_comm down 1 num_delimiter start_comm photo start_comm here start_comm carry start_comm boat end_comm
+Creating sentence 669 composed by 6 commands
+start_comm down 2 num_delimiter start_comm boat start_comm up 2 num_delimiter start_comm here start_comm down 3 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 670 composed by 9 commands
+start_comm boat start_comm up 3 num_delimiter start_comm down 2 num_delimiter start_comm up 1 num_delimiter start_comm boat start_comm here start_comm carry start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 671 composed by 5 commands
+start_comm photo start_comm photo start_comm here start_comm here start_comm up 2 num_delimiter end_comm
+Creating sentence 672 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 673 composed by 6 commands
+start_comm boat start_comm down 1 num_delimiter start_comm down 3 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 2 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter end_comm
+Creating sentence 674 composed by 6 commands
+start_comm carry start_comm here start_comm photo start_comm carry start_comm here start_comm boat end_comm
+Creating sentence 675 composed by 4 commands
+start_comm photo start_comm down 2 num_delimiter start_comm here start_comm photo end_comm
+Creating sentence 676 composed by 2 commands
+start_comm photo start_comm up 1 num_delimiter end_comm
+Creating sentence 677 composed by 4 commands
+start_comm down 3 num_delimiter start_comm up 1 num_delimiter start_comm photo start_comm boat end_comm
+Creating sentence 678 composed by 10 commands
+start_comm up 2 num_delimiter start_comm photo start_comm here start_comm here start_comm photo start_comm here start_comm boat start_comm photo start_comm photo start_comm up 2 num_delimiter end_comm
+Creating sentence 679 composed by 8 commands
+start_comm carry start_comm down 2 num_delimiter start_comm down 2 num_delimiter start_comm boat start_comm photo start_comm carry start_comm carry start_comm here end_comm
+Creating sentence 680 composed by 10 commands
+start_comm here start_comm here start_comm down 2 num_delimiter start_comm here start_comm carry start_comm photo start_comm here start_comm down 1 num_delimiter start_comm here start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 681 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 682 composed by 2 commands
+start_comm carry start_comm up 3 num_delimiter end_comm
+Creating sentence 683 composed by 3 commands
+start_comm boat start_comm carry start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 684 composed by 5 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm carry start_comm down 3 num_delimiter start_comm carry end_comm
+Creating sentence 685 composed by 1 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 686 composed by 4 commands
+start_comm here start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 687 composed by 2 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm here end_comm
+Creating sentence 688 composed by 3 commands
+start_comm up 3 num_delimiter start_comm here start_comm carry end_comm
+Creating sentence 689 composed by 3 commands
+start_comm down 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm boat end_comm
+Creating sentence 690 composed by 5 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm carry start_comm carry start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm boat end_comm
+Creating sentence 691 composed by 5 commands
+start_comm photo start_comm down 2 num_delimiter start_comm here start_comm here start_comm up 1 num_delimiter end_comm
+Creating sentence 692 composed by 4 commands
+start_comm photo start_comm down 3 num_delimiter start_comm boat start_comm mosaic 2 num_delimiter 1 num_delimiter end_comm
+Creating sentence 693 composed by 8 commands
+start_comm carry start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm here start_comm down 1 num_delimiter start_comm up 3 num_delimiter start_comm boat end_comm
+Creating sentence 694 composed by 2 commands
+start_comm carry start_comm down 3 num_delimiter end_comm
+Creating sentence 695 composed by 2 commands
+start_comm here start_comm photo end_comm
+Creating sentence 696 composed by 6 commands
+start_comm boat start_comm down 3 num_delimiter start_comm boat start_comm photo start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat end_comm
+Creating sentence 697 composed by 7 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm here start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm here start_comm down 1 num_delimiter start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 698 composed by 10 commands
+start_comm boat start_comm down 3 num_delimiter start_comm photo start_comm here start_comm boat start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm photo start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry end_comm
+Creating sentence 699 composed by 8 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm boat start_comm carry end_comm
+Creating sentence 700 composed by 9 commands
+start_comm down 1 num_delimiter start_comm here start_comm here start_comm down 3 num_delimiter start_comm boat start_comm down 2 num_delimiter start_comm photo start_comm down 2 num_delimiter start_comm boat end_comm
+Creating sentence 701 composed by 7 commands
+start_comm boat start_comm down 2 num_delimiter start_comm photo start_comm boat start_comm boat start_comm down 1 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 702 composed by 9 commands
+start_comm here start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm carry start_comm down 1 num_delimiter start_comm carry start_comm down 3 num_delimiter start_comm down 2 num_delimiter start_comm down 3 num_delimiter start_comm down 2 num_delimiter end_comm
+Creating sentence 703 composed by 3 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 1 num_delimiter start_comm boat end_comm
+Creating sentence 704 composed by 3 commands
+start_comm here start_comm down 3 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 705 composed by 3 commands
+start_comm down 3 num_delimiter start_comm boat start_comm carry end_comm
+Creating sentence 706 composed by 3 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm carry end_comm
+Creating sentence 707 composed by 7 commands
+start_comm boat start_comm down 1 num_delimiter start_comm up 2 num_delimiter start_comm up 2 num_delimiter start_comm down 2 num_delimiter start_comm photo start_comm carry end_comm
+Creating sentence 708 composed by 8 commands
+start_comm photo start_comm up 3 num_delimiter start_comm carry start_comm here start_comm down 1 num_delimiter start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm photo end_comm
+Creating sentence 709 composed by 5 commands
+start_comm here start_comm here start_comm boat start_comm down 1 num_delimiter start_comm carry end_comm
+Creating sentence 710 composed by 2 commands
+start_comm boat start_comm boat end_comm
+Creating sentence 711 composed by 9 commands
+start_comm boat start_comm carry start_comm down 2 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm carry start_comm here start_comm here start_comm down 1 num_delimiter end_comm
+Creating sentence 712 composed by 8 commands
+start_comm up 1 num_delimiter start_comm here start_comm up 2 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm carry start_comm carry start_comm carry start_comm up 2 num_delimiter end_comm
+Creating sentence 713 composed by 9 commands
+start_comm carry start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm carry start_comm boat start_comm down 2 num_delimiter start_comm boat start_comm photo start_comm carry start_comm here end_comm
+Creating sentence 714 composed by 7 commands
+start_comm carry start_comm boat start_comm photo start_comm here start_comm photo start_comm down 2 num_delimiter start_comm boat end_comm
+Creating sentence 715 composed by 6 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm boat start_comm photo start_comm here start_comm carry end_comm
+Creating sentence 716 composed by 1 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter end_comm
+Creating sentence 717 composed by 10 commands
+start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm here start_comm carry start_comm carry start_comm carry start_comm down 3 num_delimiter start_comm photo start_comm photo start_comm boat start_comm boat end_comm
+Creating sentence 718 composed by 8 commands
+start_comm photo start_comm carry start_comm carry start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm photo end_comm
+Creating sentence 719 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 720 composed by 5 commands
+start_comm photo start_comm up 2 num_delimiter start_comm here start_comm here start_comm carry end_comm
+Creating sentence 721 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 722 composed by 6 commands
+start_comm here start_comm carry start_comm here start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 723 composed by 6 commands
+start_comm here start_comm carry start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm carry start_comm boat start_comm down 3 num_delimiter end_comm
+Creating sentence 724 composed by 5 commands
+start_comm here start_comm up 3 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 725 composed by 9 commands
+start_comm photo start_comm up 3 num_delimiter start_comm up 3 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter start_comm down 3 num_delimiter start_comm down 1 num_delimiter start_comm boat end_comm
+Creating sentence 726 composed by 9 commands
+start_comm here start_comm boat start_comm up 2 num_delimiter start_comm here start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm here start_comm boat end_comm
+Creating sentence 727 composed by 10 commands
+start_comm here start_comm here start_comm photo start_comm photo start_comm boat start_comm up 1 num_delimiter start_comm photo start_comm up 1 num_delimiter start_comm photo start_comm down 1 num_delimiter end_comm
+Creating sentence 728 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 729 composed by 3 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm boat start_comm boat end_comm
+Creating sentence 730 composed by 6 commands
+start_comm here start_comm here start_comm photo start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm boat end_comm
+Creating sentence 731 composed by 2 commands
+start_comm here start_comm photo end_comm
+Creating sentence 732 composed by 6 commands
+start_comm carry start_comm here start_comm down 2 num_delimiter start_comm up 1 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 733 composed by 2 commands
+start_comm down 2 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 734 composed by 8 commands
+start_comm photo start_comm photo start_comm here start_comm here start_comm photo start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm here end_comm
+Creating sentence 735 composed by 6 commands
+start_comm carry start_comm down 3 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 736 composed by 1 commands
+start_comm boat end_comm
+Creating sentence 737 composed by 8 commands
+start_comm down 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm up 3 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm carry start_comm boat start_comm photo end_comm
+Creating sentence 738 composed by 5 commands
+start_comm photo start_comm photo start_comm carry start_comm carry start_comm down 3 num_delimiter end_comm
+Creating sentence 739 composed by 4 commands
+start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter end_comm
+Creating sentence 740 composed by 3 commands
+start_comm carry start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry end_comm
+Creating sentence 741 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 742 composed by 10 commands
+start_comm carry start_comm down 3 num_delimiter start_comm photo start_comm photo start_comm photo start_comm photo start_comm here start_comm boat start_comm here start_comm here end_comm
+Creating sentence 743 composed by 7 commands
+start_comm down 3 num_delimiter start_comm carry start_comm up 1 num_delimiter start_comm here start_comm down 1 num_delimiter start_comm up 1 num_delimiter start_comm photo end_comm
+Creating sentence 744 composed by 2 commands
+start_comm boat start_comm here end_comm
+Creating sentence 745 composed by 2 commands
+start_comm carry start_comm here end_comm
+Creating sentence 746 composed by 3 commands
+start_comm photo start_comm boat start_comm up 1 num_delimiter end_comm
+Creating sentence 747 composed by 5 commands
+start_comm down 1 num_delimiter start_comm carry start_comm here start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm down 2 num_delimiter end_comm
+Creating sentence 748 composed by 1 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 749 composed by 5 commands
+start_comm up 3 num_delimiter start_comm boat start_comm carry start_comm boat start_comm down 1 num_delimiter end_comm
+Creating sentence 750 composed by 5 commands
+start_comm boat start_comm down 2 num_delimiter start_comm here start_comm here start_comm photo end_comm
+Creating sentence 751 composed by 5 commands
+start_comm here start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm down 2 num_delimiter start_comm photo start_comm carry end_comm
+Creating sentence 752 composed by 4 commands
+start_comm carry start_comm carry start_comm carry start_comm down 3 num_delimiter end_comm
+Creating sentence 753 composed by 8 commands
+start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm photo start_comm here start_comm carry start_comm up 2 num_delimiter start_comm down 3 num_delimiter start_comm here end_comm
+Creating sentence 754 composed by 4 commands
+start_comm up 1 num_delimiter start_comm carry start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 755 composed by 4 commands
+start_comm photo start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here start_comm up 1 num_delimiter end_comm
+Creating sentence 756 composed by 2 commands
+start_comm here start_comm carry end_comm
+Creating sentence 757 composed by 4 commands
+start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm here start_comm carry end_comm
+Creating sentence 758 composed by 1 commands
+start_comm here end_comm
+Creating sentence 759 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 760 composed by 1 commands
+start_comm boat end_comm
+Creating sentence 761 composed by 4 commands
+start_comm carry start_comm boat start_comm up 1 num_delimiter start_comm boat end_comm
+Creating sentence 762 composed by 8 commands
+start_comm up 1 num_delimiter start_comm up 3 num_delimiter start_comm here start_comm up 2 num_delimiter start_comm boat start_comm down 3 num_delimiter start_comm up 2 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 763 composed by 10 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 2 num_delimiter start_comm boat start_comm photo start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm up 3 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 764 composed by 4 commands
+start_comm up 3 num_delimiter start_comm up 3 num_delimiter start_comm down 2 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 765 composed by 7 commands
+start_comm boat start_comm boat start_comm up 2 num_delimiter start_comm photo start_comm carry start_comm photo start_comm down 3 num_delimiter end_comm
+Creating sentence 766 composed by 10 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm here start_comm photo start_comm photo start_comm carry start_comm photo start_comm photo start_comm here end_comm
+Creating sentence 767 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 768 composed by 3 commands
+start_comm boat start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 769 composed by 2 commands
+start_comm photo start_comm carry end_comm
+Creating sentence 770 composed by 8 commands
+start_comm carry start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 1 num_delimiter start_comm up 2 num_delimiter start_comm up 2 num_delimiter start_comm boat start_comm down 1 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter end_comm
+Creating sentence 771 composed by 2 commands
+start_comm up 2 num_delimiter start_comm boat end_comm
+Creating sentence 772 composed by 7 commands
+start_comm carry start_comm down 2 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm boat start_comm up 2 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 773 composed by 9 commands
+start_comm boat start_comm boat start_comm here start_comm carry start_comm here start_comm carry start_comm carry start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 774 composed by 2 commands
+start_comm here start_comm up 3 num_delimiter end_comm
+Creating sentence 775 composed by 2 commands
+start_comm up 2 num_delimiter start_comm here end_comm
+Creating sentence 776 composed by 10 commands
+start_comm boat start_comm down 3 num_delimiter start_comm here start_comm carry start_comm carry start_comm carry start_comm boat start_comm photo start_comm up 2 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 777 composed by 3 commands
+start_comm here start_comm boat start_comm carry end_comm
+Creating sentence 778 composed by 4 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter start_comm boat end_comm
+Creating sentence 779 composed by 7 commands
+start_comm carry start_comm up 3 num_delimiter start_comm photo start_comm up 1 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm up 1 num_delimiter end_comm
+Creating sentence 780 composed by 8 commands
+start_comm photo start_comm down 1 num_delimiter start_comm down 1 num_delimiter start_comm down 1 num_delimiter start_comm carry start_comm boat start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 781 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 782 composed by 3 commands
+start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm photo start_comm up 3 num_delimiter end_comm
+Creating sentence 783 composed by 1 commands
+start_comm boat end_comm
+Creating sentence 784 composed by 3 commands
+start_comm here start_comm down 2 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 785 composed by 9 commands
+start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm photo start_comm up 1 num_delimiter start_comm up 3 num_delimiter start_comm carry start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 786 composed by 6 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm up 3 num_delimiter start_comm photo start_comm carry start_comm here start_comm carry end_comm
+Creating sentence 787 composed by 5 commands
+start_comm boat start_comm up 2 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm here start_comm down 3 num_delimiter end_comm
+Creating sentence 788 composed by 9 commands
+start_comm photo start_comm carry start_comm boat start_comm down 2 num_delimiter start_comm here start_comm photo start_comm up 3 num_delimiter start_comm here start_comm down 2 num_delimiter end_comm
+Creating sentence 789 composed by 1 commands
+start_comm here end_comm
+Creating sentence 790 composed by 3 commands
+start_comm here start_comm boat start_comm down 2 num_delimiter end_comm
+Creating sentence 791 composed by 7 commands
+start_comm up 2 num_delimiter start_comm carry start_comm boat start_comm down 2 num_delimiter start_comm up 3 num_delimiter start_comm down 2 num_delimiter start_comm here end_comm
+Creating sentence 792 composed by 9 commands
+start_comm here start_comm photo start_comm down 2 num_delimiter start_comm down 2 num_delimiter start_comm here start_comm carry start_comm carry start_comm photo start_comm boat end_comm
+Creating sentence 793 composed by 7 commands
+start_comm carry start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm boat start_comm boat start_comm photo start_comm down 1 num_delimiter end_comm
+Creating sentence 794 composed by 3 commands
+start_comm up 3 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 795 composed by 7 commands
+start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm photo start_comm boat start_comm up 2 num_delimiter start_comm photo start_comm carry start_comm here end_comm
+Creating sentence 796 composed by 7 commands
+start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm boat start_comm down 3 num_delimiter start_comm here start_comm photo start_comm boat end_comm
+Creating sentence 797 composed by 8 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter start_comm carry start_comm boat start_comm photo start_comm carry start_comm down 3 num_delimiter end_comm
+Creating sentence 798 composed by 7 commands
+start_comm photo start_comm up 1 num_delimiter start_comm carry start_comm carry start_comm down 3 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm photo end_comm
+Creating sentence 799 composed by 3 commands
+start_comm carry start_comm up 2 num_delimiter start_comm photo end_comm
+Creating sentence 800 composed by 2 commands
+start_comm here start_comm boat end_comm
+Creating sentence 801 composed by 6 commands
+start_comm here start_comm here start_comm photo start_comm here start_comm down 1 num_delimiter start_comm here end_comm
+Creating sentence 802 composed by 10 commands
+start_comm carry start_comm down 2 num_delimiter start_comm up 3 num_delimiter start_comm up 2 num_delimiter start_comm here start_comm boat start_comm here start_comm boat start_comm boat start_comm boat end_comm
+Creating sentence 803 composed by 3 commands
+start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo end_comm
+Creating sentence 804 composed by 2 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 805 composed by 9 commands
+start_comm here start_comm here start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter start_comm carry start_comm carry start_comm up 3 num_delimiter start_comm here end_comm
+Creating sentence 806 composed by 6 commands
+start_comm here start_comm here start_comm photo start_comm down 3 num_delimiter start_comm boat start_comm photo end_comm
+Creating sentence 807 composed by 10 commands
+start_comm up 1 num_delimiter start_comm up 1 num_delimiter start_comm here start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm here start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm down 1 num_delimiter start_comm carry end_comm
+Creating sentence 808 composed by 5 commands
+start_comm photo start_comm here start_comm boat start_comm up 2 num_delimiter start_comm photo end_comm
+Creating sentence 809 composed by 5 commands
+start_comm photo start_comm photo start_comm photo start_comm photo start_comm photo end_comm
+Creating sentence 810 composed by 5 commands
+start_comm down 2 num_delimiter start_comm here start_comm here start_comm photo start_comm down 2 num_delimiter end_comm
+Creating sentence 811 composed by 4 commands
+start_comm up 1 num_delimiter start_comm down 3 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 812 composed by 7 commands
+start_comm boat start_comm down 2 num_delimiter start_comm carry start_comm here start_comm boat start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry end_comm
+Creating sentence 813 composed by 6 commands
+start_comm carry start_comm here start_comm carry start_comm carry start_comm here start_comm down 2 num_delimiter end_comm
+Creating sentence 814 composed by 3 commands
+start_comm carry start_comm carry start_comm carry end_comm
+Creating sentence 815 composed by 8 commands
+start_comm down 2 num_delimiter start_comm here start_comm down 2 num_delimiter start_comm here start_comm boat start_comm up 2 num_delimiter start_comm here start_comm photo end_comm
+Creating sentence 816 composed by 4 commands
+start_comm photo start_comm down 3 num_delimiter start_comm carry start_comm carry end_comm
+Creating sentence 817 composed by 10 commands
+start_comm boat start_comm carry start_comm boat start_comm boat start_comm up 2 num_delimiter start_comm up 1 num_delimiter start_comm photo start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 818 composed by 2 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm here end_comm
+Creating sentence 819 composed by 2 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 820 composed by 7 commands
+start_comm boat start_comm up 3 num_delimiter start_comm boat start_comm up 1 num_delimiter start_comm boat start_comm photo start_comm here end_comm
+Creating sentence 821 composed by 9 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm here start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm photo start_comm carry start_comm boat start_comm down 3 num_delimiter start_comm carry end_comm
+Creating sentence 822 composed by 2 commands
+start_comm here start_comm up 2 num_delimiter end_comm
+Creating sentence 823 composed by 8 commands
+start_comm here start_comm here start_comm up 1 num_delimiter start_comm boat start_comm boat start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm boat end_comm
+Creating sentence 824 composed by 3 commands
+start_comm up 1 num_delimiter start_comm carry start_comm carry end_comm
+Creating sentence 825 composed by 4 commands
+start_comm up 1 num_delimiter start_comm here start_comm boat start_comm here end_comm
+Creating sentence 826 composed by 6 commands
+start_comm up 1 num_delimiter start_comm here start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 2 num_delimiter start_comm down 3 num_delimiter start_comm here end_comm
+Creating sentence 827 composed by 4 commands
+start_comm carry start_comm here start_comm carry start_comm boat end_comm
+Creating sentence 828 composed by 7 commands
+start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm carry start_comm carry start_comm here start_comm down 3 num_delimiter start_comm up 2 num_delimiter start_comm here end_comm
+Creating sentence 829 composed by 10 commands
+start_comm carry start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm down 2 num_delimiter start_comm boat start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm down 2 num_delimiter start_comm photo start_comm carry start_comm boat end_comm
+Creating sentence 830 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 831 composed by 9 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm down 2 num_delimiter start_comm up 1 num_delimiter start_comm photo start_comm carry start_comm mosaic 2 num_delimiter 2 num_delimiter end_comm
+Creating sentence 832 composed by 3 commands
+start_comm photo start_comm up 3 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 833 composed by 1 commands
+start_comm up 2 num_delimiter end_comm
+Creating sentence 834 composed by 3 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm up 2 num_delimiter start_comm photo end_comm
+Creating sentence 835 composed by 4 commands
+start_comm carry start_comm down 3 num_delimiter start_comm boat start_comm carry end_comm
+Creating sentence 836 composed by 9 commands
+start_comm here start_comm up 2 num_delimiter start_comm boat start_comm carry start_comm photo start_comm carry start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm boat end_comm
+Creating sentence 837 composed by 9 commands
+start_comm up 3 num_delimiter start_comm photo start_comm carry start_comm photo start_comm boat start_comm photo start_comm here start_comm up 2 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 838 composed by 6 commands
+start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm boat start_comm up 3 num_delimiter start_comm boat start_comm here end_comm
+Creating sentence 839 composed by 4 commands
+start_comm carry start_comm boat start_comm boat start_comm carry end_comm
+Creating sentence 840 composed by 4 commands
+start_comm up 3 num_delimiter start_comm carry start_comm down 1 num_delimiter start_comm boat end_comm
+Creating sentence 841 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 842 composed by 8 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm photo start_comm here start_comm up 3 num_delimiter start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm down 3 num_delimiter start_comm photo end_comm
+Creating sentence 843 composed by 8 commands
+start_comm carry start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm photo start_comm photo start_comm boat start_comm up 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 844 composed by 1 commands
+start_comm down 1 num_delimiter end_comm
+Creating sentence 845 composed by 3 commands
+start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm here end_comm
+Creating sentence 846 composed by 5 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm boat start_comm boat start_comm up 2 num_delimiter end_comm
+Creating sentence 847 composed by 10 commands
+start_comm here start_comm down 3 num_delimiter start_comm down 1 num_delimiter start_comm photo start_comm down 2 num_delimiter start_comm photo start_comm photo start_comm photo start_comm down 3 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 848 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 849 composed by 2 commands
+start_comm down 1 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 850 composed by 3 commands
+start_comm here start_comm boat start_comm photo end_comm
+Creating sentence 851 composed by 9 commands
+start_comm carry start_comm up 2 num_delimiter start_comm here start_comm here start_comm photo start_comm up 2 num_delimiter start_comm carry start_comm here start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 852 composed by 6 commands
+start_comm here start_comm down 1 num_delimiter start_comm here start_comm carry start_comm up 2 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 853 composed by 6 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm here start_comm up 3 num_delimiter start_comm carry start_comm carry end_comm
+Creating sentence 854 composed by 7 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter start_comm up 1 num_delimiter start_comm carry start_comm photo start_comm down 2 num_delimiter start_comm carry end_comm
+Creating sentence 855 composed by 5 commands
+start_comm photo start_comm up 1 num_delimiter start_comm photo start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm photo end_comm
+Creating sentence 856 composed by 4 commands
+start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm photo start_comm carry start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 857 composed by 5 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm carry start_comm photo start_comm here start_comm down 3 num_delimiter end_comm
+Creating sentence 858 composed by 9 commands
+start_comm boat start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 1 num_delimiter start_comm down 1 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo start_comm photo start_comm down 3 num_delimiter end_comm
+Creating sentence 859 composed by 3 commands
+start_comm boat start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter end_comm
+Creating sentence 860 composed by 5 commands
+start_comm here start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm up 1 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 861 composed by 4 commands
+start_comm photo start_comm down 3 num_delimiter start_comm boat start_comm boat end_comm
+Creating sentence 862 composed by 2 commands
+start_comm up 3 num_delimiter start_comm photo end_comm
+Creating sentence 863 composed by 9 commands
+start_comm here start_comm boat start_comm here start_comm here start_comm down 3 num_delimiter start_comm down 1 num_delimiter start_comm photo start_comm up 1 num_delimiter start_comm here end_comm
+Creating sentence 864 composed by 3 commands
+start_comm carry start_comm boat start_comm here end_comm
+Creating sentence 865 composed by 10 commands
+start_comm boat start_comm photo start_comm up 2 num_delimiter start_comm down 1 num_delimiter start_comm here start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm boat start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 866 composed by 4 commands
+start_comm up 3 num_delimiter start_comm here start_comm boat start_comm carry end_comm
+Creating sentence 867 composed by 8 commands
+start_comm down 3 num_delimiter start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo start_comm boat start_comm photo start_comm up 2 num_delimiter end_comm
+Creating sentence 868 composed by 1 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 869 composed by 6 commands
+start_comm down 2 num_delimiter start_comm photo start_comm photo start_comm boat start_comm here start_comm photo end_comm
+Creating sentence 870 composed by 8 commands
+start_comm boat start_comm boat start_comm down 2 num_delimiter start_comm down 3 num_delimiter start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo start_comm photo end_comm
+Creating sentence 871 composed by 5 commands
+start_comm here start_comm photo start_comm carry start_comm carry start_comm up 2 num_delimiter end_comm
+Creating sentence 872 composed by 5 commands
+start_comm photo start_comm carry start_comm up 1 num_delimiter start_comm photo start_comm photo end_comm
+Creating sentence 873 composed by 6 commands
+start_comm down 2 num_delimiter start_comm here start_comm here start_comm here start_comm down 1 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 874 composed by 5 commands
+start_comm up 3 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm boat end_comm
+Creating sentence 875 composed by 2 commands
+start_comm photo start_comm photo end_comm
+Creating sentence 876 composed by 1 commands
+start_comm up 3 num_delimiter end_comm
+Creating sentence 877 composed by 4 commands
+start_comm here start_comm boat start_comm here start_comm carry end_comm
+Creating sentence 878 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 879 composed by 7 commands
+start_comm here start_comm down 2 num_delimiter start_comm boat start_comm boat start_comm boat start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 880 composed by 8 commands
+start_comm down 2 num_delimiter start_comm boat start_comm here start_comm carry start_comm down 3 num_delimiter start_comm carry start_comm photo start_comm carry end_comm
+Creating sentence 881 composed by 6 commands
+start_comm carry start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm here start_comm here start_comm here end_comm
+Creating sentence 882 composed by 9 commands
+start_comm down 2 num_delimiter start_comm up 3 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm photo start_comm here start_comm up 1 num_delimiter start_comm here start_comm photo end_comm
+Creating sentence 883 composed by 2 commands
+start_comm here start_comm carry end_comm
+Creating sentence 884 composed by 6 commands
+start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm here start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm boat start_comm photo end_comm
+Creating sentence 885 composed by 5 commands
+start_comm down 1 num_delimiter start_comm carry start_comm boat start_comm up 3 num_delimiter start_comm boat end_comm
+Creating sentence 886 composed by 8 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm boat start_comm carry start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm boat end_comm
+Creating sentence 887 composed by 4 commands
+start_comm up 1 num_delimiter start_comm carry start_comm down 2 num_delimiter start_comm carry end_comm
+Creating sentence 888 composed by 5 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm here start_comm photo end_comm
+Creating sentence 889 composed by 3 commands
+start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm photo end_comm
+Creating sentence 890 composed by 4 commands
+start_comm here start_comm boat start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 891 composed by 7 commands
+start_comm boat start_comm boat start_comm here start_comm boat start_comm boat start_comm here start_comm carry end_comm
+Creating sentence 892 composed by 7 commands
+start_comm carry start_comm up 3 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm down 3 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter start_comm here end_comm
+Creating sentence 893 composed by 4 commands
+start_comm carry start_comm down 2 num_delimiter start_comm photo start_comm down 3 num_delimiter end_comm
+Creating sentence 894 composed by 4 commands
+start_comm here start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm carry start_comm here end_comm
+Creating sentence 895 composed by 4 commands
+start_comm up 3 num_delimiter start_comm up 2 num_delimiter start_comm boat start_comm carry end_comm
+Creating sentence 896 composed by 10 commands
+start_comm photo start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm photo start_comm up 3 num_delimiter start_comm down 3 num_delimiter start_comm photo start_comm up 3 num_delimiter start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry end_comm
+Creating sentence 897 composed by 1 commands
+start_comm boat end_comm
+Creating sentence 898 composed by 3 commands
+start_comm down 1 num_delimiter start_comm photo start_comm up 3 num_delimiter end_comm
+Creating sentence 899 composed by 6 commands
+start_comm photo start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm photo start_comm up 3 num_delimiter start_comm here end_comm
+Creating sentence 900 composed by 7 commands
+start_comm carry start_comm photo start_comm photo start_comm here start_comm up 2 num_delimiter start_comm down 2 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 901 composed by 9 commands
+start_comm boat start_comm boat start_comm boat start_comm down 3 num_delimiter start_comm here start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm here end_comm
+Creating sentence 902 composed by 8 commands
+start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter start_comm up 3 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry start_comm here end_comm
+Creating sentence 903 composed by 4 commands
+start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 904 composed by 4 commands
+start_comm boat start_comm down 2 num_delimiter start_comm up 3 num_delimiter start_comm here end_comm
+Creating sentence 905 composed by 5 commands
+start_comm boat start_comm down 3 num_delimiter start_comm up 3 num_delimiter start_comm photo start_comm mosaic 3 num_delimiter 1 num_delimiter end_comm
+Creating sentence 906 composed by 6 commands
+start_comm down 3 num_delimiter start_comm here start_comm here start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat end_comm
+Creating sentence 907 composed by 9 commands
+start_comm up 1 num_delimiter start_comm carry start_comm photo start_comm carry start_comm photo start_comm boat start_comm here start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 908 composed by 2 commands
+start_comm here start_comm here end_comm
+Creating sentence 909 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 910 composed by 5 commands
+start_comm up 3 num_delimiter start_comm up 1 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm boat end_comm
+Creating sentence 911 composed by 8 commands
+start_comm boat start_comm up 3 num_delimiter start_comm boat start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm photo end_comm
+Creating sentence 912 composed by 3 commands
+start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm photo end_comm
+Creating sentence 913 composed by 8 commands
+start_comm up 1 num_delimiter start_comm up 3 num_delimiter start_comm up 3 num_delimiter start_comm boat start_comm photo start_comm here start_comm photo start_comm boat end_comm
+Creating sentence 914 composed by 9 commands
+start_comm photo start_comm here start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo start_comm here start_comm photo start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 1 num_delimiter start_comm boat end_comm
+Creating sentence 915 composed by 6 commands
+start_comm boat start_comm photo start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm carry start_comm carry start_comm carry end_comm
+Creating sentence 916 composed by 7 commands
+start_comm down 1 num_delimiter start_comm boat start_comm here start_comm up 3 num_delimiter start_comm boat start_comm down 1 num_delimiter start_comm boat end_comm
+Creating sentence 917 composed by 1 commands
+start_comm boat end_comm
+Creating sentence 918 composed by 4 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm photo start_comm down 3 num_delimiter start_comm boat end_comm
+Creating sentence 919 composed by 7 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm photo start_comm boat start_comm boat start_comm up 3 num_delimiter start_comm here end_comm
+Creating sentence 920 composed by 1 commands
+start_comm up 1 num_delimiter end_comm
+Creating sentence 921 composed by 8 commands
+start_comm down 1 num_delimiter start_comm photo start_comm up 1 num_delimiter start_comm carry start_comm carry start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm down 3 num_delimiter start_comm here end_comm
+Creating sentence 922 composed by 4 commands
+start_comm carry start_comm carry start_comm boat start_comm photo end_comm
+Creating sentence 923 composed by 4 commands
+start_comm photo start_comm down 3 num_delimiter start_comm photo start_comm photo end_comm
+Creating sentence 924 composed by 10 commands
+start_comm here start_comm here start_comm carry start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm photo start_comm boat start_comm photo start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 925 composed by 8 commands
+start_comm here start_comm photo start_comm here start_comm here start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm boat start_comm up 1 num_delimiter start_comm here end_comm
+Creating sentence 926 composed by 5 commands
+start_comm carry start_comm up 3 num_delimiter start_comm here start_comm carry start_comm boat end_comm
+Creating sentence 927 composed by 9 commands
+start_comm down 3 num_delimiter start_comm carry start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm carry start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 928 composed by 2 commands
+start_comm carry start_comm here end_comm
+Creating sentence 929 composed by 4 commands
+start_comm up 2 num_delimiter start_comm down 3 num_delimiter start_comm carry start_comm photo end_comm
+Creating sentence 930 composed by 8 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm here start_comm up 3 num_delimiter start_comm down 3 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 931 composed by 5 commands
+start_comm down 3 num_delimiter start_comm carry start_comm up 3 num_delimiter start_comm carry start_comm photo end_comm
+Creating sentence 932 composed by 4 commands
+start_comm carry start_comm up 1 num_delimiter start_comm down 1 num_delimiter start_comm here end_comm
+Creating sentence 933 composed by 4 commands
+start_comm carry start_comm photo start_comm down 2 num_delimiter start_comm photo end_comm
+Creating sentence 934 composed by 6 commands
+start_comm carry start_comm boat start_comm here start_comm photo start_comm here start_comm carry end_comm
+Creating sentence 935 composed by 7 commands
+start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm boat start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm here start_comm boat start_comm photo start_comm photo end_comm
+Creating sentence 936 composed by 2 commands
+start_comm here start_comm carry end_comm
+Creating sentence 937 composed by 5 commands
+start_comm photo start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm carry start_comm photo start_comm up 3 num_delimiter end_comm
+Creating sentence 938 composed by 5 commands
+start_comm here start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm down 2 num_delimiter start_comm photo start_comm boat end_comm
+Creating sentence 939 composed by 4 commands
+start_comm up 1 num_delimiter start_comm up 3 num_delimiter start_comm photo start_comm here end_comm
+Creating sentence 940 composed by 2 commands
+start_comm up 1 num_delimiter start_comm here end_comm
+Creating sentence 941 composed by 6 commands
+start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm up 2 num_delimiter start_comm up 3 num_delimiter start_comm photo start_comm boat start_comm photo end_comm
+Creating sentence 942 composed by 9 commands
+start_comm here start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm photo start_comm carry start_comm here start_comm down 2 num_delimiter start_comm down 1 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter end_comm
+Creating sentence 943 composed by 7 commands
+start_comm up 3 num_delimiter start_comm photo start_comm here start_comm down 3 num_delimiter start_comm boat start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 944 composed by 5 commands
+start_comm down 2 num_delimiter start_comm carry start_comm boat start_comm photo start_comm up 3 num_delimiter end_comm
+Creating sentence 945 composed by 9 commands
+start_comm up 3 num_delimiter start_comm carry start_comm carry start_comm down 2 num_delimiter start_comm down 2 num_delimiter start_comm carry start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm up 1 num_delimiter end_comm
+Creating sentence 946 composed by 6 commands
+start_comm down 3 num_delimiter start_comm carry start_comm photo start_comm up 1 num_delimiter start_comm photo start_comm down 3 num_delimiter end_comm
+Creating sentence 947 composed by 3 commands
+start_comm boat start_comm down 3 num_delimiter start_comm boat end_comm
+Creating sentence 948 composed by 6 commands
+start_comm photo start_comm boat start_comm photo start_comm here start_comm up 1 num_delimiter start_comm carry end_comm
+Creating sentence 949 composed by 9 commands
+start_comm boat start_comm carry start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm boat start_comm up 3 num_delimiter start_comm down 1 num_delimiter start_comm boat start_comm photo start_comm boat end_comm
+Creating sentence 950 composed by 8 commands
+start_comm down 1 num_delimiter start_comm up 3 num_delimiter start_comm carry start_comm boat start_comm carry start_comm here start_comm here start_comm boat end_comm
+Creating sentence 951 composed by 3 commands
+start_comm photo start_comm up 1 num_delimiter start_comm boat end_comm
+Creating sentence 952 composed by 7 commands
+start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm photo start_comm down 1 num_delimiter start_comm down 3 num_delimiter start_comm down 1 num_delimiter start_comm here end_comm
+Creating sentence 953 composed by 1 commands
+start_comm carry end_comm
+Creating sentence 954 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 955 composed by 6 commands
+start_comm down 2 num_delimiter start_comm down 3 num_delimiter start_comm boat start_comm here start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 956 composed by 2 commands
+start_comm up 1 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 957 composed by 4 commands
+start_comm carry start_comm carry start_comm here start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm
+Creating sentence 958 composed by 4 commands
+start_comm down 2 num_delimiter start_comm boat start_comm up 1 num_delimiter start_comm down 1 num_delimiter end_comm
+Creating sentence 959 composed by 9 commands
+start_comm down 1 num_delimiter start_comm here start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm up 2 num_delimiter start_comm down 3 num_delimiter start_comm carry start_comm carry start_comm carry end_comm
+Creating sentence 960 composed by 2 commands
+start_comm down 2 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 961 composed by 6 commands
+start_comm photo start_comm down 2 num_delimiter start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 962 composed by 2 commands
+start_comm boat start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 963 composed by 7 commands
+start_comm carry start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm boat start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm carry start_comm here start_comm photo end_comm
+Creating sentence 964 composed by 10 commands
+start_comm up 1 num_delimiter start_comm here start_comm here start_comm carry start_comm boat start_comm here start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm photo start_comm photo start_comm down 3 num_delimiter end_comm
+Creating sentence 965 composed by 2 commands
+start_comm up 3 num_delimiter start_comm up 3 num_delimiter end_comm
+Creating sentence 966 composed by 5 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm carry start_comm here start_comm down 2 num_delimiter start_comm boat end_comm
+Creating sentence 967 composed by 9 commands
+start_comm down 2 num_delimiter start_comm boat start_comm boat start_comm photo start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm here start_comm up 2 num_delimiter start_comm here start_comm mosaic 3 num_delimiter 3 num_delimiter end_comm
+Creating sentence 968 composed by 2 commands
+start_comm carry start_comm here end_comm
+Creating sentence 969 composed by 4 commands
+start_comm photo start_comm up 1 num_delimiter start_comm photo start_comm here end_comm
+Creating sentence 970 composed by 1 commands
+start_comm photo end_comm
+Creating sentence 971 composed by 8 commands
+start_comm photo start_comm photo start_comm carry start_comm here start_comm down 1 num_delimiter start_comm here start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm carry end_comm
+Creating sentence 972 composed by 4 commands
+start_comm carry start_comm boat start_comm carry start_comm carry end_comm
+Creating sentence 973 composed by 7 commands
+start_comm here start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm mosaic 2 num_delimiter 1 num_delimiter start_comm up 1 num_delimiter start_comm carry start_comm here start_comm here end_comm
+Creating sentence 974 composed by 3 commands
+start_comm up 2 num_delimiter start_comm here start_comm photo end_comm
+Creating sentence 975 composed by 3 commands
+start_comm boat start_comm photo start_comm boat end_comm
+Creating sentence 976 composed by 1 commands
+start_comm here end_comm
+Creating sentence 977 composed by 4 commands
+start_comm here start_comm here start_comm up 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 978 composed by 8 commands
+start_comm photo start_comm boat start_comm here start_comm photo start_comm up 1 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter start_comm carry start_comm down 1 num_delimiter end_comm
+Creating sentence 979 composed by 7 commands
+start_comm carry start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm up 1 num_delimiter start_comm up 3 num_delimiter start_comm up 2 num_delimiter start_comm down 3 num_delimiter start_comm mosaic 1 num_delimiter 1 num_delimiter end_comm
+Creating sentence 980 composed by 9 commands
+start_comm here start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm photo start_comm here start_comm mosaic 1 num_delimiter 3 num_delimiter start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 981 composed by 10 commands
+start_comm mosaic 2 num_delimiter 3 num_delimiter start_comm here start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm boat start_comm photo start_comm boat start_comm mosaic 1 num_delimiter 2 num_delimiter start_comm up 2 num_delimiter start_comm photo start_comm boat end_comm
+Creating sentence 982 composed by 4 commands
+start_comm photo start_comm up 3 num_delimiter start_comm down 2 num_delimiter start_comm mosaic 2 num_delimiter 3 num_delimiter end_comm
+Creating sentence 983 composed by 1 commands
+start_comm here end_comm
+Creating sentence 984 composed by 10 commands
+start_comm carry start_comm boat start_comm here start_comm down 2 num_delimiter start_comm boat start_comm here start_comm up 2 num_delimiter start_comm carry start_comm carry start_comm up 3 num_delimiter end_comm
+Creating sentence 985 composed by 4 commands
+start_comm boat start_comm boat start_comm mosaic 3 num_delimiter 3 num_delimiter start_comm photo end_comm
+Creating sentence 986 composed by 8 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm carry start_comm here start_comm carry start_comm photo start_comm down 3 num_delimiter start_comm carry start_comm down 2 num_delimiter end_comm
+Creating sentence 987 composed by 9 commands
+start_comm here start_comm boat start_comm carry start_comm down 3 num_delimiter start_comm photo start_comm up 3 num_delimiter start_comm down 2 num_delimiter start_comm photo start_comm carry end_comm
+Creating sentence 988 composed by 4 commands
+start_comm photo start_comm here start_comm here start_comm mosaic 3 num_delimiter 2 num_delimiter end_comm
+Creating sentence 989 composed by 3 commands
+start_comm here start_comm boat start_comm here end_comm
+Creating sentence 990 composed by 3 commands
+start_comm here start_comm here start_comm here end_comm
+Creating sentence 991 composed by 4 commands
+start_comm up 3 num_delimiter start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm boat start_comm photo end_comm
+Creating sentence 992 composed by 3 commands
+start_comm here start_comm photo start_comm carry end_comm
+Creating sentence 993 composed by 5 commands
+start_comm carry start_comm boat start_comm here start_comm up 1 num_delimiter start_comm up 2 num_delimiter end_comm
+Creating sentence 994 composed by 1 commands
+start_comm up 1 num_delimiter end_comm
+Creating sentence 995 composed by 10 commands
+start_comm mosaic 2 num_delimiter 2 num_delimiter start_comm here start_comm down 2 num_delimiter start_comm up 2 num_delimiter start_comm carry start_comm up 2 num_delimiter start_comm here start_comm up 3 num_delimiter start_comm photo start_comm here end_comm
+Creating sentence 996 composed by 6 commands
+start_comm mosaic 1 num_delimiter 1 num_delimiter start_comm mosaic 3 num_delimiter 1 num_delimiter start_comm carry start_comm here start_comm up 2 num_delimiter start_comm down 3 num_delimiter end_comm
+Creating sentence 997 composed by 2 commands
+start_comm down 3 num_delimiter start_comm carry end_comm
+Creating sentence 998 composed by 6 commands
+start_comm photo start_comm carry start_comm boat start_comm up 3 num_delimiter start_comm boat start_comm here end_comm
+Creating sentence 999 composed by 1 commands
+start_comm mosaic 1 num_delimiter 3 num_delimiter end_comm

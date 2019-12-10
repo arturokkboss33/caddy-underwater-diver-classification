@@ -32,7 +32,7 @@ def gen_sentence(idx, seed, list_of_commands):
 	# max length of mission is 11
 	#num_commands = random.random()
 	#print("--Creating sentence of %d length commands" % num_commands)
-	num_commands = randrange(1,11)
+	num_commands = randrange(1,3)
 	sentence=''
 	print("Creating sentence %d composed by %d commands" % (idx, num_commands))
 	for i in range(num_commands):
