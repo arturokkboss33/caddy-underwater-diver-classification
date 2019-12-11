@@ -1,0 +1,927 @@
+     1	(10, 26, 11)	WORK	Valid String
+     2	(10, 25, 11)	WORK	Valid String
+     3	(10, 27, 10, 28, 11)	SLANG	Valid String
+     4	(10, 20, 1, 12, 2, 12, 10, 25, 11)	WORK	Valid String
+     5	(10, 28, 10, 22, 1, 12, 11)	SLANG	Valid String
+     6	(10, 26, 10, 20, 2, 12, 3, 12, 11)	WORK	Valid String
+     7	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+     8	(10, 26, 11)	WORK	Valid String
+     9	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+    10	(10, 26, 11)	WORK	Valid String
+    11	(10, 20, 1, 12, 2, 12, 11)	WORK	Valid String
+    12	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+    13	(10, 22, 3, 12, 10, 28, 11)	MOVEMENT	Valid String
+    14	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+    15	(10, 20, 1, 12, 1, 12, 11)	WORK	Valid String
+    16	(10, 27, 10, 26, 11)	SLANG	Valid String
+    17	(10, 25, 10, 28, 11)	WORK	Valid String
+    18	(10, 20, 2, 12, 1, 12, 11)	WORK	Valid String
+    19	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+    20	(10, 28, 11)	SLANG	Valid String
+    21	(10, 20, 2, 12, 3, 12, 10, 25, 11)	WORK	Valid String
+    22	(10, 21, 2, 12, 10, 20, 2, 12, 1, 12, 11)	MOVEMENT	Valid String
+    23	(10, 27, 10, 26, 11)	SLANG	Valid String
+    24	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+    25	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+    26	(10, 20, 1, 12, 3, 12, 10, 21, 3, 12, 11)	WORK	Valid String
+    27	(10, 26, 10, 22, 3, 12, 11)	WORK	Valid String
+    28	(10, 26, 11)	WORK	Valid String
+    29	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+    30	(10, 22, 1, 12, 10, 21, 1, 12, 11)	MOVEMENT	Valid String
+    31	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+    32	(10, 22, 1, 12, 10, 21, 2, 12, 11)	MOVEMENT	Valid String
+    33	(10, 25, 10, 28, 11)	WORK	Valid String
+    34	(10, 26, 10, 21, 1, 12, 11)	WORK	Valid String
+    35	(10, 25, 10, 25, 11)	WORK	Valid String
+    36	(10, 25, 11)	WORK	Valid String
+    37	(10, 25, 10, 25, 11)	WORK	Valid String
+    38	(10, 28, 10, 26, 11)	SLANG	Valid String
+    39	(10, 26, 10, 27, 11)	WORK	Valid String
+    40	(10, 27, 10, 28, 11)	SLANG	Valid String
+    41	(10, 28, 11)	SLANG	Valid String
+    42	(10, 20, 1, 12, 1, 12, 10, 28, 11)	WORK	Valid String
+    43	(10, 26, 10, 21, 1, 12, 11)	WORK	Valid String
+    44	(10, 27, 11)	SLANG	Valid String
+    45	(10, 21, 1, 12, 10, 25, 11)	MOVEMENT	Valid String
+    46	(10, 28, 11)	SLANG	Valid String
+    47	(10, 22, 3, 12, 10, 22, 3, 12, 11)	MOVEMENT	Valid String
+    48	(10, 28, 10, 25, 11)	SLANG	Valid String
+    49	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+    50	(10, 25, 11)	WORK	Valid String
+    51	(10, 26, 10, 27, 11)	WORK	Valid String
+    52	(10, 27, 11)	SLANG	Valid String
+    53	(10, 28, 10, 25, 11)	SLANG	Valid String
+    54	(10, 27, 10, 28, 11)	SLANG	Valid String
+    55	(10, 20, 3, 12, 1, 12, 11)	WORK	Valid String
+    56	(10, 20, 2, 12, 1, 12, 10, 25, 11)	WORK	Valid String
+    57	(10, 20, 3, 12, 1, 12, 10, 25, 11)	WORK	Valid String
+    58	(10, 25, 11)	WORK	Valid String
+    59	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+    60	(10, 27, 11)	SLANG	Valid String
+    61	(10, 27, 11)	SLANG	Valid String
+    62	(10, 25, 11)	WORK	Valid String
+    63	(10, 28, 11)	SLANG	Valid String
+    64	(10, 28, 11)	SLANG	Valid String
+    65	(10, 21, 1, 12, 10, 22, 3, 12, 11)	MOVEMENT	Valid String
+    66	(10, 21, 2, 12, 10, 26, 11)	MOVEMENT	Valid String
+    67	(10, 21, 3, 12, 10, 27, 11)	MOVEMENT	Valid String
+    68	(10, 22, 3, 12, 10, 20, 1, 12, 1, 12, 11)	MOVEMENT	Valid String
+    69	(10, 27, 10, 28, 11)	SLANG	Valid String
+    70	(10, 22, 2, 12, 10, 22, 3, 12, 11)	MOVEMENT	Valid String
+    71	(10, 20, 3, 12, 3, 12, 10, 21, 3, 12, 11)	WORK	Valid String
+    72	(10, 28, 11)	SLANG	Valid String
+    73	(10, 27, 10, 20, 2, 11, 1, 12, 11)	SLANG	Valid String
+    74	(10, 22, 1, 12, 10, 27, 11)	MOVEMENT	Valid String
+    75	(10, 25, 11)	WORK	Valid String
+    76	(10, 28, 11)	SLANG	Valid String
+    77	(10, 26, 11)	WORK	Valid String
+    78	(10, 20, 3, 12, 1, 12, 10, 28, 11)	WORK	Valid String
+    79	(10, 25, 11)	WORK	Valid String
+    80	(10, 25, 10, 20, 1, 12, 1, 12, 11)	WORK	Valid String
+    81	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+    82	(10, 28, 10, 26, 11)	SLANG	Valid String
+    83	(10, 22, 2, 12, 10, 27, 11)	MOVEMENT	Valid String
+    84	(10, 21, 3, 12, 10, 27, 11)	MOVEMENT	Valid String
+    85	(10, 21, 1, 12, 10, 27, 11)	MOVEMENT	Valid String
+    86	(10, 20, 3, 12, 2, 12, 11)	WORK	Valid String
+    87	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+    88	(10, 20, 4, 25, 3, 12, 10, 21, 1, 12, 11)	WORK	Valid String
+    89	(10, 27, 11)	SLANG	Valid String
+    90	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+    91	(10, 28, 11)	SLANG	Valid String
+    92	(10, 28, 10, 20, 3, 12, 3, 12, 11)	SLANG	Valid String
+    93	(10, 20, 3, 12, 1, 12, 10, 26, 11)	WORK	Valid String
+    94	(10, 22, 2, 12, 10, 28, 11)	MOVEMENT	Valid String
+    95	(10, 25, 11)	WORK	Valid String
+    96	(10, 25, 11)	WORK	Valid String
+    97	(10, 26, 10, 26, 11)	WORK	Valid String
+    98	(10, 27, 10)	SLANG	Valid String
+    99	(10, 20, 3, 12, 1, 12, 11)	WORK	Valid String
+   100	(10, 27, 11)	SLANG	Valid String
+   101	(10, 26, 11)	WORK	Valid String
+   102	(10, 21, 3, 12, 10, 20, 1, 12, 3, 12, 11)	MOVEMENT	Valid String
+   103	(10, 25, 11)	WORK	Valid String
+   104	(10, 22, 2, 12, 10, 20, 1, 12, 3, 12, 11)	MOVEMENT	Valid String
+   105	(10, 26, 10, 20, 1, 12, 1, 12, 11)	WORK	Valid String
+   106	(10, 21, 2, 12, 10, 24, 11)	MOVEMENT	Valid String
+   107	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   108	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   109	(10, 26, 10, 22, 2, 12, 11)	WORK	Valid String
+   110	(10, 25, 10, 25, 11)	WORK	Valid String
+   111	(10, 25, 10, 1, 2, 12, 11)	WORK	Valid String
+   112	(10, 21, 3, 12, 10, 25, 11)	MOVEMENT	Valid String
+   113	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   114	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   115	(10, 27, 10, 1, 1, 12, 11)	SLANG	Valid String
+   116	(10, 22, 1, 12, 10, 26, 11)	MOVEMENT	Valid String
+   117	(10, 20, 3, 12, 4, 12, 11)	WORK	Valid String
+   118	(10, 28, 10, 22, 3, 12, 11)	SLANG	Valid String
+   119	(10, 21, 1, 12, 10, 25, 11)	MOVEMENT	Valid String
+   120	(10, 26, 10, 20, 1, 12, 2, 12, 11)	WORK	Valid String
+   121	(10, 20, 2, 12, 1, 12, 10, 27, 11)	WORK	Valid String
+   122	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   123	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   124	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   125	(10, 26, 10, 28, 11)	WORK	Valid String
+   126	(10, 20, 1, 12, 1, 12, 11)	WORK	Valid String
+   127	(10, 28, 11)	SLANG	Valid String
+   128	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   129	(10, 26, 11)	WORK	Valid String
+   130	(10, 27, 11)	SLANG	Valid String
+   131	(10, 26, 10, 22, 3, 12, 11)	WORK	Valid String
+   132	(10, 28, 11)	SLANG	Valid String
+   133	(10, 27, 10, 26, 11)	SLANG	Valid String
+   134	(10, 20, 2, 12, 1, 12, 11)	WORK	Valid String
+   135	(10, 28, 10, 25, 11)	SLANG	Valid String
+   136	(10, 27, 11)	SLANG	Valid String
+   137	(10, 28, 11)	SLANG	Valid String
+   138	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   139	(10, 28, 10, 26, 11)	SLANG	Valid String
+   140	(10, 27, 11)	SLANG	Valid String
+   141	(10, 26, 10, 22, 1, 12, 11)	WORK	Valid String
+   142	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   143	(10, 20, 1, 12, 1, 12, 10, 28, 11)	WORK	Valid String
+   144	(10, 26, 11)	WORK	Valid String
+   145	(10, 28, 10, 27, 11)	SLANG	Valid String
+   146	(10, 20, 3, 12, 1, 12, 10, 21, 1, 12, 11)	WORK	Valid String
+   147	(10, 25, 10, 21, 1, 12, 11)	WORK	Valid String
+   148	(10, 28, 10, 25, 11)	SLANG	Valid String
+   149	(10, 25, 11)	WORK	Valid String
+   150	(10, 21, 3, 12, 10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   151	(10, 25, 11)	WORK	Valid String
+   152	(10, 27, 10, 20, 1, 12, 2, 12, 11)	SLANG	Valid String
+   153	(10, 27, 10, 28, 11)	SLANG	Valid String
+   154	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   155	(10, 28, 10, 25, 11)	SLANG	Valid String
+   156	(10, 28, 11)	SLANG	Valid String
+   157	(10, 25, 11)	WORK	Valid String
+   158	(10, 25, 11)	WORK	Valid String
+   159	(10, 21, 2, 12, 10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   160	(10, 27, 10, 20, 3, 12, 2, 12, 11)	SLANG	Valid String
+   161	(10, 22, 1, 12, 10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   162	(10, 20, 3, 12, 3, 12, 11)	WORK	Valid String
+   163	(10, 25, 11)	WORK	Valid String
+   164	(10, 20, 1, 12, 3, 12, 10, 26, 11)	WORK	Valid String
+   165	(10, 20, 1, 12, 2, 12, 10, 27, 11)	WORK	Valid String
+   166	(10, 28, 10, 27, 11)	SLANG	Valid String
+   167	(10, 28, 10, 22, 1, 12, 11)	SLANG	Valid String
+   168	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   169	(10, 27, 11)	SLANG	Valid String
+   170	(10, 27, 11)	SLANG	Valid String
+   171	(10, 22, 2, 12, 10, 28, 11)	MOVEMENT	Valid String
+   172	(10, 25, 10, 25, 11)	WORK	Valid String
+   173	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   174	(10, 22, 3, 12, 10, 26, 11)	MOVEMENT	Valid String
+   175	(10, 22, 3, 12, 10, 25, 11)	MOVEMENT	Valid String
+   176	(10, 26, 10, 27, 11)	WORK	Valid String
+   177	(10, 20, 2, 12, 1, 12, 10, 25, 11)	WORK	Valid String
+   178	(10, 28, 10, 21, 2, 12, 11)	SLANG	Valid String
+   179	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   180	(10, 26, 11)	WORK	Valid String
+   181	(10, 26, 11)	WORK	Valid String
+   182	(10, 26, 10, 21, 3, 12, 11)	WORK	Valid String
+   183	(10, 28, 10, 22, 1, 12, 11)	SLANG	Valid String
+   184	(10, 25, 11)	WORK	Valid String
+   185	(10, 27, 10, 25, 11)	SLANG	Valid String
+   186	(10, 25, 11)	WORK	Valid String
+   187	(10, 21, 1, 12, 10, 27, 11)	MOVEMENT	Valid String
+   188	(10, 21, 2, 12, 10, 20, 2, 12, 2, 12, 11)	MOVEMENT	Valid String
+   189	(10, 20, 3, 12, 2, 12, 11)	WORK	Valid String
+   190	(10, 25, 10, 20, 2, 12, 1, 12, 11)	WORK	Valid String
+   191	(10, 28, 11)	SLANG	Valid String
+   192	(10, 20, 1, 12, 3, 12, 10, 25, 11)	WORK	Valid String
+   193	(10, 27, 11)	SLANG	Valid String
+   194	(10, 22, 1, 12, 10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   195	(10, 20, 3, 12, 1, 12, 10, 21, 2, 12, 11)	WORK	Valid String
+   196	(10, 27, 11)	SLANG	Valid String
+   197	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   198	(10, 27, 11)	SLANG	Valid String
+   199	(10, 20, 1, 12, 3, 12, 10, 22, 3, 12, 11)	WORK	Valid String
+   200	(10, 28, 11)	SLANG	Valid String
+   201	(10, 20, 2, 12, 1, 12, 11)	WORK	Valid String
+   202	(10, 21, 1, 12, 10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   203	(10, 26, 11)	WORK	Valid String
+   204	(10, 21, 1, 12, 10, 25, 11)	MOVEMENT	Valid String
+   205	(10, 28, 11)	SLANG	Valid String
+   206	(10, 21, 1, 12, 10, 28, 11)	MOVEMENT	Valid String
+   207	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+   208	(10, 21, 2, 12, 10, 26, 11)	MOVEMENT	Valid String
+   209	(10, 28, 10, 22, 2, 12, 11)	SLANG	Valid String
+   210	(10, 28, 11)	SLANG	Valid String
+   211	(10, 26, 11)	WORK	Valid String
+   212	(10, 25, 11)	WORK	Valid String
+   213	(10, 22, 1, 12, 10, 26, 11)	MOVEMENT	Valid String
+   214	(10, 20, 2, 12, 3, 12, 10, 26, 11)	WORK	Valid String
+   215	(10, 26, 11)	WORK	Valid String
+   216	(10, 28, 11)	SLANG	Valid String
+   217	(10, 27, 11)	SLANG	Valid String
+   218	(10, 26, 10, 21, 1, 12, 11)	WORK	Valid String
+   219	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   220	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   221	(10, 22, 3, 12, 10, 28, 11)	MOVEMENT	Valid String
+   222	(10, 28, 11)	SLANG	Valid String
+   223	(10, 28, 10, 26, 11)	SLANG	Valid String
+   224	(10, 26, 11)	WORK	Valid String
+   225	(10, 26, 11)	WORK	Valid String
+   226	(10, 26, 11)	WORK	Valid String
+   227	(10, 25, 11)	WORK	Valid String
+   228	(10, 27, 10, 25, 11)	SLANG	Valid String
+   229	(10, 27, 10, 20, 2, 12, 2, 12, 11)	SLANG	Valid String
+   230	(10, 25, 10, 20, 1, 12, 2, 25, 11)	WORK	Valid String
+   231	(10, 28, 11)	SLANG	Valid String
+   232	(10, 21, 3, 12, 10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   233	(10, 20, 1, 12, 2, 12, 10, 25, 11)	WORK	Valid String
+   234	(10, 28, 10, 27, 11)	SLANG	Valid String
+   235	(10, 25, 11)	WORK	Valid String
+   236	(10, 20, 3, 12, 3, 12, 11)	WORK	Valid String
+   237	(10, 27, 11)	SLANG	Valid String
+   238	(10, 28, 11)	SLANG	Valid String
+   239	(10, 27, 11)	SLANG	Valid String
+   240	(10, 27, 11)	SLANG	Valid String
+   241	(10, 28, 11)	SLANG	Valid String
+   242	(10, 21, 2, 12, 10, 26, 11)	MOVEMENT	Valid String
+   243	(10, 28, 10, 26, 11)	SLANG	Valid String
+   244	(10, 28, 10, 22, 1, 11, 11)	SLANG	Valid String
+   245	(10, 26, 10, 25, 11)	WORK	Valid String
+   246	(10, 25, 10, 25, 11)	WORK	Valid String
+   247	(10, 27, 11)	SLANG	Valid String
+   248	(10, 26, 10, 21, 1, 12, 11)	WORK	Valid String
+   249	(10, 21, 2, 12, 10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   250	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   251	(10, 27, 11)	SLANG	Valid String
+   252	(10, 25, 10, 25, 11)	WORK	Valid String
+   253	(10, 27, 10, 20, 3, 12, 2, 27, 11)	SLANG	Valid String
+   254	(10, 26, 11)	WORK	Valid String
+   255	(10, 27, 11)	SLANG	Valid String
+   256	(10, 25, 11)	WORK	Valid String
+   257	(10, 26, 11)	WORK	Valid String
+   258	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   259	(10, 25, 10, 21, 1, 12, 10)	WORK	Valid String
+   260	(10, 26, 11)	WORK	Valid String
+   261	(10, 26, 10, 22, 1, 26, 11)	WORK	Valid String
+   262	(10, 26, 11)	WORK	Valid String
+   263	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   264	(10, 26, 10, 28, 11)	WORK	Valid String
+   265	(10, 25, 11)	WORK	Valid String
+   266	(10, 20, 1, 12, 2, 12, 10, 24, 11)	WORK	Valid String
+   267	(10, 25, 11)	WORK	Valid String
+   268	(10, 28, 11)	SLANG	Valid String
+   269	(10, 25, 10, 26, 11)	WORK	Valid String
+   270	(10, 25, 10, 21, 2, 12, 11)	WORK	Valid String
+   271	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   272	(10, 22, 3, 12, 10, 28, 11)	MOVEMENT	Valid String
+   273	(10, 26, 11)	WORK	Valid String
+   274	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   275	(10, 26, 11)	WORK	Valid String
+   276	(10, 25, 10, 22, 1, 12, 11)	WORK	Valid String
+   277	(10, 25, 11)	WORK	Valid String
+   278	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+   279	(10, 27, 11)	SLANG	Valid String
+   280	(10, 28, 10, 21, 2, 12, 11)	SLANG	Valid String
+   281	(10, 28, 11)	SLANG	Valid String
+   282	(10, 20, 3, 12, 1, 12, 11)	WORK	Valid String
+   283	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   284	(10, 28, 10, 27, 11)	SLANG	Valid String
+   285	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   286	(10, 25, 11)	WORK	Valid String
+   287	(10, 27, 11)	SLANG	Valid String
+   288	(10, 28, 10, 22, 1, 12, 11)	SLANG	Valid String
+   289	(10, 28, 10, 25, 11)	SLANG	Valid String
+   290	(10, 20, 2, 12, 3, 12, 10, 22, 1, 12, 11)	WORK	Valid String
+   291	(10, 25, 11)	WORK	Valid String
+   292	(10, 21, 1, 12, 10, 28, 11)	MOVEMENT	Valid String
+   293	(10, 21, 3, 12, 10, 25, 11)	MOVEMENT	Valid String
+   294	(10, 25, 10, 27, 11)	WORK	Valid String
+   295	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   296	(10, 26, 10, 26, 11)	WORK	Valid String
+   297	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   298	(10, 21, 2, 12, 10, 26, 11)	MOVEMENT	Valid String
+   299	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   300	(10, 27, 10, 27, 11)	SLANG	Valid String
+   301	(10, 20, 1, 12, 2, 12, 10, 22, 3, 12, 11)	WORK	Valid String
+   302	(10, 27, 11)	SLANG	Valid String
+   303	(10, 25, 10, 26, 11)	WORK	Valid String
+   304	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   305	(10, 27, 10, 27, 11)	SLANG	Valid String
+   306	(10, 28, 11)	SLANG	Valid String
+   307	(10, 27, 11)	SLANG	Valid String
+   308	(10, 27, 10, 26, 11)	SLANG	Valid String
+   309	(10, 21, 2, 12, 10, 28, 11)	MOVEMENT	Valid String
+   310	(10, 28, 11)	SLANG	Valid String
+   311	(10, 28, 11)	SLANG	Valid String
+   312	(10, 28, 10, 28, 11)	SLANG	Valid String
+   313	(10, 27, 11)	SLANG	Valid String
+   314	(10, 21, 2, 12, 10, 26, 11)	MOVEMENT	Valid String
+   315	(10, 27, 11)	SLANG	Valid String
+   316	(10, 26, 10, 22, 3, 12, 11)	WORK	Valid String
+   317	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   318	(10, 22, 2, 12, 10, 27, 11)	MOVEMENT	Valid String
+   319	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   320	(10, 28, 10, 26, 11)	SLANG	Valid String
+   321	(10, 25, 10, 21, 3, 12, 11)	WORK	Valid String
+   322	(10, 25, 10, 26, 11)	WORK	Valid String
+   323	(10, 27, 11)	SLANG	Valid String
+   324	(10, 25, 11)	WORK	Valid String
+   325	(10, 28, 10, 25, 11)	SLANG	Valid String
+   326	(10, 26, 11)	WORK	Valid String
+   327	(10, 28, 10, 25, 11)	SLANG	Valid String
+   328	(10, 28, 11)	SLANG	Valid String
+   329	(10, 27, 10, 27, 11)	SLANG	Valid String
+   330	(10, 25, 11)	WORK	Valid String
+   331	(10, 25, 10, 28, 11)	WORK	Valid String
+   332	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   333	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   334	(10, 20, 3, 12, 2, 12, 10, 25, 11)	WORK	Valid String
+   335	(10, 27, 10, 21, 1, 12, 11)	SLANG	Valid String
+   336	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   337	(10, 25, 11)	WORK	Valid String
+   338	(10, 22, 3, 12, 10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   339	(10, 26, 11)	WORK	Valid String
+   340	(10, 27, 11)	SLANG	Valid String
+   341	(10, 25, 11)	WORK	Valid String
+   342	(10, 27, 10, 28, 11)	SLANG	Valid String
+   343	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   344	(10, 28, 10, 22, 3, 12, 11)	SLANG	Valid String
+   345	(10, 20, 3, 12, 2, 12, 11)	WORK	Valid String
+   346	(10, 27, 10, 21, 2, 12, 11)	SLANG	Valid String
+   347	(10, 21, 4, 12, 10, 26, 11)	MOVEMENT	Valid String
+   348	(10, 25, 11)	WORK	Valid String
+   349	(10, 20, 4, 12, 2, 12, 10, 25, 11)	WORK	Valid String
+   350	(10, 25, 11)	WORK	Valid String
+   351	(10, 25, 11)	WORK	Valid String
+   352	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   353	(10, 25, 11)	WORK	Valid String
+   354	(10, 21, 3, 12, 10, 28, 10)	MOVEMENT	Valid String
+   355	(10, 28, 10, 26, 11)	SLANG	Valid String
+   356	(10, 26, 11)	WORK	Valid String
+   357	(10, 26, 11)	WORK	Valid String
+   358	(10, 22, 2, 12, 10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   359	(10, 27, 10, 27, 11)	SLANG	Valid String
+   360	(10, 25, 11)	WORK	Valid String
+   361	(10, 21, 2, 12, 10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   362	(10, 20, 1, 12, 1, 12, 10, 25, 11)	WORK	Valid String
+   363	(10, 27, 10, 22, 1, 12, 11)	SLANG	Valid String
+   364	(10, 25, 11)	WORK	Valid String
+   365	(10, 22, 1, 12, 10, 26, 11)	MOVEMENT	Valid String
+   366	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   367	(10, 21, 10, 12, 11)	SLANG	Valid String
+   368	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   369	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   370	(10, 22, 2, 12, 10, 20, 2, 12, 1, 12, 11)	MOVEMENT	Valid String
+   371	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   372	(10, 26, 10, 22, 3, 12, 11)	WORK	Valid String
+   373	(10, 26, 11)	WORK	Valid String
+   374	(10, 25, 11)	WORK	Valid String
+   375	(10, 21, 1, 12, 10, 28, 11)	MOVEMENT	Valid String
+   376	(10, 27, 10, 26, 11)	SLANG	Valid String
+   377	(10, 20, 3, 12, 1, 12, 10, 25, 11)	WORK	Valid String
+   378	(10, 26, 11)	WORK	Valid String
+   379	(10, 22, 3, 12, 10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   380	(10, 28, 11)	SLANG	Valid String
+   381	(10, 27, 10, 25, 11)	SLANG	Valid String
+   382	(10, 25, 11)	WORK	Valid String
+   383	(10, 28, 11)	SLANG	Valid String
+   384	(10, 20, 2, 12, 2, 25, 11)	WORK	Valid String
+   385	(10, 26, 11)	WORK	Valid String
+   386	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   387	(10, 21, 4, 12, 10, 20, 3, 12, 2, 12, 11)	MOVEMENT	Valid String
+   388	(10, 27, 11)	SLANG	Valid String
+   389	(10, 27, 11)	SLANG	Valid String
+   390	(10, 27, 10, 22, 3, 12, 11)	SLANG	Valid String
+   391	(10, 22, 3, 12, 10, 21, 1, 26, 11)	MOVEMENT	Valid String
+   392	(10, 27, 11)	SLANG	Valid String
+   393	(10, 25, 11)	WORK	Valid String
+   394	(10, 22, 2, 12, 10, 27, 11)	MOVEMENT	Valid String
+   395	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   396	(10, 27, 10, 21, 3, 12, 11)	SLANG	Valid String
+   397	(10, 22, 2, 12, 10, 27, 11)	MOVEMENT	Valid String
+   398	(10, 25, 11)	WORK	Valid String
+   399	(10, 21, 1, 12, 10, 20, 3, 11, 1, 12, 11)	MOVEMENT	Valid String
+   400	(10, 21, 3, 12, 10, 21, 3, 25, 11)	MOVEMENT	Valid String
+   401	(10, 25, 10, 22, 2, 12, 11)	WORK	Valid String
+   402	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   403	(10, 20, 2, 12, 3, 12, 11)	WORK	Valid String
+   404	(10, 28, 10, 27, 11)	SLANG	Valid String
+   405	(10, 25, 11)	WORK	Valid String
+   406	(10, 28, 10, 22, 3, 12, 11)	SLANG	Valid String
+   407	(10, 26, 11)	WORK	Valid String
+   408	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   409	(10, 21, 3, 12, 10, 27, 11)	MOVEMENT	Valid String
+   410	(10, 21, 3, 12, 10, 25, 11)	MOVEMENT	Valid String
+   411	(10, 20, 2, 12, 1, 12, 11)	WORK	Valid String
+   412	(10, 20, 1, 12, 3, 12, 10, 26, 11)	WORK	Valid String
+   413	(10, 28, 10, 20, 1, 12, 1, 12, 11)	SLANG	Valid String
+   414	(10, 27, 10, 22, 1, 12, 11)	SLANG	Valid String
+   415	(10, 28, 11)	SLANG	Valid String
+   416	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   417	(10, 27, 10, 21, 3, 12, 11)	SLANG	Valid String
+   418	(10, 28, 10, 20, 1, 12, 2, 12, 11)	SLANG	Valid String
+   419	(10, 26, 11)	WORK	Valid String
+   420	(10, 25, 10, 25, 11)	WORK	Valid String
+   421	(10, 28, 11)	SLANG	Valid String
+   422	(10, 22, 3, 12, 10, 28, 11)	MOVEMENT	Valid String
+   423	(10, 25, 11)	WORK	Valid String
+   424	(10, 27, 11)	SLANG	Valid String
+   425	(10, 25, 11)	WORK	Valid String
+   426	(10, 20, 3, 12, 3, 12, 10, 20, 3, 12, 3, 12, 11)	WORK	Valid String
+   427	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   428	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   429	(10, 21, 2, 12, 10, 27, 11)	MOVEMENT	Valid String
+   430	(10, 26, 11)	WORK	Valid String
+   431	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   432	(10, 27, 11)	SLANG	Valid String
+   433	(10, 27, 10, 21, 3, 12, 11)	SLANG	Valid String
+   434	(10, 20, 3, 12, 3, 12, 10, 28, 11)	WORK	Valid String
+   435	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   436	(10, 21, 3, 12, 10, 27, 11)	MOVEMENT	Valid String
+   437	(10, 21, 1, 12, 10, 26, 11)	MOVEMENT	Valid String
+   438	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   439	(10, 21, 1, 12, 10, 27, 11)	MOVEMENT	Valid String
+   440	(10, 27, 10, 25, 11)	SLANG	Valid String
+   441	(10, 21, 3, 12, 10, 26, 11)	MOVEMENT	Valid String
+   442	(10, 27, 11)	SLANG	Valid String
+   443	(10, 25, 11)	WORK	Valid String
+   444	(10, 22, 3, 12, 10, 26, 11)	MOVEMENT	Valid String
+   445	(10, 25, 11)	WORK	Valid String
+   446	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   447	(10, 27, 11)	SLANG	Valid String
+   448	(10, 26, 10, 26, 11)	WORK	Valid String
+   449	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   450	(10, 26, 11)	WORK	Valid String
+   451	(10, 27, 11)	SLANG	Valid String
+   452	(10, 27, 11)	SLANG	Valid String
+   453	(10, 20, 2, 12, 3, 12, 10, 25, 11)	WORK	Valid String
+   454	(10, 27, 10, 20, 2, 12, 1, 12, 11)	SLANG	Valid String
+   455	(10, 28, 11)	SLANG	Valid String
+   456	(10, 26, 10, 28, 11)	WORK	Valid String
+   457	(10, 21, 1, 12, 10, 28, 11)	MOVEMENT	Valid String
+   458	(10, 28, 11)	SLANG	Valid String
+   459	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   460	(10, 21, 3, 12, 10, 26, 11)	MOVEMENT	Valid String
+   461	(10, 27, 11)	SLANG	Valid String
+   462	(10, 28, 11)	SLANG	Valid String
+   463	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+   464	(10, 28, 11)	SLANG	Valid String
+   465	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   466	(10, 25, 11)	WORK	Valid String
+   467	(10, 27, 10, 25, 11)	SLANG	Valid String
+   468	(10, 26, 10, 21, 1, 12, 11)	WORK	Valid String
+   469	(10, 20, 3, 12, 3, 12, 11)	WORK	Valid String
+   470	(10, 26, 11)	WORK	Valid String
+   471	(10, 20, 2, 12, 3, 12, 11)	WORK	Valid String
+   472	(10, 25, 10, 26, 11)	WORK	Valid String
+   473	(10, 25, 11)	WORK	Valid String
+   474	(10, 27, 10, 20, 2, 12, 3, 12, 11)	SLANG	Valid String
+   475	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   476	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   477	(10, 20, 3, 12, 1, 12, 11)	WORK	Valid String
+   478	(10, 22, 2, 12, 10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   479	(10, 21, 2, 12, 10, 20, 2, 12, 2, 12, 11)	MOVEMENT	Valid String
+   480	(10, 26, 11)	WORK	Valid String
+   481	(10, 21, 3, 12, 10, 25, 11)	MOVEMENT	Valid String
+   482	(10, 20, 2, 12, 1, 12, 11)	WORK	Valid String
+   483	(10, 25, 11)	WORK	Valid String
+   484	(10, 28, 10, 27, 11)	SLANG	Valid String
+   485	(10, 25, 11)	WORK	Valid String
+   486	(10, 25, 11)	WORK	Valid String
+   487	(10, 28, 10, 22, 1, 12, 11)	SLANG	Valid String
+   488	(10, 25, 11)	WORK	Valid String
+   489	(10, 20, 2, 12, 1, 12, 10, 25, 11)	WORK	Valid String
+   490	(10, 26, 11)	WORK	Valid String
+   491	(10, 27, 11)	SLANG	Valid String
+   492	(10, 26, 10, 27, 11)	WORK	Valid String
+   493	(10, 20, 3, 12, 3, 12, 10, 26, 11)	WORK	Valid String
+   494	(10, 25, 10, 20, 2, 12, 3, 12, 11)	WORK	Valid String
+   495	(10, 27, 10, 21, 3, 12, 11)	SLANG	Valid String
+   496	(10, 22, 1, 12, 10, 27, 11)	MOVEMENT	Valid String
+   497	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   498	(10, 27, 11)	SLANG	Valid String
+   499	(10, 27, 11)	SLANG	Valid String
+   500	(10, 26, 11)	WORK	Valid String
+   501	(10, 20, 1, 12, 4, 12, 11)	WORK	Valid String
+   502	(10, 26, 10, 26, 11)	WORK	Valid String
+   503	(10, 26, 10, 1, 1, 12, 11)	WORK	Valid String
+   504	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   505	(10, 20, 3, 12, 3, 12, 11)	WORK	Valid String
+   506	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   507	(10, 27, 11)	SLANG	Valid String
+   508	(10, 25, 11)	WORK	Valid String
+   509	(10, 21, 3, 12, 10, 28, 11)	MOVEMENT	Valid String
+   510	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   511	(10, 20, 3, 12, 1, 12, 11)	WORK	Valid String
+   512	(10, 22, 1, 12, 10, 20, 2, 12, 3, 12, 11)	MOVEMENT	Valid String
+   513	(10, 28, 10, 26, 11)	SLANG	Valid String
+   514	(10, 21, 1, 12, 10, 28, 11)	MOVEMENT	Valid String
+   515	(10, 25, 11)	WORK	Valid String
+   516	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   517	(10, 25, 10, 26, 11)	WORK	Valid String
+   518	(10, 25, 10, 21, 3, 12, 11)	WORK	Valid String
+   519	(10, 28, 10, 28, 11)	SLANG	Valid String
+   520	(10, 26, 11)	WORK	Valid String
+   521	(10, 26, 10, 26, 11)	WORK	Valid String
+   522	(10, 27, 10, 20, 1, 12, 2, 21, 11)	SLANG	Valid String
+   523	(10, 26, 11)	WORK	Valid String
+   524	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+   525	(10, 28, 11)	SLANG	Valid String
+   526	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   527	(10, 25, 11)	WORK	Valid String
+   528	(10, 25, 10, 28, 11)	WORK	Valid String
+   529	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   530	(10, 21, 2, 12, 10, 24, 11)	MOVEMENT	Valid String
+   531	(10, 20, 1, 12, 1, 12, 10, 22, 2, 12, 11)	WORK	Valid String
+   532	(10, 20, 3, 12, 3, 12, 10, 26, 11)	WORK	Valid String
+   533	(10, 25, 10, 26, 11)	WORK	Valid String
+   534	(10, 25, 11)	WORK	Valid String
+   535	(10, 27, 10, 26, 11)	SLANG	Valid String
+   536	(10, 26, 11)	WORK	Valid String
+   537	(10, 28, 11)	SLANG	Valid String
+   538	(10, 26, 11)	WORK	Valid String
+   539	(10, 28, 11)	SLANG	Valid String
+   540	(10, 25, 10, 20, 2, 12, 1, 12, 11)	WORK	Valid String
+   541	(10, 27, 10, 27, 11)	SLANG	Valid String
+   542	(10, 27, 10, 22, 3, 12, 11)	SLANG	Valid String
+   543	(10, 25, 11)	WORK	Valid String
+   544	(10, 27, 11)	SLANG	Valid String
+   545	(10, 27, 11)	SLANG	Valid String
+   546	(10, 20, 3, 12, 2, 12, 11)	WORK	Valid String
+   547	(10, 21, 2, 12, 10, 26, 11)	MOVEMENT	Valid String
+   548	(10, 21, 3, 12, 10, 28, 11)	MOVEMENT	Valid String
+   549	(10, 25, 10, 20, 3, 12, 1, 12, 11)	WORK	Valid String
+   550	(10, 25, 11)	WORK	Valid String
+   551	(10, 28, 11)	SLANG	Valid String
+   552	(10, 25, 11)	WORK	Valid String
+   553	(10, 20, 1, 12, 2, 12, 11)	WORK	Valid String
+   554	(10, 28, 10, 28, 11)	SLANG	Valid String
+   555	(10, 27, 10, 26, 11)	SLANG	Valid String
+   556	(10, 22, 3, 12, 10, 20, 1, 12, 2, 12, 11)	MOVEMENT	Valid String
+   557	(10, 25, 10, 25, 11)	WORK	Valid String
+   558	(10, 20, 1, 12, 1, 12, 11)	WORK	Valid String
+   559	(10, 27, 11)	SLANG	Valid String
+   560	(10, 26, 11)	WORK	Valid String
+   561	(10, 26, 11)	WORK	Valid String
+   562	(10, 21, 3, 12, 10, 26, 11)	MOVEMENT	Valid String
+   563	(10, 20, 3, 12, 1, 12, 11)	WORK	Valid String
+   564	(10, 26, 10, 21, 3, 12, 11)	WORK	Valid String
+   565	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   566	(10, 25, 11)	WORK	Valid String
+   567	(10, 26, 11)	WORK	Valid String
+   568	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   569	(10, 25, 10, 27, 11)	WORK	Valid String
+   570	(10, 20, 3, 12, 2, 12, 11)	WORK	Valid String
+   571	(10, 20, 1, 12, 3, 12, 10, 25, 11)	WORK	Valid String
+   572	(10, 28, 11)	SLANG	Valid String
+   573	(10, 25, 10, 22, 1, 12, 11)	WORK	Valid String
+   574	(10, 25, 10, 27, 11)	WORK	Valid String
+   575	(10, 20, 3, 12, 1, 12, 10, 28, 11)	WORK	Valid String
+   576	(10, 22, 2, 12, 10, 25, 11)	MOVEMENT	Valid String
+   577	(10, 26, 10, 21, 1, 12, 11)	WORK	Valid String
+   578	(10, 25, 10, 27, 11)	WORK	Valid String
+   579	(10, 28, 11)	SLANG	Valid String
+   580	(10, 27, 11)	SLANG	Valid String
+   581	(10, 26, 10, 28, 11)	WORK	Valid String
+   582	(10, 20, 1, 12, 1, 12, 10, 28, 11)	WORK	Valid String
+   583	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   584	(10, 28, 11)	SLANG	Valid String
+   585	(10, 26, 10, 20, 3, 12, 1, 12, 11)	WORK	Valid String
+   586	(10, 28, 10, 22, 2, 12, 11)	SLANG	Valid String
+   587	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   588	(10, 28, 10, 22, 1, 12, 11)	SLANG	Valid String
+   589	(10, 20, 2, 12, 3, 12, 10, 21, 3, 12, 11)	WORK	Valid String
+   590	(10, 28, 10, 20, 2, 12, 1, 12, 11)	SLANG	Valid String
+   591	(10, 26, 10, 20, 2, 12, 2, 12, 11)	WORK	Valid String
+   592	(10, 28, 11)	SLANG	Valid String
+   593	(10, 27, 10, 28, 11)	SLANG	Valid String
+   594	(10, 21, 1, 12, 10, 27, 11)	MOVEMENT	Valid String
+   595	(10, 28, 10, 20, 2, 12, 1, 12, 11)	SLANG	Valid String
+   596	(10, 28, 11)	SLANG	Valid String
+   597	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   598	(10, 28, 11)	SLANG	Valid String
+   599	(10, 22, 2, 12, 10, 20, 2, 12, 3, 12, 11)	MOVEMENT	Valid String
+   600	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   601	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   602	(10, 27, 11)	SLANG	Valid String
+   603	(10, 27, 11)	SLANG	Valid String
+   604	(10, 25, 10, 28, 11)	WORK	Valid String
+   605	(10, 27, 10, 25, 11)	SLANG	Valid String
+   606	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   607	(10, 25, 10, 28, 11)	WORK	Valid String
+   608	(10, 21, 1, 12, 10, 27, 11)	MOVEMENT	Valid String
+   609	(10, 27, 11)	SLANG	Valid String
+   610	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   611	(10, 26, 11)	WORK	Valid String
+   612	(10, 26, 10, 28, 11)	WORK	Valid String
+   613	(10, 25, 10, 28, 11)	WORK	Valid String
+   614	(10, 22, 1, 12, 10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   615	(10, 22, 3, 12, 10, 28, 11)	MOVEMENT	Valid String
+   616	(10, 25, 10, 28, 11)	WORK	Valid String
+   617	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   618	(10, 21, 3, 12, 10, 20, 2, 12, 3, 12, 11)	MOVEMENT	Valid String
+   619	(10, 26, 10, 27, 11)	WORK	Valid String
+   620	(10, 26, 10, 1, 1, 12, 11)	WORK	Valid String
+   621	(10, 21, 2, 12, 10, 27, 11)	MOVEMENT	Valid String
+   622	(10, 25, 10, 21, 3, 12, 11)	WORK	Valid String
+   623	(10, 28, 10, 26, 11)	SLANG	Valid String
+   624	(10, 26, 11)	WORK	Valid String
+   625	(10, 21, 2, 12, 10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   626	(10, 28, 11)	SLANG	Valid String
+   627	(10, 22, 1, 12, 10, 1, 3, 12, 11)	MOVEMENT	Valid String
+   628	(10, 22, 1, 12, 10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   629	(10, 26, 10, 28, 11)	WORK	Valid String
+   630	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   631	(10, 20, 3, 12, 2, 12, 10, 20, 3, 11, 1, 12, 11)	WORK	Valid String
+   632	(10, 26, 10, 21, 3, 12, 11)	WORK	Valid String
+   633	(10, 21, 3, 12, 10, 27, 11)	MOVEMENT	Valid String
+   634	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   635	(10, 26, 11)	WORK	Valid String
+   636	(10, 25, 10, 26, 11)	WORK	Valid String
+   637	(10, 25, 10, 20, 1, 12, 1, 12, 11)	WORK	Valid String
+   638	(10, 25, 10, 28, 11)	WORK	Valid String
+   639	(10, 26, 11)	WORK	Valid String
+   640	(10, 26, 11)	WORK	Valid String
+   641	(10, 25, 11)	WORK	Valid String
+   642	(10, 28, 10, 25, 11)	SLANG	Valid String
+   643	(10, 20, 3, 12, 2, 12, 10, 26, 11)	WORK	Valid String
+   644	(10, 26, 11)	WORK	Valid String
+   645	(10, 26, 10, 27, 11)	WORK	Valid String
+   646	(10, 25, 11)	WORK	Valid String
+   647	(10, 28, 10, 1, 3, 12, 11)	SLANG	Valid String
+   648	(10, 26, 10, 26, 11)	WORK	Valid String
+   649	(10, 25, 10, 27, 11)	WORK	Valid String
+   650	(10, 25, 10, 26, 11)	WORK	Valid String
+   651	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   652	(10, 21, 1, 12, 10, 21, 11)	MOVEMENT	Valid String
+   653	(10, 26, 11)	WORK	Valid String
+   654	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   655	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   656	(10, 21, 2, 12, 10, 25, 11)	MOVEMENT	Valid String
+   657	(10, 28, 10, 28, 11)	SLANG	Valid String
+   658	(10, 25, 10, 27, 11)	WORK	Valid String
+   659	(10, 26, 11)	WORK	Valid String
+   660	(10, 26, 11)	WORK	Valid String
+   661	(10, 21, 3, 12, 10, 28, 11)	MOVEMENT	Valid String
+   662	(10, 25, 10, 25, 11)	WORK	Valid String
+   663	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   664	(10, 27, 11)	SLANG	Valid String
+   665	(10, 25, 10, 27, 11)	WORK	Valid String
+   666	(10, 25, 10, 21, 2, 12, 11)	WORK	Valid String
+   667	(10, 25, 10, 21, 3, 12, 11)	WORK	Valid String
+   668	(10, 27, 11)	SLANG	Valid String
+   669	(10, 20, 2, 12, 1, 12, 11)	WORK	Valid String
+   670	(10, 25, 10, 27, 11)	WORK	Valid String
+   671	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   672	(10, 20, 1, 12, 2, 25, 10, 1, 4, 12, 11)	WORK	Valid String
+   673	(10, 27, 11)	SLANG	Valid String
+   674	(10, 25, 11)	WORK	Valid String
+   675	(10, 21, 1, 12, 10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   676	(10, 27, 11)	SLANG	Valid String
+   677	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   678	(10, 28, 11)	SLANG	Valid String
+   679	(10, 21, 1, 12, 10, 26, 11)	MOVEMENT	Valid String
+   680	(10, 27, 11)	SLANG	Valid String
+   681	(10, 27, 10, 20, 2, 12, 3, 12, 11)	SLANG	Valid String
+   682	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   683	(10, 27, 11)	SLANG	Valid String
+   684	(10, 20, 1, 12, 3, 12, 10, 26, 11)	WORK	Valid String
+   685	(10, 27, 11)	SLANG	Valid String
+   686	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   687	(10, 25, 11)	WORK	Valid String
+   688	(10, 20, 1, 12, 1, 12, 11)	WORK	Valid String
+   689	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   690	(10, 20, 2, 12, 3, 12, 11)	WORK	Valid String
+   691	(10, 25, 11)	WORK	Valid String
+   692	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   693	(10, 28, 11)	SLANG	Valid String
+   694	(10, 28, 11)	SLANG	Valid String
+   695	(10, 20, 1, 12, 1, 12, 11)	WORK	Valid String
+   696	(10, 20, 3, 12, 3, 12, 10, 25, 11)	WORK	Valid String
+   697	(10, 21, 3, 12, 10, 25, 11)	MOVEMENT	Valid String
+   698	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   699	(10, 22, 3, 12, 10, 20, 2, 12, 2, 12, 11)	MOVEMENT	Valid String
+   700	(10, 27, 10, 28, 11)	SLANG	Valid String
+   701	(10, 28, 11)	SLANG	Valid String
+   702	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   703	(10, 22, 1, 12, 10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   704	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+   705	(10, 27, 11)	SLANG	Valid String
+   706	(10, 28, 10, 22, 3, 12, 11)	SLANG	Valid String
+   707	(10, 20, 2, 12, 3, 12, 11)	WORK	Valid String
+   708	(10, 26, 10, 25, 11)	WORK	Valid String
+   709	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+   710	(10, 22, 1, 12, 10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   711	(10, 28, 10, 28, 11)	SLANG	Valid String
+   712	(10, 20, 1, 12, 2, 12, 11)	WORK	Valid String
+   713	(10, 20, 1, 12, 1, 12, 10, 25, 11)	WORK	Valid String
+   714	(10, 20, 2, 12, 2, 12, 10, 26, 11)	WORK	Valid String
+   715	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   716	(10, 28, 11)	SLANG	Valid String
+   717	(10, 28, 11)	SLANG	Valid String
+   718	(10, 26, 10, 21, 1, 12, 11)	WORK	Valid String
+   719	(10, 22, 1, 12, 10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   720	(10, 26, 11)	WORK	Valid String
+   721	(10, 27, 11)	SLANG	Valid String
+   722	(10, 28, 11)	SLANG	Valid String
+   723	(10, 26, 11)	WORK	Valid String
+   724	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   725	(10, 26, 11)	WORK	Valid String
+   726	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   727	(10, 27, 10, 25, 11)	SLANG	Valid String
+   728	(10, 28, 11)	SLANG	Valid String
+   729	(10, 20, 3, 12, 2, 12, 11)	WORK	Valid String
+   730	(10, 28, 11)	SLANG	Valid String
+   731	(10, 20, 3, 12, 3, 12, 11)	WORK	Valid String
+   732	(10, 28, 10, 22, 2, 12, 11)	SLANG	Valid String
+   733	(10, 28, 10, 28, 11)	SLANG	Valid String
+   734	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   735	(10, 22, 2, 12, 10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   736	(10, 26, 11)	WORK	Valid String
+   737	(10, 26, 10, 26, 11)	WORK	Valid String
+   738	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   739	(10, 28, 11)	SLANG	Valid String
+   740	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   741	(10, 21, 3, 12, 10, 27, 11)	MOVEMENT	Valid String
+   742	(10, 27, 11)	SLANG	Valid String
+   743	(10, 20, 3, 12, 3, 12, 11)	WORK	Valid String
+   744	(10, 22, 2, 12, 10, 28, 11)	MOVEMENT	Valid String
+   745	(10, 28, 10, 20, 2, 12, 1, 12, 11)	SLANG	Valid String
+   746	(10, 20, 1, 12, 2, 12, 10, 20, 3, 12, 1, 12, 11)	WORK	Valid String
+   747	(10, 28, 10, 26, 11)	SLANG	Valid String
+   748	(10, 28, 11)	SLANG	Valid String
+   749	(10, 26, 11)	WORK	Valid String
+   750	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   751	(10, 21, 1, 12, 10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   752	(10, 25, 11)	WORK	Valid String
+   753	(10, 28, 11)	SLANG	Valid String
+   754	(10, 27, 11)	SLANG	Valid String
+   755	(10, 27, 11)	SLANG	Valid String
+   756	(10, 25, 10, 25, 11)	WORK	Valid String
+   757	(10, 25, 11)	WORK	Valid String
+   758	(10, 25, 11)	WORK	Valid String
+   759	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   760	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   761	(10, 27, 11)	SLANG	Valid String
+   762	(10, 25, 10, 28, 11)	WORK	Valid String
+   763	(10, 21, 3, 12, 10, 28, 11)	MOVEMENT	Valid String
+   764	(10, 20, 3, 12, 2, 12, 10, 24, 11)	WORK	Valid String
+   765	(10, 20, 2, 12, 3, 12, 11)	WORK	Valid String
+   766	(10, 25, 11)	WORK	Valid String
+   767	(10, 20, 2, 12, 2, 12, 11)	WORK	Valid String
+   768	(10, 20, 2, 12, 3, 12, 11)	WORK	Valid String
+   769	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   770	(10, 27, 10, 25, 11)	SLANG	Valid String
+   771	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   772	(10, 25, 11)	WORK	Valid String
+   773	(10, 20, 3, 12, 1, 12, 10, 27, 10)	WORK	Valid String
+   774	(10, 26, 11)	WORK	Valid String
+   775	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   776	(10, 25, 11)	WORK	Valid String
+   777	(10, 27, 11)	SLANG	Valid String
+   778	(10, 25, 10, 26, 11)	WORK	Valid String
+   779	(10, 26, 10, 26, 11)	WORK	Valid String
+   780	(10, 26, 11)	WORK	Valid String
+   781	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+   782	(10, 21, 2, 12, 10, 25, 11)	MOVEMENT	Valid String
+   783	(10, 28, 10, 20, 3, 12, 3, 12, 11)	SLANG	Valid String
+   784	(10, 22, 3, 12, 10, 28, 11)	MOVEMENT	Valid String
+   785	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   786	(10, 25, 11)	WORK	Valid String
+   787	(10, 28, 11)	SLANG	Valid String
+   788	(10, 22, 1, 12, 10, 21, 1, 12, 10)	MOVEMENT	Valid String
+   789	(10, 21, 3, 12, 10, 20, 3, 12, 2, 12, 11)	MOVEMENT	Valid String
+   790	(10, 27, 10, 21, 3, 12, 11)	SLANG	Valid String
+   791	(10, 28, 10, 20, 2, 12, 2, 12, 11)	SLANG	Valid String
+   792	(10, 22, 1, 12, 10, 27, 11)	MOVEMENT	Valid String
+   793	(10, 26, 10, 25, 11)	WORK	Valid String
+   794	(10, 28, 10, 20, 2, 12, 1, 12, 11)	SLANG	Valid String
+   795	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   796	(10, 25, 10, 25, 11)	WORK	Valid String
+   797	(10, 28, 11)	SLANG	Valid String
+   798	(10, 27, 10, 25, 11)	SLANG	Valid String
+   799	(10, 26, 11)	WORK	Valid String
+   800	(10, 27, 10, 28, 11)	SLANG	Valid String
+   801	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   802	(10, 25, 11)	WORK	Valid String
+   803	(10, 25, 10, 25, 11)	WORK	Valid String
+   804	(10, 28, 11)	SLANG	Valid String
+   805	(10, 25, 10, 28, 11)	WORK	Valid String
+   806	(10, 21, 1, 12, 10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   807	(10, 22, 1, 12, 10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   808	(10, 28, 11)	SLANG	Valid String
+   809	(10, 26, 11)	WORK	Valid String
+   810	(10, 21, 2, 12, 10, 25, 11)	MOVEMENT	Valid String
+   811	(10, 25, 11)	WORK	Valid String
+   812	(10, 26, 11)	WORK	Valid String
+   813	(10, 27, 11)	SLANG	Valid String
+   814	(10, 28, 10, 28, 11)	SLANG	Valid String
+   815	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   816	(10, 28, 10, 20, 3, 12, 1, 12, 11)	SLANG	Valid String
+   817	(10, 27, 10, 28, 11)	SLANG	Valid String
+   818	(10, 27, 11)	SLANG	Valid String
+   819	(10, 25, 10, 25, 11)	WORK	Valid String
+   820	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   821	(10, 28, 10, 27, 11)	SLANG	Valid String
+   822	(10, 26, 10, 21, 3, 12, 11)	WORK	Valid String
+   823	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   824	(10, 26, 11)	WORK	Valid String
+   825	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   826	(10, 22, 2, 12, 10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   827	(10, 25, 11)	WORK	Valid String
+   828	(10, 26, 11)	WORK	Valid String
+   829	(10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   830	(10, 20, 1, 12, 2, 12, 10, 22, 1, 12, 11)	WORK	Valid String
+   831	(10, 25, 11)	WORK	Valid String
+   832	(10, 28, 11)	SLANG	Valid String
+   833	(10, 20, 3, 12, 3, 12, 11)	WORK	Valid String
+   834	(10, 22, 1, 12, 10, 22, 3, 12, 11)	MOVEMENT	Valid String
+   835	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   836	(10, 27, 10, 26, 11)	SLANG	Valid String
+   837	(10, 25, 11)	WORK	Valid String
+   838	(10, 20, 2, 12, 2, 12, 10, 28, 11)	WORK	Valid String
+   839	(10, 25, 11)	WORK	Valid String
+   840	(10, 26, 11)	WORK	Valid String
+   841	(10, 26, 11)	WORK	Valid String
+   842	(10, 28, 10, 26, 11)	SLANG	Valid String
+   843	(10, 26, 11)	WORK	Valid String
+   844	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+   845	(10, 20, 2, 12, 2, 12, 10, 28, 11)	WORK	Valid String
+   846	(10, 22, 1, 12, 10, 27, 11)	MOVEMENT	Valid String
+   847	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   848	(10, 27, 11)	SLANG	Valid String
+   849	(10, 22, 2, 12, 10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   850	(10, 20, 2, 12, 2, 12, 11)	WORK	Valid String
+   851	(10, 20, 2, 12, 1, 12, 10, 27, 11)	WORK	Valid String
+   852	(10, 27, 10, 27, 11)	SLANG	Valid String
+   853	(10, 25, 10, 21, 2, 12, 11)	WORK	Valid String
+   854	(10, 27, 10, 26, 11)	SLANG	Valid String
+   855	(10, 27, 11)	SLANG	Valid String
+   856	(10, 21, 2, 12, 10, 27, 11)	MOVEMENT	Valid String
+   857	(10, 28, 11)	SLANG	Valid String
+   858	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   859	(10, 26, 10, 21, 2, 12, 11)	WORK	Valid String
+   860	(10, 27, 10, 26, 11)	SLANG	Valid String
+   861	(10, 25, 10, 26, 11)	WORK	Valid String
+   862	(10, 20, 1, 12, 1, 12, 10, 27, 11)	WORK	Valid String
+   863	(10, 22, 3, 12, 10, 28, 11)	MOVEMENT	Valid String
+   864	(10, 26, 11)	WORK	Valid String
+   865	(10, 27, 11)	SLANG	Valid String
+   866	(10, 21, 2, 12, 10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   867	(10, 28, 11)	SLANG	Valid String
+   868	(10, 21, 2, 12, 10, 20, 1, 12, 2, 12, 11)	MOVEMENT	Valid String
+   869	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+   870	(10, 20, 3, 12, 2, 12, 10, 26, 11)	WORK	Valid String
+   871	(10, 22, 1, 12, 10, 25, 11)	MOVEMENT	Valid String
+   872	(10, 21, 3, 12, 10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   873	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+   874	(10, 20, 1, 12, 3, 12, 11)	WORK	Valid String
+   875	(10, 27, 11)	SLANG	Valid String
+   876	(10, 25, 10, 25, 11)	WORK	Valid String
+   877	(10, 21, 1, 12, 11)	MOVEMENT	Valid String
+   878	(10, 26, 11)	WORK	Valid String
+   879	(10, 27, 11)	SLANG	Valid String
+   880	(10, 27, 11)	SLANG	Valid String
+   881	(10, 28, 10, 26, 11)	SLANG	Valid String
+   882	(10, 28, 11)	SLANG	Valid String
+   883	(10, 27, 10, 22, 1, 12, 11)	SLANG	Valid String
+   884	(10, 28, 10, 21, 1, 12, 11)	SLANG	Valid String
+   885	(10, 21, 1, 12, 10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   886	(10, 27, 11)	SLANG	Valid String
+   887	(10, 25, 11)	WORK	Valid String
+   888	(10, 21, 2, 12, 11)	MOVEMENT	Valid String
+   889	(10, 22, 1, 12, 11)	MOVEMENT	Valid String
+   890	(10, 27, 10, 28, 11)	SLANG	Valid String
+   891	(10, 21, 2, 12, 10, 28, 11)	MOVEMENT	Valid String
+   892	(10, 21, 3, 12, 11)	MOVEMENT	Valid String
+   893	(10, 20, 3, 12, 3, 12, 10, 25, 11)	WORK	Valid String
+   894	(10, 25, 10, 25, 11)	WORK	Valid String
+   895	(10, 20, 2, 12, 1, 12, 11)	WORK	Valid String
+   896	(10, 20, 3, 12, 1, 12, 10, 26, 11)	WORK	Valid String
+   897	(10, 20, 1, 12, 2, 12, 11)	WORK	Valid String
+   898	(10, 25, 10, 22, 2, 12, 11)	WORK	Valid String
+   899	(10, 21, 2, 12, 10, 27, 11)	MOVEMENT	Valid String
+   900	(10, 27, 10, 21, 2, 11, 11)	SLANG	Valid String
+   901	(10, 25, 11)	WORK	Valid String
+   902	(10, 21, 3, 12, 10, 25, 11)	MOVEMENT	Valid String
+   903	(10, 26, 11)	WORK	Valid String
+   904	(10, 27, 10, 25, 10)	SLANG	Valid String
+   905	(10, 26, 11)	WORK	Valid String
+   906	(10, 26, 11)	WORK	Valid String
+   907	(10, 26, 10, 22, 2, 12, 11)	WORK	Valid String
+   908	(10, 27, 11)	SLANG	Valid String
+   909	(10, 21, 3, 12, 10, 20, 1, 12, 3, 12, 11)	MOVEMENT	Valid String
+   910	(10, 26, 10, 28, 11)	WORK	Valid String
+   911	(10, 25, 11)	WORK	Valid String
+   912	(10, 21, 2, 12, 10, 21, 1, 27, 11)	MOVEMENT	Valid String
+   913	(10, 20, 3, 12, 1, 12, 11)	WORK	Valid String
+   914	(10, 27, 11)	SLANG	Valid String
+   915	(10, 28, 10, 27, 11)	SLANG	Valid String
+   916	(10, 22, 2, 12, 11)	MOVEMENT	Valid String
+   917	(10, 28, 10, 25, 11)	SLANG	Valid String
+   918	(10, 25, 10, 25, 11)	WORK	Valid String
+   919	(10, 26, 11)	WORK	Valid String
+   920	(10, 22, 3, 12, 10, 27, 24)	MOVEMENT	Valid String
+   921	(10, 25, 10, 20, 2, 12, 3, 12, 11)	WORK	Valid String
+   922	(10, 22, 2, 12, 10, 20, 1, 25, 3, 26, 11)	MOVEMENT	Valid String
+   923	(10, 20, 2, 12, 1, 12, 11)	WORK	Valid String
+   924	(10, 26, 10, 25, 11)	WORK	Valid String
+   925	(10, 21, 1, 12, 10, 25, 11)	MOVEMENT	Valid String
+   926	(10, 25, 11)	WORK	Valid String
+   927	(10, 20, 3, 12, 3, 12, 11)	WORK	Valid String

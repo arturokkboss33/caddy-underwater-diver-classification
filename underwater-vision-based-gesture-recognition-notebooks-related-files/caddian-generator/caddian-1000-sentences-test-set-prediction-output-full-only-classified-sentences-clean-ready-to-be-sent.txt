@@ -1,0 +1,1000 @@
+start_comm carry end_comm 
+start_comm photo end_comm 
+start_comm here start_comm boat end_comm 
+start_comm mosaic one num_delimiter two num_delimiter start_comm photo end_comm 
+start_comm boat start_comm down one num_delimiter end_comm 
+start_comm carry start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm mosaic one num_delimiter two num_delimiter end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm down three num_delimiter start_comm boat end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm mosaic one num_delimiter one num_delimiter end_comm 
+start_comm here start_comm carry end_comm 
+start_comm photo start_comm boat end_comm 
+start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm mosaic two num_delimiter three num_delimiter start_comm photo end_comm 
+start_comm up two num_delimiter start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm here start_comm carry end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm mosaic one num_delimiter three num_delimiter start_comm up three num_delimiter end_comm 
+start_comm carry start_comm down three num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm down one num_delimiter start_comm up one num_delimiter end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm down one num_delimiter start_comm up two num_delimiter end_comm 
+start_comm photo start_comm boat end_comm 
+start_comm carry start_comm up one num_delimiter end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm boat start_comm carry end_comm 
+start_comm carry start_comm here end_comm 
+start_comm here start_comm boat end_comm 
+start_comm boat end_comm 
+start_comm mosaic one num_delimiter one num_delimiter start_comm boat end_comm 
+start_comm carry start_comm up one num_delimiter end_comm 
+start_comm here end_comm 
+start_comm up one num_delimiter start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm down three num_delimiter start_comm down three num_delimiter end_comm 
+start_comm boat start_comm photo end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm carry start_comm here end_comm 
+start_comm here end_comm 
+start_comm boat start_comm photo end_comm 
+start_comm here start_comm boat end_comm 
+start_comm mosaic three num_delimiter one num_delimiter end_comm 
+start_comm mosaic two num_delimiter one num_delimiter start_comm photo end_comm 
+start_comm mosaic three num_delimiter one num_delimiter start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm here end_comm 
+start_comm here end_comm 
+start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm boat end_comm 
+start_comm up one num_delimiter start_comm down three num_delimiter end_comm 
+start_comm up two num_delimiter start_comm carry end_comm 
+start_comm up three num_delimiter start_comm here end_comm 
+start_comm down three num_delimiter start_comm mosaic one num_delimiter one num_delimiter end_comm 
+start_comm here start_comm boat end_comm 
+start_comm down two num_delimiter start_comm down three num_delimiter end_comm 
+start_comm mosaic three num_delimiter three num_delimiter start_comm up three num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm here start_comm mosaic two end_comm one num_delimiter end_comm 
+start_comm down one num_delimiter start_comm here end_comm 
+start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm backwards start_comm down one num_delimiter end_comm 
+start_comm mosaic three num_delimiter one num_delimiter start_comm boat end_comm 
+start_comm photo end_comm 
+start_comm photo start_comm mosaic one num_delimiter one num_delimiter end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm boat start_comm carry end_comm 
+one boat end_comm 
+start_comm down two num_delimiter start_comm here end_comm 
+start_comm up three num_delimiter start_comm here end_comm 
+start_comm up one num_delimiter start_comm here end_comm 
+start_comm mosaic three num_delimiter two num_delimiter end_comm 
+start_comm down three carry start_comm here end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm mosaic four photo three num_delimiter start_comm up one num_delimiter end_comm 
+start_comm here end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm boat start_comm mosaic three num_delimiter three num_delimiter end_comm 
+start_comm mosaic three num_delimiter one num_delimiter start_comm carry end_comm 
+start_comm down two num_delimiter start_comm boat end_comm 
+start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm carry start_comm carry end_comm 
+start_comm here start_comm 
+start_comm mosaic three num_delimiter one num_delimiter end_comm 
+start_comm here end_comm 
+start_comm carry end_comm 
+start_comm up three num_delimiter start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm down two num_delimiter start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm carry start_comm mosaic one num_delimiter one num_delimiter end_comm 
+start_comm up two num_delimiter start_comm backwards end_comm 
+start_comm start_comm three up two num_delimiter start_comm photo end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm mosaic two carry one num_delimiter end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm carry start_comm down two num_delimiter end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm photo start_comm one two num_delimiter end_comm 
+start_comm up one end_comm start_comm carry end_comm 
+start_comm one three num_delimiter start_comm carry end_comm 
+start_comm up three num_delimiter start_comm photo end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm one three num_delimiter start_comm boat end_comm 
+start_comm here start_comm one one num_delimiter end_comm 
+start_comm down one num_delimiter start_comm carry end_comm 
+start_comm mosaic one num_delimiter one here start_comm boat end_comm 
+start_comm mosaic three num_delimiter four num_delimiter end_comm 
+start_comm boat start_comm down three num_delimiter end_comm 
+start_comm up one num_delimiter start_comm photo end_comm 
+start_comm carry start_comm mosaic one num_delimiter two num_delimiter end_comm 
+start_comm mosaic two num_delimiter one num_delimiter start_comm here end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm down one num_delimiter photo 
+start_comm up two num_delimiter end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm carry start_comm boat end_comm 
+start_comm mosaic one num_delimiter one num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm here end_comm 
+start_comm carry start_comm down three num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm here start_comm carry end_comm 
+start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm boat start_comm photo end_comm 
+start_comm here end_comm 
+start_comm boat end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm boat start_comm carry end_comm 
+start_comm here end_comm 
+start_comm carry start_comm down one num_delimiter end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm mosaic one num_delimiter one num_delimiter start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm boat start_comm here end_comm 
+start_comm mosaic three num_delimiter one num_delimiter start_comm up one num_delimiter end_comm 
+start_comm photo start_comm up one num_delimiter end_comm 
+start_comm boat start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm up three num_delimiter start_comm up one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm here start_comm mosaic one num_delimiter two num_delimiter end_comm 
+start_comm here start_comm boat end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm boat start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm up two num_delimiter start_comm up three num_delimiter end_comm 
+start_comm here start_comm mosaic three num_delimiter two num_delimiter end_comm 
+start_comm down one num_delimiter start_comm down three num_delimiter end_comm 
+start_comm mosaic three num_delimiter three num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm mosaic one num_delimiter three num_delimiter start_comm carry end_comm 
+start_comm mosaic one num_delimiter two num_delimiter start_comm here end_comm 
+start_comm boat start_comm here end_comm 
+start_comm boat start_comm down one num_delimiter end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm here end_comm 
+start_comm here end_comm 
+start_comm down two num_delimiter start_comm boat end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm down three num_delimiter start_comm carry end_comm 
+start_comm down three num_delimiter start_comm photo end_comm 
+start_comm carry start_comm here end_comm 
+start_comm mosaic two num_delimiter one num_delimiter start_comm photo end_comm 
+start_comm boat start_comm up two num_delimiter end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm carry start_comm up three num_delimiter end_comm 
+start_comm boat start_comm down one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm here start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm up one num_delimiter start_comm here end_comm 
+start_comm up two num_delimiter start_comm mosaic two num_delimiter two num_delimiter end_comm 
+start_comm mosaic three num_delimiter two num_delimiter end_comm 
+start_comm photo start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm mosaic one num_delimiter three num_delimiter start_comm photo end_comm 
+start_comm here end_comm 
+start_comm down one num_delimiter start_comm down three num_delimiter end_comm 
+start_comm mosaic three num_delimiter one num_delimiter start_comm up two num_delimiter end_comm 
+start_comm here end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm mosaic one num_delimiter three num_delimiter start_comm down three num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm up one num_delimiter start_comm down three num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm up one num_delimiter start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm up one num_delimiter start_comm boat end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm up two num_delimiter start_comm carry end_comm 
+start_comm boat start_comm down two num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm photo end_comm 
+start_comm down three end_comm end_comm 
+start_comm down one num_delimiter start_comm carry end_comm 
+start_comm carry backwards 
+start_comm mosaic two num_delimiter three num_delimiter start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm boat end_comm 
+start_comm backwards end_comm 
+start_comm here end_comm 
+start_comm carry start_comm up one num_delimiter end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm down three num_delimiter start_comm boat end_comm 
+start_comm boat end_comm 
+start_comm boat start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm photo end_comm 
+start_comm here start_comm photo end_comm 
+start_comm here start_comm mosaic two num_delimiter two num_delimiter end_comm 
+start_comm photo start_comm mosaic one num_delimiter two photo end_comm 
+start_comm boat end_comm 
+start_comm up three num_delimiter start_comm up one num_delimiter end_comm 
+start_comm mosaic one num_delimiter two num_delimiter start_comm photo end_comm 
+start_comm boat start_comm here end_comm 
+start_comm photo end_comm 
+start_comm mosaic three num_delimiter three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm photo one up one num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm here end_comm 
+start_comm here end_comm 
+start_comm boat end_comm 
+start_comm up two num_delimiter start_comm carry end_comm 
+start_comm boat start_comm carry end_comm 
+start_comm boat start_comm down one end_comm end_comm 
+start_comm carry start_comm photo end_comm 
+start_comm down one carry start_comm carry end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm here end_comm 
+start_comm one one num_delimiter start_comm boat end_comm 
+start_comm carry start_comm up one num_delimiter end_comm 
+start_comm up two num_delimiter start_comm up two num_delimiter end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm mosaic three end_comm three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm start_comm one num_delimiter two num_delimiter start_comm here end_comm 
+one mosaic one num_delimiter one num_delimiter backwards 
+start_comm here start_comm mosaic three num_delimiter two here end_comm 
+start_comm carry end_comm 
+start_comm here end_comm 
+start_comm mosaic two num_delimiter three end_comm end_comm 
+start_comm photo end_comm 
+start_comm carry end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm photo start_comm up one num_delimiter start_comm 
+start_comm carry end_comm 
+start_comm down one end_comm end_comm 
+start_comm carry start_comm down one carry end_comm 
+start_comm one three num_delimiter start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm carry start_comm boat end_comm 
+start_comm photo end_comm 
+start_comm mosaic one num_delimiter two num_delimiter start_comm backwards end_comm 
+start_comm down one end_comm end_comm 
+start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm photo start_comm carry end_comm 
+start_comm photo start_comm up two num_delimiter end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm down three num_delimiter start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm photo start_comm down one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm boat start_comm up two num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm mosaic three num_delimiter one num_delimiter end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm boat start_comm here end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm here end_comm 
+start_comm boat start_comm down one num_delimiter end_comm 
+start_comm boat start_comm photo end_comm 
+start_comm mosaic two num_delimiter three num_delimiter start_comm down one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm up one num_delimiter start_comm boat end_comm 
+start_comm up three num_delimiter start_comm photo end_comm 
+start_comm photo start_comm here end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm carry start_comm carry end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm up two num_delimiter start_comm carry end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm here start_comm here end_comm 
+start_comm mosaic one num_delimiter two num_delimiter start_comm down three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm photo start_comm carry end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm here start_comm here end_comm 
+start_comm boat end_comm 
+start_comm here end_comm 
+start_comm here start_comm carry end_comm 
+start_comm up two num_delimiter start_comm boat end_comm 
+start_comm boat end_comm 
+start_comm boat end_comm 
+start_comm boat start_comm boat end_comm 
+start_comm here end_comm 
+start_comm up two num_delimiter start_comm carry end_comm 
+start_comm here end_comm 
+start_comm carry start_comm down three num_delimiter end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm down two num_delimiter start_comm here end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm boat start_comm carry end_comm 
+start_comm photo start_comm up three num_delimiter end_comm 
+start_comm photo start_comm carry end_comm 
+start_comm here end_comm 
+start_comm photo end_comm 
+start_comm boat start_comm photo end_comm 
+start_comm carry end_comm 
+start_comm boat start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm here start_comm here end_comm 
+start_comm photo end_comm 
+start_comm photo start_comm boat end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm mosaic three num_delimiter two num_delimiter start_comm photo end_comm 
+start_comm here start_comm up one num_delimiter end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm down three num_delimiter start_comm down three num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm here end_comm 
+start_comm photo end_comm 
+start_comm here start_comm boat end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm boat start_comm down three num_delimiter end_comm 
+start_comm mosaic three num_delimiter two num_delimiter end_comm 
+start_comm here start_comm up two num_delimiter end_comm 
+start_comm up four num_delimiter start_comm carry end_comm 
+start_comm photo end_comm 
+start_comm mosaic four num_delimiter two num_delimiter start_comm photo end_comm 
+start_comm mosaic start_comm photo three num_delimiter start_comm down start_comm num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm up three photo end_comm 
+start_comm photo end_comm 
+start_comm up three num_delimiter start_comm boat start_comm 
+start_comm boat start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm down two num_delimiter start_comm down two num_delimiter end_comm 
+start_comm here start_comm here end_comm 
+start_comm photo end_comm 
+start_comm one one num_delimiter start_comm mosaic three num_delimiter two num_delimiter end_comm 
+start_comm up two num_delimiter start_comm down two num_delimiter end_comm 
+one boat end_comm 
+start_comm one three num_delimiter start_comm 
+start_comm mosaic one num_delimiter one num_delimiter start_comm photo end_comm 
+start_comm here start_comm down one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm down one num_delimiter start_comm carry end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm up start_comm num_delimiter end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm down two num_delimiter start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm start_comm one num_delimiter one num_delimiter start_comm one two num_delimiter end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm carry start_comm down three num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm photo end_comm 
+start_comm up one num_delimiter start_comm boat end_comm 
+start_comm here start_comm carry end_comm 
+start_comm mosaic three num_delimiter one num_delimiter start_comm photo end_comm 
+start_comm carry end_comm 
+one mosaic two num_delimiter one num_delimiter start_comm boat end_comm 
+start_comm down three num_delimiter start_comm down two num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm here start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm mosaic two num_delimiter two photo end_comm 
+start_comm carry end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm up four num_delimiter start_comm mosaic three num_delimiter two num_delimiter end_comm 
+one boat start_comm photo end_comm 
+start_comm here end_comm 
+start_comm here end_comm 
+start_comm here start_comm down three num_delimiter end_comm 
+start_comm down three num_delimiter start_comm up one carry end_comm 
+start_comm backwards end_comm 
+start_comm here end_comm 
+start_comm photo end_comm 
+start_comm down two num_delimiter start_comm here end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm down two end_comm end_comm 
+start_comm here one here end_comm 
+start_comm here start_comm up three num_delimiter end_comm 
+start_comm down two num_delimiter start_comm here end_comm 
+start_comm photo end_comm 
+start_comm one three num_delimiter start_comm carry end_comm 
+start_comm up one num_delimiter start_comm mosaic three end_comm one num_delimiter end_comm 
+start_comm up three num_delimiter start_comm up three photo end_comm 
+start_comm photo start_comm down two num_delimiter end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm boat start_comm here end_comm 
+start_comm photo end_comm 
+start_comm boat start_comm down three num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm up three num_delimiter start_comm here end_comm 
+start_comm up three num_delimiter start_comm photo end_comm 
+start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm mosaic one num_delimiter three num_delimiter start_comm carry end_comm 
+start_comm boat start_comm mosaic one num_delimiter one num_delimiter end_comm 
+start_comm here start_comm down one num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm here start_comm up three num_delimiter end_comm 
+start_comm boat start_comm mosaic one num_delimiter two num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm down three num_delimiter start_comm boat end_comm 
+start_comm photo end_comm 
+start_comm here end_comm 
+start_comm photo end_comm 
+start_comm mosaic three num_delimiter three num_delimiter start_comm mosaic three num_delimiter three num_delimiter end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm up two num_delimiter start_comm here end_comm 
+start_comm carry end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm here end_comm 
+start_comm here start_comm up three num_delimiter end_comm 
+start_comm mosaic three num_delimiter three num_delimiter start_comm boat end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm up three num_delimiter start_comm here end_comm 
+start_comm up one num_delimiter start_comm carry end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm up one num_delimiter start_comm here end_comm 
+start_comm here start_comm photo end_comm 
+start_comm up three num_delimiter start_comm carry end_comm 
+start_comm here end_comm 
+start_comm photo end_comm 
+start_comm down three num_delimiter start_comm carry end_comm 
+start_comm photo end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm carry start_comm carry end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm here end_comm 
+start_comm here end_comm 
+start_comm mosaic two num_delimiter three num_delimiter start_comm photo end_comm 
+start_comm here start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm carry start_comm boat end_comm 
+start_comm up one num_delimiter start_comm boat end_comm 
+start_comm boat end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm up three num_delimiter start_comm carry end_comm 
+start_comm here end_comm 
+start_comm boat end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm here start_comm photo end_comm 
+start_comm carry start_comm up one num_delimiter end_comm 
+start_comm mosaic three num_delimiter three num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm photo start_comm carry end_comm 
+start_comm photo end_comm 
+start_comm here start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm mosaic three num_delimiter one num_delimiter end_comm 
+start_comm down two num_delimiter start_comm down one num_delimiter end_comm 
+start_comm up two num_delimiter start_comm mosaic two num_delimiter two num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm up three num_delimiter start_comm photo end_comm 
+start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm boat start_comm here end_comm 
+start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm boat start_comm down one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm mosaic two num_delimiter one num_delimiter start_comm photo end_comm 
+start_comm carry end_comm 
+start_comm here end_comm 
+start_comm carry start_comm here end_comm 
+start_comm mosaic three num_delimiter three num_delimiter start_comm carry end_comm 
+start_comm photo start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm here start_comm up three num_delimiter end_comm 
+start_comm down one num_delimiter start_comm here end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm mosaic one num_delimiter three up end_comm 
+start_comm here end_comm 
+start_comm carry end_comm 
+start_comm mosaic one num_delimiter four num_delimiter end_comm 
+start_comm carry start_comm carry end_comm 
+start_comm carry start_comm one one num_delimiter end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm mosaic three num_delimiter three num_delimiter end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm one one num_delimiter start_comm carry end_comm 
+start_comm mosaic one here two num_delimiter start_comm boat end_comm 
+start_comm here end_comm 
+start_comm start_comm two num_delimiter three num_delimiter start_comm here end_comm 
+start_comm up one end_comm start_comm boat end_comm 
+start_comm photo end_comm 
+start_comm up three num_delimiter start_comm boat end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm mosaic three num_delimiter one num_delimiter end_comm 
+start_comm down one num_delimiter start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm one two here end_comm 
+start_comm boat start_comm carry end_comm 
+start_comm up one num_delimiter start_comm boat end_comm 
+start_comm one two num_delimiter end_comm 
+start_comm start_comm three num_delimiter two num_delimiter start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm up three here end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm photo start_comm carry end_comm 
+start_comm photo start_comm up three num_delimiter end_comm 
+start_comm boat start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm carry start_comm carry end_comm 
+start_comm here start_comm mosaic one num_delimiter two up end_comm 
+start_comm carry end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm start_comm one num_delimiter three num_delimiter num_delimiter mosaic two num_delimiter four photo end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm photo start_comm boat end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm start_comm one num_delimiter three num_delimiter one photo end_comm 
+start_comm mosaic three end_comm one num_delimiter start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm up two num_delimiter start_comm backwards end_comm 
+start_comm mosaic one num_delimiter one num_delimiter start_comm down two num_delimiter end_comm 
+start_comm backwards start_comm mosaic three num_delimiter three num_delimiter end_comm 
+start_comm down two num_delimiter one photo end_comm 
+start_comm mosaic three num_delimiter three num_delimiter start_comm carry end_comm 
+start_comm photo start_comm carry end_comm 
+start_comm photo end_comm 
+start_comm here start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm boat end_comm 
+start_comm photo start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm here start_comm here end_comm 
+start_comm here start_comm down three num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm here end_comm 
+start_comm here end_comm 
+start_comm mosaic three num_delimiter two num_delimiter end_comm 
+start_comm up two num_delimiter start_comm carry end_comm 
+start_comm up three num_delimiter start_comm boat end_comm 
+start_comm photo start_comm mosaic three num_delimiter one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm photo end_comm 
+start_comm mosaic one num_delimiter two num_delimiter end_comm 
+start_comm boat start_comm boat end_comm 
+start_comm here start_comm carry end_comm 
+start_comm down three num_delimiter start_comm mosaic one num_delimiter two num_delimiter end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm mosaic one num_delimiter one num_delimiter end_comm 
+start_comm here end_comm 
+start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm up three num_delimiter start_comm carry end_comm 
+start_comm mosaic three num_delimiter one num_delimiter end_comm 
+start_comm carry start_comm up three num_delimiter end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm carry end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm photo start_comm here end_comm 
+start_comm mosaic three num_delimiter two num_delimiter end_comm 
+start_comm mosaic one num_delimiter three num_delimiter start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm photo start_comm down one num_delimiter end_comm 
+start_comm photo start_comm here end_comm 
+start_comm mosaic three num_delimiter one num_delimiter start_comm boat end_comm 
+start_comm down two num_delimiter start_comm photo end_comm 
+start_comm carry start_comm up one num_delimiter end_comm 
+start_comm photo start_comm here end_comm 
+start_comm boat end_comm 
+start_comm here end_comm 
+start_comm carry start_comm boat end_comm 
+start_comm mosaic one num_delimiter one num_delimiter start_comm boat end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm carry start_comm mosaic three num_delimiter one num_delimiter end_comm 
+start_comm boat start_comm down two num_delimiter end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm boat start_comm down one num_delimiter end_comm 
+start_comm mosaic two num_delimiter three num_delimiter start_comm up three num_delimiter end_comm 
+start_comm boat start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm carry start_comm mosaic two num_delimiter two num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm here start_comm boat end_comm 
+start_comm up one num_delimiter start_comm here end_comm 
+start_comm boat start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm down two num_delimiter start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm here end_comm 
+start_comm here end_comm 
+start_comm photo start_comm boat end_comm 
+start_comm here start_comm photo end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm photo start_comm boat end_comm 
+start_comm up one num_delimiter start_comm here end_comm 
+start_comm here end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm carry start_comm boat end_comm 
+start_comm photo start_comm boat end_comm 
+start_comm down one num_delimiter start_comm up two num_delimiter end_comm 
+start_comm down three num_delimiter start_comm boat end_comm 
+start_comm photo start_comm boat end_comm 
+start_comm one one num_delimiter start_comm carry end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm up one carry start_comm boat end_comm 
+start_comm up three num_delimiter start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm carry start_comm here end_comm 
+start_comm carry start_comm one one num_delimiter end_comm 
+start_comm up two num_delimiter start_comm here end_comm 
+start_comm photo start_comm up three num_delimiter end_comm 
+start_comm boat start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm up two num_delimiter start_comm down one num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm down one num_delimiter start_comm one three num_delimiter end_comm 
+start_comm down one num_delimiter start_comm up three num_delimiter end_comm 
+start_comm carry start_comm boat end_comm 
+start_comm one two num_delimiter end_comm 
+start_comm down one carry end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm mosaic three num_delimiter two num_delimiter start_comm mosaic three end_comm one num_delimiter end_comm 
+start_comm carry start_comm up three num_delimiter end_comm 
+start_comm up three num_delimiter start_comm here end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm photo start_comm carry end_comm 
+start_comm photo start_comm mosaic one num_delimiter one num_delimiter end_comm 
+start_comm photo start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm photo end_comm 
+start_comm boat start_comm photo end_comm 
+start_comm mosaic three num_delimiter two num_delimiter start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm carry start_comm here end_comm 
+start_comm photo end_comm 
+start_comm boat start_comm one three num_delimiter end_comm 
+start_comm carry start_comm carry end_comm 
+start_comm photo start_comm here end_comm 
+start_comm photo start_comm carry end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm up one num_delimiter start_comm up end_comm 
+start_comm carry end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm up two num_delimiter start_comm photo end_comm 
+start_comm boat start_comm boat end_comm 
+start_comm photo start_comm here end_comm 
+start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm up three num_delimiter start_comm boat end_comm 
+one carry end_comm 
+start_comm photo start_comm photo end_comm 
+one boat start_comm up two num_delimiter end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm photo start_comm here end_comm 
+start_comm photo start_comm up two num_delimiter end_comm 
+start_comm photo start_comm up three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm photo start_comm here end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm mosaic one num_delimiter two photo start_comm one four num_delimiter end_comm 
+start_comm here end_comm 
+start_comm one four num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm up one num_delimiter start_comm down two num_delimiter end_comm 
+start_comm here end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm up one num_delimiter start_comm carry end_comm 
+start_comm here end_comm 
+start_comm here start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm here end_comm 
+start_comm mosaic one num_delimiter three num_delimiter start_comm carry end_comm 
+start_comm here end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm mosaic one num_delimiter one num_delimiter end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm boat end_comm 
+start_comm mosaic one num_delimiter one num_delimiter end_comm 
+start_comm mosaic three num_delimiter three num_delimiter start_comm photo end_comm 
+start_comm up three num_delimiter start_comm photo end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm down three num_delimiter start_comm mosaic two num_delimiter two num_delimiter end_comm 
+start_comm here start_comm boat end_comm 
+start_comm boat end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm down one num_delimiter start_comm up three num_delimiter end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm boat start_comm down three num_delimiter end_comm 
+start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm carry start_comm photo end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm down one num_delimiter start_comm up three num_delimiter end_comm 
+start_comm boat start_comm boat end_comm 
+start_comm mosaic one num_delimiter two num_delimiter end_comm 
+start_comm mosaic one num_delimiter one num_delimiter start_comm photo end_comm 
+start_comm mosaic two num_delimiter two num_delimiter start_comm carry end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm boat end_comm 
+start_comm carry start_comm up one num_delimiter end_comm 
+start_comm down one num_delimiter start_comm up two num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm here end_comm 
+start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm here start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm mosaic three num_delimiter two num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm mosaic three num_delimiter three num_delimiter end_comm 
+start_comm boat start_comm down two num_delimiter end_comm 
+start_comm boat start_comm boat end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm down two num_delimiter start_comm down one num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm carry start_comm carry end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm up three num_delimiter start_comm here end_comm 
+start_comm here end_comm 
+start_comm mosaic three num_delimiter three num_delimiter end_comm 
+start_comm down two num_delimiter start_comm boat end_comm 
+start_comm boat start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm mosaic one num_delimiter two num_delimiter start_comm mosaic three num_delimiter one num_delimiter end_comm 
+start_comm boat start_comm carry end_comm 
+start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm up one num_delimiter start_comm down two num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm here end_comm 
+start_comm here end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm here end_comm 
+start_comm photo start_comm boat end_comm 
+start_comm up three num_delimiter start_comm boat end_comm 
+start_comm mosaic three num_delimiter two num_delimiter start_comm backwards end_comm 
+start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm start_comm three num_delimiter one num_delimiter start_comm down three num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm mosaic two num_delimiter two num_delimiter end_comm 
+start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm one three num_delimiter start_comm photo end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm here start_comm photo end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm mosaic three num_delimiter one num_delimiter start_comm here start_comm 
+start_comm carry end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm backwards start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm photo start_comm carry end_comm 
+start_comm down one up start_comm photo end_comm 
+start_comm carry start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm up two num_delimiter start_comm photo end_comm 
+start_comm start_comm one num_delimiter two num_delimiter start_comm boat end_comm 
+start_comm boat start_comm mosaic three num_delimiter three num_delimiter end_comm 
+start_comm down three num_delimiter start_comm boat end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm down one num_delimiter start_comm up one num_delimiter start_comm 
+start_comm up three num_delimiter start_comm mosaic three num_delimiter two num_delimiter end_comm 
+start_comm here start_comm up three num_delimiter end_comm 
+start_comm boat start_comm mosaic two num_delimiter two num_delimiter end_comm 
+start_comm down one num_delimiter start_comm here end_comm 
+start_comm start_comm one num_delimiter one num_delimiter start_comm photo end_comm 
+start_comm carry start_comm photo end_comm 
+start_comm boat start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm here start_comm photo end_comm 
+start_comm carry end_comm 
+start_comm here start_comm boat end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm photo start_comm boat end_comm 
+start_comm down one end_comm start_comm one three num_delimiter end_comm 
+start_comm up one num_delimiter start_comm down three num_delimiter end_comm 
+start_comm down one num_delimiter start_comm down one num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm up two num_delimiter start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm carry end_comm 
+start_comm here end_comm 
+start_comm boat start_comm boat end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm boat start_comm mosaic three num_delimiter one num_delimiter end_comm 
+start_comm here start_comm boat end_comm 
+start_comm here end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm boat start_comm here end_comm 
+start_comm carry start_comm up three num_delimiter end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm down two num_delimiter start_comm up three num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm carry end_comm 
+start_comm down three num_delimiter end_comm 
+start_comm mosaic one num_delimiter two num_delimiter start_comm down one num_delimiter end_comm 
+start_comm photo end_comm 
+start_comm boat end_comm 
+start_comm mosaic three num_delimiter three num_delimiter end_comm 
+start_comm down one num_delimiter start_comm down three num_delimiter end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm here start_comm carry end_comm 
+start_comm photo end_comm 
+start_comm mosaic two num_delimiter two num_delimiter start_comm boat end_comm 
+start_comm photo end_comm 
+start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm boat start_comm carry end_comm 
+start_comm carry end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm mosaic two num_delimiter two num_delimiter start_comm boat end_comm 
+start_comm down one num_delimiter start_comm here end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm here end_comm 
+start_comm down two num_delimiter start_comm down two num_delimiter end_comm 
+start_comm mosaic two num_delimiter two num_delimiter end_comm 
+start_comm mosaic two num_delimiter one num_delimiter start_comm here end_comm 
+start_comm here start_comm here end_comm 
+start_comm photo start_comm up two num_delimiter end_comm 
+start_comm here start_comm carry end_comm 
+start_comm here end_comm 
+start_comm up two num_delimiter start_comm here end_comm 
+start_comm boat end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm carry start_comm up two num_delimiter end_comm 
+start_comm here start_comm carry end_comm 
+start_comm photo start_comm carry end_comm 
+start_comm mosaic one num_delimiter one num_delimiter start_comm here end_comm 
+start_comm down three num_delimiter start_comm boat end_comm 
+start_comm carry end_comm 
+start_comm here end_comm 
+start_comm up two num_delimiter start_comm up three num_delimiter end_comm 
+start_comm boat end_comm 
+start_comm up two num_delimiter start_comm mosaic one num_delimiter two num_delimiter end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm mosaic three num_delimiter two num_delimiter start_comm carry end_comm 
+start_comm down one num_delimiter start_comm photo end_comm 
+start_comm up three num_delimiter start_comm down two num_delimiter end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm here end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm up one num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm here end_comm 
+start_comm here end_comm 
+start_comm boat start_comm carry end_comm 
+start_comm boat end_comm 
+start_comm here start_comm down one num_delimiter end_comm 
+start_comm boat start_comm up one num_delimiter end_comm 
+start_comm up one num_delimiter start_comm up two num_delimiter end_comm 
+start_comm here end_comm 
+start_comm photo end_comm 
+start_comm up two num_delimiter end_comm 
+start_comm down one num_delimiter end_comm 
+start_comm here start_comm boat end_comm 
+start_comm up two num_delimiter start_comm boat end_comm 
+start_comm up three num_delimiter end_comm 
+start_comm mosaic three num_delimiter three num_delimiter start_comm photo end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm mosaic three num_delimiter one num_delimiter start_comm carry end_comm 
+start_comm mosaic one num_delimiter two num_delimiter end_comm 
+start_comm photo start_comm down two num_delimiter end_comm 
+start_comm up two num_delimiter start_comm here end_comm 
+start_comm here start_comm up two end_comm end_comm 
+start_comm photo end_comm 
+start_comm up three num_delimiter start_comm photo end_comm 
+start_comm up three photo start_comm 
+start_comm carry end_comm 
+start_comm here start_comm photo start_comm 
+start_comm carry end_comm 
+start_comm one one num_delimiter start_comm one three num_delimiter three num_delimiter end_comm 
+start_comm carry end_comm 
+start_comm carry start_comm down two num_delimiter end_comm 
+start_comm here end_comm 
+start_comm mosaic two num_delimiter two here end_comm 
+start_comm up three num_delimiter start_comm mosaic one num_delimiter three num_delimiter end_comm 
+start_comm carry start_comm boat end_comm 
+start_comm photo end_comm 
+start_comm up two num_delimiter start_comm up one here end_comm 
+start_comm mosaic three num_delimiter one num_delimiter end_comm 
+start_comm here end_comm 
+start_comm boat start_comm here end_comm 
+start_comm down two num_delimiter end_comm 
+start_comm boat start_comm photo end_comm 
+start_comm photo start_comm photo end_comm 
+start_comm up one carry end_comm 
+start_comm carry end_comm 
+start_comm down three num_delimiter start_comm here backwards 
+start_comm photo start_comm mosaic two num_delimiter three num_delimiter end_comm 
+start_comm down two num_delimiter start_comm mosaic one photo three carry end_comm 
+start_comm up two end_comm start_comm photo end_comm 
+start_comm mosaic two num_delimiter one num_delimiter end_comm 
+start_comm up three up end_comm 
+start_comm carry start_comm photo end_comm 
+start_comm up one num_delimiter start_comm photo end_comm 
+start_comm photo end_comm 
+start_comm mosaic three here two num_delimiter start_comm here end_comm 
+start_comm mosaic one here one carry start_comm up three num_delimiter end_comm 
+start_comm up two end_comm start_comm boat end_comm 
+start_comm backwards end_comm 
+start_comm mosaic three num_delimiter three num_delimiter end_comm 
